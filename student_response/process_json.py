@@ -3,7 +3,7 @@ import logging
 import boto3
 import re
 import traceback
-
+# from decimal import Decimal
 
 
 # Configure logging
@@ -51,30 +51,45 @@ def process_custom_fields(custom_fields):
 
 def process_question_fields(questions):
     results = []
+    record_question=False
     for question in questions:
+        # to record + questions
+        if "Social Capital" in question['title']:
+            record_question=True
+        if "When are you completing this inventory" in question['title']:
+            record_question=False
+            
         if question['order'] not in (37,38,51,62,75,76):
             if question['type']['object_name'] in ('text_choice','typehead') and question['response']!= 'None':
                 result = {
                         'order': question['order']
                         }
                 if question['score'] != None:
-                    result['score_value']= float(question['score'].get('score_value', '0'))
-                    result['score_max']= float(question['score'].get('score_max', '0'))
-                    # result['score_custom_as_percentage']= float(question['score'].get('score_custom_as_percentage', '0').strip('%')) / 100
+                    result['score_value']= question['score'].get('score_value', '0')
+                    result['score_max']= question['score'].get('score_max', '0')
+                    # result['score_custom_as_percentage']= question['score'].get('score_custom_as_percentage', '0').strip('%')
                     if "Not Applicable" in question['response']['text'] or "Not Observed" in question['response']['text'] :
-                        result['score_value']= 5.0
+                        result['score_value']= '5.0'
+                        
+                    if record_question==True:
+                        result['question']= question['title']
+                        result['response']= question['response']['text']
+                    
                     results.append(result)
 
                 else:
-                    result['score_value']=  0.0
-                    result['score_max']= 0.0
-                    # 'score_custom_as_percentage': 0.0
+                    result['score_value']=  '0.0'
+                    result['score_max']= '0.0'
+                    # 'score_custom_as_percentage': '0.0'
                     results.append(result)
             elif question['type']['object_name'] == 'form':
                 result = {
                     'order': question['order'],
                     'response': {}
                 }
+                if record_question==True:
+                    result['question']= question['title']
+                    
                 for response in question['responses']:
                     if 'text' in response and 'response' in response:
                         key = response['text'].strip().replace(" ","_")
@@ -85,14 +100,16 @@ def process_question_fields(questions):
                 result = {
                         'order': question['order']
                     }
+                if record_question==True:
+                    result['question']= question['title']
                 if question['order'] == 75:
                     result['response'] = [resp.strip() for resp in question['response'].split(',')]
                 if question['score'] != None:
-                    result['score_value'] = float(question['score'].get('score_value', '0'))
-                    result['score_max'] = float(question['score'].get('score_max', '0'))
+                    result['score_value'] = question['score'].get('score_value', '0')
+                    result['score_max'] = question['score'].get('score_max', '0')
                 else:
-                    result['score_value']=  0.0
-                    result['score_max']= 0.0
+                    result['score_value']=  '0.0'
+                    result['score_max']= '0.0'
                 
                 results.append(result)
 
@@ -101,6 +118,8 @@ def process_question_fields(questions):
                     'order': question['order'],
                     'response': {}
                 }
+                if record_question==True:
+                    result['question']= question['title']
                 if question['order'] in (37,38,51):
                     for response in question['responses']:
                         if 'text' in response and 'response' in response:
@@ -127,6 +146,7 @@ def process_question_fields(questions):
 
     return results
     
+    
 def process_question_blocks(blocks):
     results = []
     for block in blocks:
@@ -134,17 +154,17 @@ def process_question_blocks(blocks):
             result = {
                 'title': block['title'],
                 'order': block['order'],
-                'score_value': float(block['score'].get('score_value', 0)),  
-                'score_max': float(block['score'].get('score_max', 0)),  
-                'score_quiz_as_percentage': float(block['score'].get('score_quiz_as_percentage', '0').strip('%')) / 100  
+                'score_value': block['score'].get('score_value', '0'),  
+                'score_max': block['score'].get('score_max', '0'),  
+                'score_quiz_as_percentage': block['score'].get('score_quiz_as_percentage', '0').strip('%')
             }
         else: 
             result = {
                 'title': block['title'],
                 'order': block['order'],
-                'score_value': 0.0,
-                'score_max': 0.0,
-                'score_quiz_as_percentage': 0.0
+                'score_value': '0.0',
+                'score_max': '0.0',
+                'score_quiz_as_percentage': '0.0'
             }
         results.append(result)
     return results
@@ -160,7 +180,7 @@ def process_formula_results(formula_results):
             'name': formula['name'],
             # 'unique_identifier': formula['unique_identifier'],
             # 'formula': formula['formula'],
-            'result': float(formula['result'])
+            'result': str(formula['result'])
         }
         processed_results.append(processed_result)
     return processed_results
@@ -198,35 +218,3 @@ def process_all_data(data):
         logger.error(error_msg + f" At line: {traceback.format_exc()}")
         raise Exception(error_msg)
 
-def lambda_handler(event, context):
-    data = json.loads(event['body'])
-    logger.info("Processing the input data")
-    # logger.info(data)
-    
-    # validate outcomes
-    valid_pdf_report = any(outcome['title'] == "PDF Report" for outcome in data['outcomes'])
-    if not valid_pdf_report:
-        return {
-            'statusCode': 400,
-            'headers': {'Content-Type': 'application/json'},
-            'body': json.dumps("Response Invalid")
-        }
-    
-    try:
-        user_data = process_all_data(data)
-        logger.info(user_data)
-    
-    except Exception as e:
-        error_msg = f"Unexpected error: {str(e)}"
-        logger.error(error_msg + f" At line: {traceback.format_exc()}")
-        return {
-            'statusCode': 500,
-            'headers': {'Content-Type': 'application/json'},
-            'body': json.dumps(f"An error occurred: {e}")
-        }
-
-    return {
-        'statusCode': 200,
-        'headers': {'Content-Type': 'application/json'},
-        'body': json.dumps("Data was processed successfully.")
-    }

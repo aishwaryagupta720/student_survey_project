@@ -1,0 +1,1769 @@
+{
+    "id": 110669849,
+    "timestamp": "2024-08-29 11:04:44",
+    "timestamp_utc": "2024-08-29 17:14:15",
+    "unique_identifier": "47405740-3df7-4253-9ce2-91679cccefd9",
+    "latitude": "None",
+    "longitude": "None",
+    "shared": 0,
+    "duration": 75,
+    "partial": false,
+    "quiz_time": "None",
+    "user_agent": "None",
+    "ip_address": "None",
+    "device": "None",
+    "score": "None",
+    "max_score": "None",
+    "custom_score": 60,
+    "max_custom_score": 96,
+    "custom_score_as_percentage": "63%",
+    "quiz_score_as_percentage": "0%",
+    "respondent": {
+        "name": "A",
+        "last_name": "PG",
+        "email": "apgupta@scu.edu",
+        "external_id": "None",
+        "custom_data": "None",
+        "unique_identifier": "hxixc3hzd",
+        "do_not_mail": false,
+        "user_id": "None",
+        "organization_id": "None",
+        "updated_at": "2024-08-28T17:45:17.000000Z",
+        "has_additional_data": false,
+        "fields": []
+    },
+    "campaign": {
+        "title": "None",
+        "url": "None"
+    },
+    "language": {
+        "name": "English",
+        "code": "en"
+    },
+    "outcomes": [
+        {
+            "title": "PDF Report",
+            "text": "<p class=\"text-align-center\" style=\"text-align: center;\">  <strong>    <span style=\"font-size: 35px;\">Thank You!</span>  </strong><strong><span style=\"font-size: 35px;\"><br></span></strong></p>\n<p class=\"text-align-center\" style=\"text-align: center;\"><span class=\"font-large\"><br></span></p>\n<p class=\"text-align-center\" style=\"text-align: center; font-size: 25px;\">      <strong>      <a href=\"https://app.careerreadinessinventory.academy/reportr-download/63c14c03-92d1-4b00-9448-2ef21ef9cf04/*|SESSION_SIGNATURE|*?cached=true\" target=\"_blank\" style=\"background-color: #feb323; color: #000000; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block;\">        Access Your Student\\'s Report      </a>    </strong>  </p>"
+        }
+    ],
+    "survey": {
+        "url": "evaluator-start",
+        "unique_identifier": "9e2c0e18-3d58-43e2-950c-91ffc7f137af",
+        "title": "NACE Career Readiness Inventory Evaluation",
+        "last_update": "2024-08-28 22:35:09",
+        "user": "axel@careerlaunch.academy"
+    },
+    "access_code": {
+        "code": "None"
+    },
+    "custom_fields": [
+        {
+            "name": "cf1",
+            "text": "First Name",
+            "value": "A"
+        },
+        {
+            "name": "cf2",
+            "text": "Last Name",
+            "value": "PG"
+        },
+        {
+            "name": "cf3",
+            "text": "Email",
+            "value": "apgupta@scu.edu"
+        },
+        {
+            "name": "cf4",
+            "text": "Organization Name",
+            "value": "Career Launch"
+        },
+        {
+            "name": "cf5",
+            "text": "Org Type",
+            "value": "4yr-private"
+        },
+        {
+            "name": "cf6",
+            "text": "Student First",
+            "value": "Axel"
+        },
+        {
+            "name": "cf7",
+            "text": "Student Last",
+            "value": "Test"
+        },
+        {
+            "name": "cf8",
+            "text": "Student Email",
+            "value": "axel@careerlaunch.academy"
+        },
+        {
+            "name": "cf9",
+            "text": "Student Response Unique ID",
+            "value": "054f8c62-e08f-46c0-a56a-f3a98e9e0a08"
+        },
+        {
+            "name": "cf10",
+            "text": "Version",
+            "value": "nace-only"
+        },
+        {
+            "name": "cf11",
+            "text": "Student - Communication Score",
+            "value": "3.5"
+        },
+        {
+            "name": "cf12",
+            "text": "Student - Teamwork Score",
+            "value": "3"
+        },
+        {
+            "name": "cf13",
+            "text": "Student - Career & Self-Development Score",
+            "value": "1.33"
+        },
+        {
+            "name": "cf14",
+            "text": "Student - Professionalism Score",
+            "value": "1.33"
+        },
+        {
+            "name": "cf15",
+            "text": "Student - Leadership Score",
+            "value": "2.67"
+        },
+        {
+            "name": "cf16",
+            "text": "Student - Critical Thinking Score",
+            "value": "2.67"
+        },
+        {
+            "name": "cf17",
+            "text": "Student - Technology Score",
+            "value": "1.33"
+        },
+        {
+            "name": "cf18",
+            "text": "Student - Equity & Inclusion Score",
+            "value": "1"
+        },
+        {
+            "name": "cf19",
+            "text": "Student - Overall Career Readiness Score",
+            "value": "2.1"
+        },
+        {
+            "name": "cf20",
+            "text": "Communication - Q1",
+            "value": "4"
+        },
+        {
+            "name": "cf21",
+            "text": "Communication - Q2",
+            "value": "2"
+        },
+        {
+            "name": "cf22",
+            "text": "Communication - Q3",
+            "value": "4"
+        },
+        {
+            "name": "cf23",
+            "text": "Communication - Q4",
+            "value": "4"
+        },
+        {
+            "name": "cf24",
+            "text": "Teamwork - Q1",
+            "value": "2"
+        },
+        {
+            "name": "cf25",
+            "text": "Teamwork - Q2",
+            "value": "3"
+        },
+        {
+            "name": "cf26",
+            "text": "Teamwork - Q3",
+            "value": "4"
+        },
+        {
+            "name": "cf27",
+            "text": "Career & Self Development - Q1",
+            "value": "2"
+        },
+        {
+            "name": "cf28",
+            "text": "Career & Self Development - Q2",
+            "value": "1"
+        },
+        {
+            "name": "cf29",
+            "text": "Career & Self Development - Q3",
+            "value": "1"
+        },
+        {
+            "name": "cf30",
+            "text": "Professionalism - Q1",
+            "value": "1"
+        },
+        {
+            "name": "cf31",
+            "text": "Professionalism - Q2",
+            "value": "2"
+        },
+        {
+            "name": "cf32",
+            "text": "Professionalism - Q3",
+            "value": "1"
+        },
+        {
+            "name": "cf33",
+            "text": "Leadership - Q1",
+            "value": "3"
+        },
+        {
+            "name": "cf34",
+            "text": "Leadership - Q2",
+            "value": "2"
+        },
+        {
+            "name": "cf35",
+            "text": "Leadership - Q3",
+            "value": "3"
+        },
+        {
+            "name": "cf36",
+            "text": "Critical Thinking - Q1",
+            "value": "3"
+        },
+        {
+            "name": "cf37",
+            "text": "Critical Thinking - Q2",
+            "value": "1"
+        },
+        {
+            "name": "cf38",
+            "text": "Critical Thinking - Q3",
+            "value": "4"
+        },
+        {
+            "name": "cf39",
+            "text": "Technology - Q1",
+            "value": "2"
+        },
+        {
+            "name": "cf40",
+            "text": "Technology - Q2",
+            "value": "1"
+        },
+        {
+            "name": "cf41",
+            "text": "Technology - Q3",
+            "value": "1"
+        },
+        {
+            "name": "cf42",
+            "text": "Equity & Inclusion - Q1",
+            "value": "1"
+        },
+        {
+            "name": "cf43",
+            "text": "Equity & Inclusion - Q2",
+            "value": "1"
+        },
+        {
+            "name": "cf44",
+            "text": "Equity & Inclusion - Q3",
+            "value": "1"
+        },
+        {
+            "name": "cf45",
+            "text": "Opportunity Type",
+            "value": "Internship"
+        },
+        {
+            "name": "cf46",
+            "text": "Average Hours per Week",
+            "value": "23"
+        },
+        {
+            "name": "cf47",
+            "text": "Total Number of Weeks",
+            "value": "23"
+        },
+        {
+            "name": "cf48",
+            "text": "Pay Status",
+            "value": "Paid"
+        },
+        {
+            "name": "cf49",
+            "text": "Academic Credit Status",
+            "value": "Credit"
+        },
+        {
+            "name": "cf50",
+            "text": "Academic Level",
+            "value": "Bachelor's - 2nd Year"
+        },
+        {
+            "name": "cf51",
+            "text": "Program of Study",
+            "value": "Computer Engineering Technologies/Technicians"
+        },
+        {
+            "name": "cf52",
+            "text": "Gender",
+            "value": "Woman"
+        },
+        {
+            "name": "cf53",
+            "text": "Demographic Category",
+            "value": "Prefer not to respond"
+        },
+        {
+            "name": "cf54",
+            "text": "First Gen Status",
+            "value": "Grade School"
+        },
+        {
+            "name": "cf55",
+            "text": "Disability",
+            "value": "Yes"
+        },
+        {
+            "name": "cf56",
+            "text": "LGBTQ+",
+            "value": "Prefer not to respond"
+        },
+        {
+            "name": "cf57",
+            "text": "English - Primary Language",
+            "value": "Yes"
+        },
+        {
+            "name": "cf58",
+            "text": "Parent to Child",
+            "value": "No"
+        },
+        {
+            "name": "cf59",
+            "text": "Veteran Status",
+            "value": "Prefer not to respond"
+        },
+        {
+            "name": "cf60",
+            "text": "Primary Caregiver",
+            "value": "Yes"
+        },
+        {
+            "name": "cf61",
+            "text": "Financial Sources",
+            "value": "Private Student Loans"
+        },
+        {
+            "name": "cf62",
+            "text": "Age",
+            "value": "23"
+        },
+        {
+            "name": "cf63",
+            "text": "Use Case ID",
+            "value": "testing"
+        },
+        {
+            "name": "cf64",
+            "text": "Semester/Quarter",
+            "value": "Fall 24"
+        }
+    ],
+    "questions": [
+        {
+            "unique_identifier": "9f8ffff7-5580-4a2e-b250-b5fe5d53f224",
+            "order": 1,
+            "title": "Enter Your Student's Information",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.form.name",
+                "object_name": "form"
+            },
+            "responses": [
+                {
+                    "answer": {
+                        "unique_identifier": "0426d175-ffa7-4596-a21f-05d47aa0dce0",
+                        "answer_type_id": 3
+                    },
+                    "text": "First Name",
+                    "response": "None"
+                },
+                {
+                    "answer": {
+                        "unique_identifier": "47d53ca6-82f0-41e7-9f68-1e5303e860fc",
+                        "answer_type_id": 3
+                    },
+                    "text": "Last Name",
+                    "response": "None"
+                },
+                {
+                    "answer": {
+                        "unique_identifier": "d722d1d2-3924-4881-b5b8-f8191b939e0f",
+                        "answer_type_id": 4
+                    },
+                    "text": "*|intro_field4_response|* Student Email",
+                    "response": "None"
+                }
+            ],
+            "response": "",
+            "feedback": "None",
+            "score": "None"
+        },
+        {
+            "unique_identifier": "b4a2d9dc-0005-4a12-a1bd-c738fe7ee02b",
+            "order": 3,
+            "title": "The Skills Employers Value the Most\nThis inventory is centered on the National Association of Colleges and Employers’ (NACE) research that has identified the eight (8) skills that employers value most, which are called the NACE Career Readiness Competencies.&nbsp;\nThe research included 18-months of field testing for validity, reliability, and usability with over 100 colleges and 600 participants.\nNACE’s research has defined four (4) skill levels. Here are the definitions:\nEmerging Knowledge — The student has an emerging awareness of the behavior, its importance, and related concepts.\nUnderstanding — The student demonstrates an understanding of the behavior and related concepts.\nEarly Application — The student sometimes applies the behavior.\nAdvanced Application — The behavior is consistent and integrated into the student’s workplace behaviors.",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_only.name",
+                "object_name": "plaintext"
+            },
+            "responses": [],
+            "response": {
+                "text": "None",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": "None"
+        },
+        {
+            "unique_identifier": "9d7c716d-552d-4423-bbcc-cc6fc5ec0815",
+            "order": 2,
+            "title": "Evaluating Your Student\nNotes:    Review the competency definition and behaviors, then select the option that corresponds to your observations of the student.        Use the \"Not Observed\" response when you do not have enough information to assess. Consider students with disabilities and neurodiverse needs and provide reasonable adjustments as appropriate.        Your responses are personal and do not reflect the views of any organization to which you belong now or to which you have belonged in the past.",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_only.name",
+                "object_name": "plaintext"
+            },
+            "responses": [],
+            "response": {
+                "text": "None",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": "None"
+        },
+        {
+            "unique_identifier": "334b9ebd-5200-45d9-86ab-9a1e338ed92f",
+            "order": 4,
+            "title": "Communication                Clearly and effectively exchange information, ideas, facts, and perspectives with persons inside and outside of an organization.",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_only.name",
+                "object_name": "plaintext"
+            },
+            "responses": [],
+            "response": {
+                "text": "None",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": "None"
+        },
+        {
+            "unique_identifier": "8eed6538-97ce-4438-9574-7c02e23570d5",
+            "order": 5,
+            "title": "Oral&nbsp;Communication",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "ce1a3d85-869b-4388-8c74-3d6e17fd3795"
+                },
+                "text": "Consistently uses effective oral communication skills to convey meaning.",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "4.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "100%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "f7551bb2-6fbb-407b-ac2d-57680155ce8f",
+            "order": 6,
+            "title": "Written&nbsp;Communication",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "acfdd711-7d6c-4319-acd4-6bb659be96fb"
+                },
+                "text": "Recognizes the elements of effective written communication skills, such as using clear topic sentences and providing evidence to support claims.",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "1.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "25%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "d859293e-5d11-460f-9dec-e8a028cdfd8e",
+            "order": 7,
+            "title": "Non-verbal Communication",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "f6a7fadb-4f21-4884-852a-c1746e633ef1"
+                },
+                "text": "Recognizes the elements of effective non-verbal communication skills, such as monitoring body language and posture, proximity, gestures, and eye contact.",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "1.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "25%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "58fbd16c-8584-4d98-a4f6-ee534c7ee5ac",
+            "order": 8,
+            "title": "Active Listening",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "78fe2690-86b5-48b6-8f6e-a095c91c520e"
+                },
+                "text": "Sometimes uses active listening skills when communicating with others.",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "3.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "75%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "7f5da976-f294-4c6f-828a-531a3309f188",
+            "order": 9,
+            "title": "Teamwork                Build and maintain collaborative relationships to work effectively toward common goals, while appreciating diverse viewpoints and shared responsibilities.",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_only.name",
+                "object_name": "plaintext"
+            },
+            "responses": [],
+            "response": {
+                "text": "None",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": "None"
+        },
+        {
+            "unique_identifier": "fc99bbd3-e1dc-4f03-bedb-a424fb62604e",
+            "order": 10,
+            "title": "Build Relationships for&nbsp;Collaboration",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "fc102285-ed69-45d3-be5d-8717ed45e413"
+                },
+                "text": "Sometimes builds strong, positive work relationships with colleagues for collaboration.",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "3.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "75%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "c3d78d1e-d09c-4d2d-9051-cbfd8b89c129",
+            "order": 11,
+            "title": "Respect Diverse&nbsp;Perspectives",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "783eb276-f584-437e-b282-86677e16932b"
+                },
+                "text": "Sometimes shows respect for and includes all people in the workplace, including those from diverse backgrounds.",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "3.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "75%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "6cc104b7-ea24-4fcd-bcd7-ad0a718994ff",
+            "order": 12,
+            "title": "Integrate Strengths",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "02051d96-893b-49d2-8d45-b64d115656a2"
+                },
+                "text": "Sometimes integrates their own and their colleagues’ strengths, knowledge, and talents into the team’s performance.",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "3.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "75%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "32789193-6b68-4d3a-918f-4533ffb1bf3c",
+            "order": 13,
+            "title": "Career & Self-Development                Proactively develop oneself and one’s career through continual personal and professional learning, awareness of one’s strengths and weaknesses, navigation of career opportunities, and networking to build relationships within and without (i.e., outside of) one’s organization.",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_only.name",
+                "object_name": "plaintext"
+            },
+            "responses": [],
+            "response": {
+                "text": "None",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": "None"
+        },
+        {
+            "unique_identifier": "a8e30614-9ee9-4380-8dc4-844d521cd866",
+            "order": 14,
+            "title": "Awareness of&nbsp;Strengths &&nbsp;Challenges",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "1654dd9c-e880-4fdd-b735-9e6466f64fbb"
+                },
+                "text": "Understands how strengths and challenges can shape career paths and goals.",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "2.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "50%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "0953ada1-77e7-4d5d-a3e1-8708e5db5f39",
+            "order": 15,
+            "title": "Professional&nbsp;Development",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "9c953c29-279a-4fae-81a8-9e83818e807c"
+                },
+                "text": "Sometimes seeks out professional development opportunities for achieving career goals.",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "3.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "75%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "7c7c6248-7b54-454e-89e0-f500429483f7",
+            "order": 16,
+            "title": "Networking",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "7c091a95-d43c-4ec3-8a00-6b33db61637e"
+                },
+                "text": "Consistently uses networks to build new relationships and pathways that align with career goals.",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "4.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "100%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "5fc29ecd-7626-43ab-bfc4-a7db7f29bb92",
+            "order": 17,
+            "title": "Professionalism                Knowing work environments differ greatly, understand and demonstrate effective work habits, and act in the interest of the larger community and workplace.",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_only.name",
+                "object_name": "plaintext"
+            },
+            "responses": [],
+            "response": {
+                "text": "None",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": "None"
+        },
+        {
+            "unique_identifier": "1565beb2-81f5-432a-8af4-013aa7c3593a",
+            "order": 18,
+            "title": "Act With Integrity",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "5d4afb5e-23fe-4dc7-8fe1-3b735472471b"
+                },
+                "text": "Sometimes acts with integrity in the workplace.",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "3.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "75%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "527bb69d-10c5-4200-80c2-dec358cf234c",
+            "order": 19,
+            "title": "Demonstrate&nbsp;Dependability",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "bf415fe5-9e86-4187-bde1-3defa071be0b"
+                },
+                "text": "Sometimes acts as a dependable, diligent member of a work environment.",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "3.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "75%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "79852ee3-496c-4a27-a5c1-42a2d76d6570",
+            "order": 20,
+            "title": "Achieve Goals",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "eb8d6b30-f996-4c2b-a513-50c99589ff81"
+                },
+                "text": "Understands how to focus on achieving goals in the workplace by prioritizing tasks.",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "2.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "50%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "92bb1103-9098-49c7-8738-eff2003644f2",
+            "order": 21,
+            "title": "Leadership                Recognize and capitalize on personal and team strengths to achieve organizational goals.",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_only.name",
+                "object_name": "plaintext"
+            },
+            "responses": [],
+            "response": {
+                "text": "None",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": "None"
+        },
+        {
+            "unique_identifier": "e36745f2-7aed-49c7-a321-b3fa4930d2d3",
+            "order": 22,
+            "title": "Inspire, Persuade, &&nbsp;Motivate",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "e1b24aa4-9eee-46d5-a752-6165c71b7274"
+                },
+                "text": "Understands some of the skills and knowledge leaders use in the workplace.",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "2.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "50%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "42fe8913-1ebe-434e-a5c1-77ef7e139bb1",
+            "order": 23,
+            "title": "Engage Various&nbsp;Resources & Seek&nbsp;Feedback",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "9a3517ae-67b8-454b-9f08-b67878a96362"
+                },
+                "text": "Sometimes uses a variety of resources and feedback from others to inform direction.",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "3.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "75%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "17ba8f7a-907c-4423-874e-58ec3c70c711",
+            "order": 24,
+            "title": "Facilitate Group&nbsp;Dynamics",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "e2c58e20-c3fd-4dd2-9752-cd2ecfe8ac89"
+                },
+                "text": "Consistently facilitates group dynamics by putting team members in position to succeed, collectively setting group norms, and resolving conflicts effectively.",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "4.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "100%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "c6186677-5abd-4ff7-9845-42fe5cdc6baa",
+            "order": 25,
+            "title": "Critical Thinking                Identify and respond to needs based upon an understanding of situational context and logical analysis of relevant information.",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_only.name",
+                "object_name": "plaintext"
+            },
+            "responses": [],
+            "response": {
+                "text": "None",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": "None"
+        },
+        {
+            "unique_identifier": "241917c8-bb4e-4712-a80e-e834477ac85c",
+            "order": 26,
+            "title": "Display Situational&nbsp;Awareness",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "c901c4bd-9c4b-4b11-9c0c-1da89aa49139"
+                },
+                "text": "Understands how to use situational awareness in the workplace.",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "2.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "50%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "60201d49-3b13-486f-8592-891aef9ff003",
+            "order": 27,
+            "title": "Gather & Analyze Data",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "a101501c-320a-489c-9d04-473654b1b5a6"
+                },
+                "text": "Recognizes the role of data gathering and analysis in fully understanding a problem.",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "1.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "25%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "ddb24836-5690-4ca4-bcc2-9c6ddb8a19be",
+            "order": 28,
+            "title": "Make Effective & Fair&nbsp;Decisions",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "1a20a314-1233-4848-9858-18c11b97a1a1"
+                },
+                "text": "Recognizes the need to objectively assess situations using relevant information from a variety of perspectives to make effective and fair decisions.",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "1.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "25%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "14c064f3-dcfa-4047-a43e-9cf370f0fbd4",
+            "order": 29,
+            "title": "Technology                Understand and leverage technologies ethically to enhance efficiencies, complete tasks, and accomplish goals.",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_only.name",
+                "object_name": "plaintext"
+            },
+            "responses": [],
+            "response": {
+                "text": "None",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": "None"
+        },
+        {
+            "unique_identifier": "2451e4c0-b43b-4b6b-aadc-f7a60274b02b",
+            "order": 30,
+            "title": "Leverage Technology",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "None"
+                },
+                "text": "None",
+                "not_applicable": true
+            },
+            "feedback": "None",
+            "score": "None"
+        },
+        {
+            "unique_identifier": "c15c79d0-4dea-4605-8b2f-20e3bce309bd",
+            "order": 31,
+            "title": "Adapt to New&nbsp;Technologies",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "b36c1d3e-5012-4fce-8265-04f44f1d22cc"
+                },
+                "text": "Understands the knowledge and skills that are needed to adapt to new workplace technologies.",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "2.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "50%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "7c7a68c1-f5b1-4ecc-8153-bd060cfd3cb1",
+            "order": 32,
+            "title": "Use Technology Ethically",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "d23ba3e9-95f5-4bfe-8ba7-359cffe6a14d"
+                },
+                "text": "Sometimes ensures the ethical use of technology in the workplace.",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "3.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "75%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "2f242df1-3355-409b-95b3-f65873024f54",
+            "order": 33,
+            "title": "Equity & Inclusion                Demonstrate the awareness, attitude, knowledge, and skills required to equitably engage and include people from different local and global cultures. Engage in anti-racist practices that actively challenge the systems, structures, and policies of racism.",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_only.name",
+                "object_name": "plaintext"
+            },
+            "responses": [],
+            "response": {
+                "text": "None",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": "None"
+        },
+        {
+            "unique_identifier": "3384fb5f-2836-4f40-9002-e981fc735dc3",
+            "order": 34,
+            "title": "Engage Multiple Perspectives",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "5db87bd9-758f-4d13-ba5a-5b90572b7471"
+                },
+                "text": "Sometimes seeks input from multiple cultures.",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "3.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "75%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "c88d514c-7c67-45ef-ac62-cfcb0262a2af",
+            "order": 35,
+            "title": "Use Inclusive &&nbsp;Equitable Practices",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "a0d8960d-b42b-45a6-9051-7a2f4eb66836"
+                },
+                "text": "Sometimes uses inclusive and equitable practices and occasionally works to bring them to the workplace.",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "3.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "75%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "28a12e39-8a6e-4473-8fb4-2a4c52bf74c8",
+            "order": 36,
+            "title": "Advocate",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "dab4c257-da9e-4193-9754-0308d82f57f5"
+                },
+                "text": "Recognizes the need for inclusion, equity, justice, and empowerment for underrepresented groups.",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "1.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "25%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "0aaf359a-00c6-4897-90e7-a9ee302354d2",
+            "order": 37,
+            "title": "Describe your relationship to the student",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.form.name",
+                "object_name": "form"
+            },
+            "responses": [
+                {
+                    "answer": {
+                        "unique_identifier": "7c5da26c-c62e-4328-a5eb-611f1a557876",
+                        "answer_type_id": 9
+                    },
+                    "text": "Select here:",
+                    "response": "6- Other"
+                }
+            ],
+            "response": "",
+            "feedback": "None",
+            "score": "None"
+        },
+        {
+            "unique_identifier": "fc941ef2-9782-46c2-bf1c-fe50b3c057fa",
+            "order": 38,
+            "title": "Would you hire&nbsp;this student in the future?\nPlease note: Your response to this question is confidential and will not be shared with the student.",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "18a6a694-8adf-4c12-a76e-da34b6b3c34d"
+                },
+                "text": "No",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "0.00",
+                "score_max": "0.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "0%",
+                "score_quiz_as_percentage": "None"
+            }
+        }
+    ],
+    "question_blocks": [
+        {
+            "title": "Intro",
+            "order": 1,
+            "score": {
+                "score_value": "0.00",
+                "score_max": "0.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "0%",
+                "score_quiz_as_percentage": "0%"
+            }
+        },
+        {
+            "title": "Communication",
+            "order": 2,
+            "score": {
+                "score_value": "9.00",
+                "score_max": "16.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "56.25%",
+                "score_quiz_as_percentage": "56.25%"
+            }
+        },
+        {
+            "title": "Teamwork",
+            "order": 3,
+            "score": {
+                "score_value": "9.00",
+                "score_max": "12.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "75%",
+                "score_quiz_as_percentage": "75%"
+            }
+        },
+        {
+            "title": "Career & Self-Development",
+            "order": 4,
+            "score": {
+                "score_value": "9.00",
+                "score_max": "12.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "75%",
+                "score_quiz_as_percentage": "75%"
+            }
+        },
+        {
+            "title": "Professionalism",
+            "order": 5,
+            "score": {
+                "score_value": "8.00",
+                "score_max": "12.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "66.67%",
+                "score_quiz_as_percentage": "66.67%"
+            }
+        },
+        {
+            "title": "Leadership",
+            "order": 6,
+            "score": {
+                "score_value": "9.00",
+                "score_max": "12.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "75%",
+                "score_quiz_as_percentage": "75%"
+            }
+        },
+        {
+            "title": "Critical Thinking",
+            "order": 7,
+            "score": {
+                "score_value": "4.00",
+                "score_max": "12.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "33.33%",
+                "score_quiz_as_percentage": "33.33%"
+            }
+        },
+        {
+            "title": "Technology",
+            "order": 8,
+            "score": {
+                "score_value": "5.00",
+                "score_max": "8.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "62.5%",
+                "score_quiz_as_percentage": "62.5%"
+            }
+        },
+        {
+            "title": "Equity & Inclusion",
+            "order": 9,
+            "score": {
+                "score_value": "7.00",
+                "score_max": "12.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "58.33%",
+                "score_quiz_as_percentage": "58.33%"
+            }
+        },
+        {
+            "title": "End",
+            "order": 10,
+            "score": {
+                "score_value": "0.00",
+                "score_max": "0.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "0%",
+                "score_quiz_as_percentage": "0%"
+            }
+        }
+    ],
+    "formula_results": [
+        {
+            "formula_order": 1,
+            "name": "Communication",
+            "unique_identifier": "c2870a69-30fa-44de-983f-5ebd0ebc5a30",
+            "formula": "*|qb2_custom_score|* / (4 - *|f19_result|*)",
+            "result": "2.25"
+        },
+        {
+            "formula_order": 2,
+            "name": "Teamwork",
+            "unique_identifier": "7446aca5-3555-470f-88d6-191a584d64ad",
+            "formula": "*|qb3_custom_score|* / (3 - *|f20_result|*)",
+            "result": "3"
+        },
+        {
+            "formula_order": 3,
+            "name": "Career & Self-Development",
+            "unique_identifier": "fa7823ae-daaf-49a9-915a-5a35d895ca56",
+            "formula": "*|qb4_custom_score|* / (3 - *|f21_result|*)",
+            "result": "3"
+        },
+        {
+            "formula_order": 4,
+            "name": "Professionalism",
+            "unique_identifier": "6726bd33-c3b1-4702-b4a9-107654a1d95c",
+            "formula": "*|qb5_custom_score|* / (3 - *|f22_result|*)",
+            "result": "2.67"
+        },
+        {
+            "formula_order": 5,
+            "name": "Leadership",
+            "unique_identifier": "b752b6b3-f7dd-437f-bc13-29296bb1ef3d",
+            "formula": "*|qb6_custom_score|* / (3 - *|f23_result|*)",
+            "result": "3"
+        },
+        {
+            "formula_order": 6,
+            "name": "Critical Thinking",
+            "unique_identifier": "e96f7f8c-ac1d-4add-b534-496e149dae87",
+            "formula": "*|qb7_custom_score|* / (3 - *|f24_result|*)",
+            "result": "1.33"
+        },
+        {
+            "formula_order": 7,
+            "name": "Technology",
+            "unique_identifier": "9a6fd9ad-80f1-4844-aab8-174e250423a2",
+            "formula": "*|qb8_custom_score|* / (3 - *|f25_result|*)",
+            "result": "2.5"
+        },
+        {
+            "formula_order": 8,
+            "name": "Equity & Inclusion",
+            "unique_identifier": "53d25a77-8cae-4f4a-9054-74190df9444f",
+            "formula": "*|qb9_custom_score|* / (3 - *|f26_result|*)",
+            "result": "2.33"
+        },
+        {
+            "formula_order": 9,
+            "name": "Overall Career Readiness",
+            "unique_identifier": "9a53fdaf-1802-4929-be45-3c1b96c53592",
+            "formula": "(*|f1_result|* + *|f2_result|* + *|f3_result|* + *|f4_result|* + *|f5_result|*+ *|f6_result|*+ *|f7_result|* + *|f8_result|*) / (8 - *|f27_result|*)",
+            "result": "2.51"
+        },
+        {
+            "formula_order": 10,
+            "name": "Communication",
+            "unique_identifier": "dc561c25-7a38-461a-be17-8ee6f774504e",
+            "formula": "*|intro_field11_response|*",
+            "result": "3.5"
+        },
+        {
+            "formula_order": 11,
+            "name": "Teamwork",
+            "unique_identifier": "295743f4-6874-4c44-b359-5d363cb74fb9",
+            "formula": "*|intro_field12_response|*",
+            "result": "3"
+        },
+        {
+            "formula_order": 12,
+            "name": "Career & Self-Development",
+            "unique_identifier": "17eca289-aa6f-42ae-9004-44e53bc95b26",
+            "formula": "*|intro_field13_response|*",
+            "result": "1.33"
+        },
+        {
+            "formula_order": 13,
+            "name": "Professionalism",
+            "unique_identifier": "43b44191-2aa0-495b-b8f5-7dc99501f9b9",
+            "formula": "*|intro_field14_response|*",
+            "result": "1.33"
+        },
+        {
+            "formula_order": 14,
+            "name": "Leadership",
+            "unique_identifier": "b8d3e5c9-7281-4430-be5c-ae10cc58dec4",
+            "formula": "*|intro_field15_response|*",
+            "result": "2.67"
+        },
+        {
+            "formula_order": 15,
+            "name": "Critical Thinking",
+            "unique_identifier": "ba16da2f-3e61-4e31-b00c-7f825f71bc1c",
+            "formula": "*|intro_field16_response|*",
+            "result": "2.67"
+        },
+        {
+            "formula_order": 16,
+            "name": "Technology",
+            "unique_identifier": "10c3c2c2-271b-4ff7-9cc9-3a6023ea237e",
+            "formula": "*|intro_field17_response|*",
+            "result": "1.33"
+        },
+        {
+            "formula_order": 17,
+            "name": "Equity & Inclusion",
+            "unique_identifier": "64bc8db0-278c-42df-adcc-a6c71d588eae",
+            "formula": "*|intro_field18_response|*",
+            "result": "1"
+        },
+        {
+            "formula_order": 18,
+            "name": "Overall Career Readiness",
+            "unique_identifier": "fd71387c-3bb7-48d6-a229-0403c0466e8f",
+            "formula": "*|intro_field19_response|*",
+            "result": "2.1"
+        },
+        {
+            "formula_order": 19,
+            "name": "COMM N/A Count",
+            "unique_identifier": "4e54f19c-0ccc-4118-bffc-6a974869e466",
+            "formula": "0",
+            "result": "0"
+        },
+        {
+            "formula_order": 20,
+            "name": "TEAM N/A Count",
+            "unique_identifier": "ce165fb9-7875-4d3f-ad68-878dbc1d5c25",
+            "formula": "0",
+            "result": "0"
+        },
+        {
+            "formula_order": 21,
+            "name": "C&SD N/A Count",
+            "unique_identifier": "cdd3fe56-dc44-4893-9a82-9a5c5b6b51ad",
+            "formula": "0",
+            "result": "0"
+        },
+        {
+            "formula_order": 22,
+            "name": "PRO N/A Count",
+            "unique_identifier": "bf572f31-f6d0-4992-a52f-a08a3e7ef9b1",
+            "formula": "0",
+            "result": "0"
+        },
+        {
+            "formula_order": 23,
+            "name": "LEAD N/A Count",
+            "unique_identifier": "d713f824-f41f-4d19-880e-752f522babcf",
+            "formula": "0",
+            "result": "0"
+        },
+        {
+            "formula_order": 24,
+            "name": "CT N/A Count",
+            "unique_identifier": "966b286e-8dfe-49c9-8607-a8ac97c9d295",
+            "formula": "0",
+            "result": "0"
+        },
+        {
+            "formula_order": 25,
+            "name": "TECH N/A Count",
+            "unique_identifier": "7ce701ff-fc43-4cc0-bc92-ad3be9d0c603",
+            "formula": "0",
+            "result": "1"
+        },
+        {
+            "formula_order": 26,
+            "name": "E&I N/A Count",
+            "unique_identifier": "6b8497da-7778-4aaa-9e66-0971aaac131e",
+            "formula": "0",
+            "result": "0"
+        },
+        {
+            "formula_order": 27,
+            "name": "E&I or N/A Removal Adjustment",
+            "unique_identifier": "ccc60d79-bbed-496b-91d2-29d052791cdc",
+            "formula": "0",
+            "result": "0"
+        }
+    ]
+}

@@ -1,0 +1,592 @@
+{
+    "response_id": "b94d7f9a-9c57-4961-bce1-74906647a538",
+    "timestamp": "2024-09-04 02:58:47",
+    "name": "Dylan",
+    "last_name": "Patel",
+    "email": "drp004@uark.edu",
+    "respondent_id": "Nq1LuAXV0",
+    "pdf_url": "https://app.careerreadinessinventory.academy/reportr-download/2a96552b-958e-498b-a372-1ae1a020f325/b94d7f9a-9c57-4961-bce1-74906647a538?cached=true",
+    "survey_id": "c561682f-13b9-4dbc-94d5-b84f08384775",
+    "survey_url": "uark-start",
+    "custom_fields": {
+        "Organization_Name": "University of Arkansas",
+        "Org_Type": "4yr-public",
+        "Inventory_Version": "plus",
+        "Implementation_Type": "course-imex",
+        "Use_Case_ID": "EXSC 2733 Section 1",
+        "Semester/Quarter": "Fall 24",
+        "Attempt_Type": "pre",
+        "Evaluator_1_First_Name": "None",
+        "Evaluator_1_Last_Name": "None",
+        "Evaluator_1_Email": "None",
+        "Evaluator_2_First_Name": "None",
+        "Evaluator_2_Last_Name": "None",
+        "Evaluator_2_Email": "None",
+        "UARK_Student_ID": "010993616"
+    },
+    "questions": [
+        {
+            "order": 4,
+            "score_value": "4.00",
+            "score_max": "4.00"
+        },
+        {
+            "order": 5,
+            "score_value": "4.00",
+            "score_max": "4.00"
+        },
+        {
+            "order": 6,
+            "score_value": "2.00",
+            "score_max": "4.00"
+        },
+        {
+            "order": 7,
+            "score_value": "3.00",
+            "score_max": "4.00"
+        },
+        {
+            "order": 9,
+            "score_value": "3.00",
+            "score_max": "4.00"
+        },
+        {
+            "order": 10,
+            "score_value": "4.00",
+            "score_max": "4.00"
+        },
+        {
+            "order": 11,
+            "score_value": "4.00",
+            "score_max": "4.00"
+        },
+        {
+            "order": 13,
+            "score_value": "4.00",
+            "score_max": "4.00"
+        },
+        {
+            "order": 14,
+            "score_value": "4.00",
+            "score_max": "4.00"
+        },
+        {
+            "order": 15,
+            "score_value": "3.00",
+            "score_max": "4.00"
+        },
+        {
+            "order": 17,
+            "score_value": "4.00",
+            "score_max": "4.00"
+        },
+        {
+            "order": 18,
+            "score_value": "4.00",
+            "score_max": "4.00"
+        },
+        {
+            "order": 19,
+            "score_value": "4.00",
+            "score_max": "4.00"
+        },
+        {
+            "order": 21,
+            "score_value": "3.00",
+            "score_max": "4.00"
+        },
+        {
+            "order": 22,
+            "score_value": "3.00",
+            "score_max": "4.00"
+        },
+        {
+            "order": 23,
+            "score_value": "3.00",
+            "score_max": "4.00"
+        },
+        {
+            "order": 25,
+            "score_value": "4.00",
+            "score_max": "4.00"
+        },
+        {
+            "order": 26,
+            "score_value": "4.00",
+            "score_max": "4.00"
+        },
+        {
+            "order": 27,
+            "score_value": "4.00",
+            "score_max": "4.00"
+        },
+        {
+            "order": 29,
+            "score_value": "4.00",
+            "score_max": "4.00"
+        },
+        {
+            "order": 30,
+            "score_value": "4.00",
+            "score_max": "4.00"
+        },
+        {
+            "order": 31,
+            "score_value": "4.00",
+            "score_max": "4.00"
+        },
+        {
+            "order": 33,
+            "score_value": "4.00",
+            "score_max": "4.00"
+        },
+        {
+            "order": 34,
+            "score_value": "4.00",
+            "score_max": "4.00"
+        },
+        {
+            "order": 35,
+            "score_value": "3.00",
+            "score_max": "4.00"
+        },
+        {
+            "order": 37,
+            "response": {
+                "Employers": "3- 2 Relationships",
+                "Teachers/Professors": "1-Not Yet"
+            },
+            "question": "I have relationships with former employers and teachers/professors who would be willing to give me a formal recommendation if/when needed."
+        },
+        {
+            "order": 38,
+            "response": {
+                "Family_Members": "4- Yes. Multiple times",
+                "Friends_and_Family_Friends": "4- Yes. Multiple times"
+            },
+            "question": "I have proactively asked family members (other than parents/guardians) and friends about their job or career."
+        },
+        {
+            "order": 39,
+            "score_value": "4.00",
+            "score_max": "4.00",
+            "question": "I feel confident proactively introducing myself to professionals I have never met (who could be helpful in my career).",
+            "response": "Strongly Agree"
+        },
+        {
+            "order": 40,
+            "score_value": "2.00",
+            "score_max": "4.00",
+            "question": "I have proactively reached out to an alum from my school to learn about their career path.",
+            "response": "Not yet but I plan to"
+        },
+        {
+            "order": 41,
+            "score_value": "3.00",
+            "score_max": "4.00",
+            "question": "I have proactively asked to have a career conversation with a professional at an organization I’m interested in working for.",
+            "response": "Yes, once"
+        },
+        {
+            "order": 42,
+            "score_value": "4.00",
+            "score_max": "4.00",
+            "question": "I have proactively asked someone I know to introduce me to someone they know so I can talk to them to learn about their career.",
+            "response": "Yes, multiple times"
+        },
+        {
+            "order": 44,
+            "score_value": "4.00",
+            "score_max": "4.00",
+            "question": "When things don\\'t go the way I had envisioned or when I encounter a setback, I recognize that the setback is an opportunity to learn and grow, rather than a “mistake.\"",
+            "response": "Strongly Agree"
+        },
+        {
+            "order": 45,
+            "score_value": "2.00",
+            "score_max": "4.00",
+            "question": "When I feel stuck in life, I reach out to others who help me uncover new solutions or ways of thinking about the situation.",
+            "response": "Disagree"
+        },
+        {
+            "order": 46,
+            "score_value": "3.00",
+            "score_max": "4.00",
+            "question": "When I feel stuck in regards to my career plans, I have strategies I use to help me move forward (become “unstuck”).",
+            "response": "Agree"
+        },
+        {
+            "order": 47,
+            "score_value": "3.00",
+            "score_max": "4.00",
+            "question": "I think taking measured risks and learning to embrace failure is important in my career success.",
+            "response": "Agree"
+        },
+        {
+            "order": 48,
+            "score_value": "3.00",
+            "score_max": "4.00",
+            "question": "I have the tools I need to build a happy, meaningful, and successful life.",
+            "response": "Agree"
+        },
+        {
+            "order": 49,
+            "score_value": "4.00",
+            "score_max": "4.00",
+            "question": "I often try to look at problems from different perspectives to find new ways to move forward.",
+            "response": "Strongly Agree"
+        },
+        {
+            "order": 51,
+            "response": {
+                "Professor_or_Faculty_Member": "3- Yes. Once",
+                "Career_Counselor": "2- Not yet but I plan to",
+                "Employers": "4- Yes. Multiple times"
+            },
+            "question": "I have received helpful career advice from a faculty member, career counselor, or employer."
+        },
+        {
+            "order": 52,
+            "score_value": "1.00",
+            "score_max": "4.00",
+            "question": "My college/university has helped me build relationships with employers.",
+            "response": "Not yet"
+        },
+        {
+            "order": 53,
+            "score_value": "4.00",
+            "score_max": "4.00",
+            "question": "I have completed at least one experience working in an environment similar to my career interests (internship, research position, part-time job, significant volunteering).",
+            "response": "Yes"
+        },
+        {
+            "order": 54,
+            "score_value": "1.00",
+            "score_max": "4.00",
+            "question": "I have created career plans with guidance from a staff or faculty member at my college.",
+            "response": "Not yet"
+        },
+        {
+            "order": 55,
+            "score_value": "1.00",
+            "score_max": "4.00",
+            "question": "I have received feedback on my resume, and I am confident that it effectively showcases my candidacy (from counselors, professionals and/or my school's resume software provider).",
+            "response": "I haven’t received feedback and I am not confident."
+        },
+        {
+            "order": 56,
+            "score_value": "3.00",
+            "score_max": "4.00",
+            "question": "I feel prepared to land internships / jobs / research positions that have not been posted online.",
+            "response": "Agree"
+        },
+        {
+            "order": 57,
+            "score_value": "0.0",
+            "score_max": "0.0"
+        },
+        {
+            "order": 58,
+            "score_value": "0.0",
+            "score_max": "0.0"
+        },
+        {
+            "order": 59,
+            "response": {
+                "First_Name": "None",
+                "Last_Name": "None",
+                "Email": "None"
+            }
+        },
+        {
+            "order": 60,
+            "response": {
+                "First_Name": "None",
+                "Last_Name": "None",
+                "Email": "None"
+            }
+        },
+        {
+            "order": 61,
+            "score_value": "0.0",
+            "score_max": "0.0"
+        },
+        {
+            "order": 62,
+            "response": {
+                "Hours_Per_Week": "None",
+                "Total_Weeks": "None",
+                "Pay_Status": "None",
+                "Academic_Credit_Status": "None"
+            }
+        },
+        {
+            "order": 63,
+            "score_value": "0.0",
+            "score_max": "0.0"
+        },
+        {
+            "order": 64,
+            "score_value": "6.00",
+            "score_max": "11.00"
+        },
+        {
+            "order": 66,
+            "score_value": "2.00",
+            "score_max": "4.00"
+        },
+        {
+            "order": 67,
+            "score_value": "6.00",
+            "score_max": "9.00"
+        },
+        {
+            "order": 68,
+            "score_value": "5.00",
+            "score_max": "8.00"
+        },
+        {
+            "order": 69,
+            "score_value": "3.00",
+            "score_max": "3.00"
+        },
+        {
+            "order": 70,
+            "score_value": "3.00",
+            "score_max": "3.00"
+        },
+        {
+            "order": 71,
+            "score_value": "3.00",
+            "score_max": "3.00"
+        },
+        {
+            "order": 72,
+            "score_value": "3.00",
+            "score_max": "3.00"
+        },
+        {
+            "order": 73,
+            "score_value": "2.00",
+            "score_max": "5.00"
+        },
+        {
+            "order": 74,
+            "score_value": "3.00",
+            "score_max": "3.00"
+        },
+        {
+            "order": 75,
+            "response": [
+                "Merit-based Scholarships and Grants"
+            ],
+            "score_value": "4.00",
+            "score_max": "45.00"
+        },
+        {
+            "order": 76,
+            "response": "20"
+        },
+        {
+            "order": 77,
+            "score_value": "0.00",
+            "score_max": "0.00"
+        },
+        {
+            "order": 78,
+            "score_value": "0.00",
+            "score_max": "0.00"
+        },
+        {
+            "order": 79,
+            "score_value": "0.00",
+            "score_max": "0.00"
+        },
+        {
+            "order": 81,
+            "score_value": "0.00",
+            "score_max": "0.00"
+        },
+        {
+            "order": 82,
+            "score_value": "0.00",
+            "score_max": "0.00"
+        },
+        {
+            "order": 83,
+            "response": {
+                "How_many_full_semesters_have_you_been_employed_on_campus?": "None",
+                "What_department(s)_are_you_employed_by?": "None"
+            }
+        }
+    ],
+    "question_blocks": [
+        {
+            "title": "Intro Messages",
+            "order": 1,
+            "score_value": "0.00",
+            "score_max": "0.00",
+            "score_quiz_as_percentage": "0"
+        },
+        {
+            "title": "Communication",
+            "order": 2,
+            "score_value": "13.00",
+            "score_max": "16.00",
+            "score_quiz_as_percentage": "81.25"
+        },
+        {
+            "title": "Teamwork",
+            "order": 3,
+            "score_value": "11.00",
+            "score_max": "12.00",
+            "score_quiz_as_percentage": "91.67"
+        },
+        {
+            "title": "Career & Self-Development",
+            "order": 4,
+            "score_value": "11.00",
+            "score_max": "12.00",
+            "score_quiz_as_percentage": "91.67"
+        },
+        {
+            "title": "Professionalism",
+            "order": 5,
+            "score_value": "12.00",
+            "score_max": "12.00",
+            "score_quiz_as_percentage": "100"
+        },
+        {
+            "title": "Leadership",
+            "order": 6,
+            "score_value": "9.00",
+            "score_max": "12.00",
+            "score_quiz_as_percentage": "75"
+        },
+        {
+            "title": "Critical Thinking",
+            "order": 7,
+            "score_value": "12.00",
+            "score_max": "12.00",
+            "score_quiz_as_percentage": "100"
+        },
+        {
+            "title": "Technology",
+            "order": 8,
+            "score_value": "12.00",
+            "score_max": "12.00",
+            "score_quiz_as_percentage": "100"
+        },
+        {
+            "title": "Equity & Inclusion",
+            "order": 9,
+            "score_value": "11.00",
+            "score_max": "12.00",
+            "score_quiz_as_percentage": "91.67"
+        },
+        {
+            "title": "Social Capital",
+            "order": 10,
+            "score_value": "13.00",
+            "score_max": "16.00",
+            "score_quiz_as_percentage": "81.25"
+        },
+        {
+            "title": "Life Design",
+            "order": 11,
+            "score_value": "19.00",
+            "score_max": "24.00",
+            "score_quiz_as_percentage": "79.17"
+        },
+        {
+            "title": "Career Mobility",
+            "order": 12,
+            "score_value": "10.00",
+            "score_max": "20.00",
+            "score_quiz_as_percentage": "50"
+        },
+        {
+            "title": "Work Experience Questions & Evaluator Contact Info",
+            "order": 13,
+            "score_value": "0.0",
+            "score_max": "0.0",
+            "score_quiz_as_percentage": "0.0"
+        },
+        {
+            "title": "NACE Experiential Learning & Demographic Questions",
+            "order": 14,
+            "score_value": "40.00",
+            "score_max": "97.00",
+            "score_quiz_as_percentage": "41.24"
+        },
+        {
+            "title": "Custom Questions",
+            "order": 15,
+            "score_value": "0.00",
+            "score_max": "0.00",
+            "score_quiz_as_percentage": "0"
+        }
+    ],
+    "formula_results": [
+        {
+            "formula_order": 1,
+            "name": "Communication",
+            "result": "3.25"
+        },
+        {
+            "formula_order": 2,
+            "name": "Teamwork",
+            "result": "3.67"
+        },
+        {
+            "formula_order": 3,
+            "name": "Career & Self-Development",
+            "result": "3.67"
+        },
+        {
+            "formula_order": 4,
+            "name": "Professionalism",
+            "result": "4"
+        },
+        {
+            "formula_order": 5,
+            "name": "Leadership",
+            "result": "3"
+        },
+        {
+            "formula_order": 6,
+            "name": "Critical Thinking",
+            "result": "4"
+        },
+        {
+            "formula_order": 7,
+            "name": "Technology",
+            "result": "4"
+        },
+        {
+            "formula_order": 8,
+            "name": "Equity & Inclusion",
+            "result": "3.67"
+        },
+        {
+            "formula_order": 9,
+            "name": "Overall Career Readiness",
+            "result": "3.66"
+        },
+        {
+            "formula_order": 10,
+            "name": "Social Capital",
+            "result": "3.17"
+        },
+        {
+            "formula_order": 20,
+            "name": "Pre-Inventory Flag",
+            "result": "1"
+        },
+        {
+            "formula_order": 21,
+            "name": "Post-Inventory Flag",
+            "result": "0"
+        }
+    ]
+}
