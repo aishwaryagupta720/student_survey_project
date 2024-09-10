@@ -1,0 +1,432 @@
+{
+    "response_id": "897922a0-1351-4c17-8093-f2664000c6e3",
+    "timestamp": "2024-09-10 06:49:22",
+    "email": "axel@careerlaunch.academy",
+    "name": "Axel",
+    "last_name": "Test",
+    "respondent_id": "eDLhMcqTD",
+    "pdf_url": "https://app.careerreadinessinventory.academy/reportr-download/f41b1e90-b648-4c54-b6bc-bce044021236/897922a0-1351-4c17-8093-f2664000c6e3?cached=true",
+    "survey_id": "8106648c-bce1-4615-a05c-e59cec7b88da",
+    "survey_url": "student-start",
+    "survey_title": "NACE Career Readiness(+) Inventory",
+    "duration": 99,
+    "org_type": "4yr-private",
+    "inventory_version": "plus",
+    "implementation_type": "general",
+    "use_case_id": "testing",
+    "semester": "None",
+    "attempt_type": "None",
+    "communication": [
+        {
+            "order": 4,
+            "score_value": 3.0,
+            "score_max": 4.0
+        },
+        {
+            "order": 5,
+            "score_value": 5.0,
+            "score_max": 4.0
+        },
+        {
+            "order": 6,
+            "score_value": 5.0,
+            "score_max": 4.0
+        },
+        {
+            "order": 7,
+            "score_value": 5.0,
+            "score_max": 4.0
+        }
+    ],
+    "teamwork": [
+        {
+            "order": 9,
+            "score_value": 3.0,
+            "score_max": 4.0
+        },
+        {
+            "order": 10,
+            "score_value": 2.0,
+            "score_max": 4.0
+        },
+        {
+            "order": 11,
+            "score_value": 2.0,
+            "score_max": 4.0
+        }
+    ],
+    "self_development": [
+        {
+            "order": 13,
+            "score_value": 4.0,
+            "score_max": 4.0
+        },
+        {
+            "order": 14,
+            "score_value": 5.0,
+            "score_max": 4.0
+        },
+        {
+            "order": 15,
+            "score_value": 3.0,
+            "score_max": 4.0
+        }
+    ],
+    "professionalism": [
+        {
+            "order": 17,
+            "score_value": 5.0,
+            "score_max": 4.0
+        },
+        {
+            "order": 18,
+            "score_value": 5.0,
+            "score_max": 4.0
+        },
+        {
+            "order": 19,
+            "score_value": 5.0,
+            "score_max": 4.0
+        }
+    ],
+    "leadership": [
+        {
+            "order": 21,
+            "score_value": 5.0,
+            "score_max": 4.0
+        },
+        {
+            "order": 22,
+            "score_value": 3.0,
+            "score_max": 4.0
+        },
+        {
+            "order": 23,
+            "score_value": 5.0,
+            "score_max": 4.0
+        }
+    ],
+    "critical_thinking": [
+        {
+            "order": 25,
+            "score_value": 1.0,
+            "score_max": 4.0
+        },
+        {
+            "order": 26,
+            "score_value": 4.0,
+            "score_max": 4.0
+        },
+        {
+            "order": 27,
+            "score_value": 3.0,
+            "score_max": 4.0
+        }
+    ],
+    "technology": [
+        {
+            "order": 29,
+            "score_value": 2.0,
+            "score_max": 4.0
+        },
+        {
+            "order": 30,
+            "score_value": 4.0,
+            "score_max": 4.0
+        },
+        {
+            "order": 31,
+            "score_value": 4.0,
+            "score_max": 4.0
+        }
+    ],
+    "equity": [
+        {
+            "order": 33,
+            "score_value": 3.0,
+            "score_max": 4.0
+        },
+        {
+            "order": 34,
+            "score_value": 4.0,
+            "score_max": 4.0
+        },
+        {
+            "order": 35,
+            "score_value": 2.0,
+            "score_max": 4.0
+        }
+    ],
+    "social_capital": [
+        {
+            "order": 37,
+            "question": "I have relationships with former employers and teachers/professors who would be willing to give me a formal recommendation if/when needed.",
+            "responses": [
+                {
+                    "text": "Employers (Choose Below)",
+                    "response": "3- 2 Relationships"
+                },
+                {
+                    "text": "Teachers/Professors (Choose Below)",
+                    "response": "2- 1 Relationship"
+                }
+            ],
+            "score_value": 0.0,
+            "score_max": 0.0
+        },
+        {
+            "order": 38,
+            "question": "I have proactively asked family members (other than parents/guardians) and friends about their job or career.",
+            "responses": [
+                {
+                    "text": "Family Members (Choose Below)",
+                    "response": "4- Yes. Multiple times"
+                },
+                {
+                    "text": "Friends and Family Friends (Choose Below)",
+                    "response": "2- Not yet but I plan to"
+                }
+            ],
+            "score_value": 0.0,
+            "score_max": 0.0
+        },
+        {
+            "order": 39,
+            "score_value": 2.0,
+            "score_max": 4.0,
+            "question": "I feel confident proactively introducing myself to professionals I have never met (who could be helpful in my career).",
+            "response": "Disagree"
+        },
+        {
+            "order": 40,
+            "score_value": 3.0,
+            "score_max": 4.0,
+            "question": "I have proactively reached out to an alum from my school to learn about their career path.",
+            "response": "Yes, once"
+        },
+        {
+            "order": 41,
+            "score_value": 2.0,
+            "score_max": 4.0,
+            "question": "I have proactively asked to have a career conversation with a professional at an organization I’m interested in working for.",
+            "response": "Not yet but I plan to"
+        },
+        {
+            "order": 42,
+            "score_value": 3.0,
+            "score_max": 4.0,
+            "question": "I have proactively asked someone I know to introduce me to someone they know so I can talk to them to learn about their career.",
+            "response": "Yes, once"
+        }
+    ],
+    "life_design": [
+        {
+            "order": 44,
+            "score_value": 3.0,
+            "score_max": 4.0,
+            "question": "When things don\\'t go the way I had envisioned or when I encounter a setback, I recognize that the setback is an opportunity to learn and grow, rather than a “mistake.\"",
+            "response": "Agree"
+        },
+        {
+            "order": 45,
+            "score_value": 2.0,
+            "score_max": 4.0,
+            "question": "When I feel stuck in life, I reach out to others who help me uncover new solutions or ways of thinking about the situation.",
+            "response": "Disagree"
+        },
+        {
+            "order": 46,
+            "score_value": 4.0,
+            "score_max": 4.0,
+            "question": "When I feel stuck in regards to my career plans, I have strategies I use to help me move forward (become “unstuck”).",
+            "response": "Strongly Agree"
+        },
+        {
+            "order": 47,
+            "score_value": 1.0,
+            "score_max": 4.0,
+            "question": "I think taking measured risks and learning to embrace failure is important in my career success.",
+            "response": "Strongly Disagree"
+        },
+        {
+            "order": 48,
+            "score_value": 3.0,
+            "score_max": 4.0,
+            "question": "I have the tools I need to build a happy, meaningful, and successful life.",
+            "response": "Agree"
+        },
+        {
+            "order": 49,
+            "score_value": 2.0,
+            "score_max": 4.0,
+            "question": "I often try to look at problems from different perspectives to find new ways to move forward.",
+            "response": "Disagree"
+        }
+    ],
+    "career_mobility": [
+        {
+            "order": 51,
+            "question": "I have received helpful career advice from a faculty member, career counselor, or employer.",
+            "responses": [
+                {
+                    "text": "Professor or Faculty Member (Choose Below)",
+                    "response": "3- Yes. Once"
+                },
+                {
+                    "text": "Career Counselor (Choose Below)",
+                    "response": "3- Yes. Once"
+                },
+                {
+                    "text": "Employers (Choose Below)",
+                    "response": "1-No and I had not considered this"
+                }
+            ],
+            "score_value": 0.0,
+            "score_max": 0.0
+        },
+        {
+            "order": 52,
+            "score_value": 4.0,
+            "score_max": 4.0,
+            "question": "My college/university has helped me build relationships with employers.",
+            "response": "Yes"
+        },
+        {
+            "order": 53,
+            "score_value": 4.0,
+            "score_max": 4.0,
+            "question": "I have completed at least one experience working in an environment similar to my career interests (internship, research position, part-time job, significant volunteering).",
+            "response": "Yes"
+        },
+        {
+            "order": 54,
+            "score_value": 1.0,
+            "score_max": 4.0,
+            "question": "I have created career plans with guidance from a staff or faculty member at my college.",
+            "response": "Not yet"
+        },
+        {
+            "order": 55,
+            "score_value": 1.0,
+            "score_max": 4.0,
+            "question": "I have received feedback on my resume, and I am confident that it effectively showcases my candidacy (from counselors, professionals and/or my school's resume software provider).",
+            "response": "I haven’t received feedback and I am not confident."
+        },
+        {
+            "order": 56,
+            "score_value": 2.0,
+            "score_max": 4.0,
+            "question": "I feel prepared to land internships / jobs / research positions that have not been posted online.",
+            "response": "Disagree"
+        }
+    ],
+    "work_experience": [],
+    "demographics": [
+        {
+            "order": 51,
+            "question": "I have received helpful career advice from a faculty member, career counselor, or employer.",
+            "responses": [
+                {
+                    "text": "Professor or Faculty Member (Choose Below)",
+                    "response": "3- Yes. Once"
+                },
+                {
+                    "text": "Career Counselor (Choose Below)",
+                    "response": "3- Yes. Once"
+                },
+                {
+                    "text": "Employers (Choose Below)",
+                    "response": "1-No and I had not considered this"
+                }
+            ],
+            "score_value": 0.0,
+            "score_max": 0.0
+        },
+        {
+            "order": 52,
+            "score_value": 4.0,
+            "score_max": 4.0,
+            "question": "My college/university has helped me build relationships with employers.",
+            "response": "Yes"
+        },
+        {
+            "order": 53,
+            "score_value": 4.0,
+            "score_max": 4.0,
+            "question": "I have completed at least one experience working in an environment similar to my career interests (internship, research position, part-time job, significant volunteering).",
+            "response": "Yes"
+        },
+        {
+            "order": 54,
+            "score_value": 1.0,
+            "score_max": 4.0,
+            "question": "I have created career plans with guidance from a staff or faculty member at my college.",
+            "response": "Not yet"
+        },
+        {
+            "order": 55,
+            "score_value": 1.0,
+            "score_max": 4.0,
+            "question": "I have received feedback on my resume, and I am confident that it effectively showcases my candidacy (from counselors, professionals and/or my school's resume software provider).",
+            "response": "I haven’t received feedback and I am not confident."
+        },
+        {
+            "order": 56,
+            "score_value": 2.0,
+            "score_max": 4.0,
+            "question": "I feel prepared to land internships / jobs / research positions that have not been posted online.",
+            "response": "Disagree"
+        }
+    ],
+    "communication_results": {
+        "score_value": 6.0,
+        "score_max": 16.0,
+        "score_quiz_as_percentage": 0.375,
+        "result": 1.5
+    },
+    "teamwork_results": {
+        "score_value": 7.0,
+        "score_max": 12.0,
+        "score_quiz_as_percentage": 0.5832999999999999,
+        "result": 2.33
+    },
+    "self_development_results": {
+        "score_value": 8.0,
+        "score_max": 12.0,
+        "score_quiz_as_percentage": 0.6667000000000001,
+        "result": 2.67
+    },
+    "professionalism_results": {
+        "score_value": 3.0,
+        "score_max": 12.0,
+        "score_quiz_as_percentage": 0.25,
+        "result": 1.0
+    },
+    "leadership_results": {
+        "score_value": 5.0,
+        "score_max": 12.0,
+        "score_quiz_as_percentage": 0.4167,
+        "result": 1.67
+    },
+    "critical_thinking_results": {
+        "score_value": 8.0,
+        "score_max": 12.0,
+        "score_quiz_as_percentage": 0.6667000000000001,
+        "result": 2.67
+    },
+    "technology_results": {
+        "score_value": 10.0,
+        "score_max": 12.0,
+        "score_quiz_as_percentage": 0.8332999999999999,
+        "result": 3.33
+    },
+    "equity_results": {
+        "score_value": 9.0,
+        "score_max": 12.0,
+        "score_quiz_as_percentage": 0.75,
+        "result": 3.0
+    },
+    "overall_career_readiness_results": {
+        "result": 2.27
+    }
+}

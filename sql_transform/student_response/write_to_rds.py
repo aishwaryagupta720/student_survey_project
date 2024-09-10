@@ -34,7 +34,7 @@ def write_to_rds(data):
         
         columns = ', '.join(data.keys())  
         placeholders = ', '.join(['%s'] * len(data))  
-        sql = f"INSERT INTO ({table_name}) ({columns}) VALUES ({placeholders})"
+        sql = f"INSERT INTO {table_name} ({columns}) VALUES ({placeholders})"
         logger.info(sql)
         # Prepare the data tuple, converting dictionaries and lists to JSON strings
         data_tuple = tuple(json.dumps(value) if isinstance(value, (dict, list)) else value for value in data.values())

@@ -1,0 +1,228 @@
+{
+    "response_id": "cf13ee2e-1607-49f2-b441-6e75d31e2fbf",
+    "timestamp": "2024-09-10 09:00:04",
+    "email": "apgupta@scu.edu",
+    "name": "A",
+    "last_name": "PG",
+    "respondent_id": "hxixc3hzd",
+    "pdf_url": "https://app.careerreadinessinventory.academy/reportr-download/63c14c03-92d1-4b00-9448-2ef21ef9cf04/cf13ee2e-1607-49f2-b441-6e75d31e2fbf?cached=true",
+    "survey_id": "9e2c0e18-3d58-43e2-950c-91ffc7f137af",
+    "survey_url": "evaluator-start",
+    "survey_title": "NACE Career Readiness Inventory Evaluation",
+    "duration": 46,
+    "org_type": "4yr-private",
+    "student_first_name": "Axel",
+    "studnet_last_name": "Test",
+    "student_email": "axel@careerlaunch.academy",
+    "student_response_id": "054f8c62-e08f-46c0-a56a-f3a98e9e0a08",
+    "inventory_version": "nace-only",
+    "use_case_id": "testing",
+    "semester": "Fall 24",
+    "communication": [
+        {
+            "order": 5,
+            "score_value": 3.0,
+            "score_max": 4.0
+        },
+        {
+            "order": 6,
+            "score_value": 0.0,
+            "score_max": 0.0
+        },
+        {
+            "order": 7,
+            "score_value": 1.0,
+            "score_max": 4.0
+        },
+        {
+            "order": 8,
+            "score_value": 0.0,
+            "score_max": 0.0
+        }
+    ],
+    "teamwork": [
+        {
+            "order": 10,
+            "score_value": 2.0,
+            "score_max": 4.0
+        },
+        {
+            "order": 11,
+            "score_value": 2.0,
+            "score_max": 4.0
+        },
+        {
+            "order": 12,
+            "score_value": 2.0,
+            "score_max": 4.0
+        }
+    ],
+    "self_development": [
+        {
+            "order": 14,
+            "score_value": 2.0,
+            "score_max": 4.0
+        },
+        {
+            "order": 15,
+            "score_value": 2.0,
+            "score_max": 4.0
+        },
+        {
+            "order": 16,
+            "score_value": 3.0,
+            "score_max": 4.0
+        }
+    ],
+    "professionalism": [
+        {
+            "order": 18,
+            "score_value": 2.0,
+            "score_max": 4.0
+        },
+        {
+            "order": 19,
+            "score_value": 1.0,
+            "score_max": 4.0
+        },
+        {
+            "order": 20,
+            "score_value": 2.0,
+            "score_max": 4.0
+        }
+    ],
+    "leadership": [
+        {
+            "order": 22,
+            "score_value": 2.0,
+            "score_max": 4.0
+        },
+        {
+            "order": 23,
+            "score_value": 2.0,
+            "score_max": 4.0
+        },
+        {
+            "order": 24,
+            "score_value": 1.0,
+            "score_max": 4.0
+        }
+    ],
+    "critical_thinking": [
+        {
+            "order": 26,
+            "score_value": 2.0,
+            "score_max": 4.0
+        },
+        {
+            "order": 27,
+            "score_value": 3.0,
+            "score_max": 4.0
+        },
+        {
+            "order": 28,
+            "score_value": 2.0,
+            "score_max": 4.0
+        }
+    ],
+    "technology": [
+        {
+            "order": 30,
+            "score_value": 1.0,
+            "score_max": 4.0
+        },
+        {
+            "order": 31,
+            "score_value": 1.0,
+            "score_max": 4.0
+        },
+        {
+            "order": 32,
+            "score_value": 4.0,
+            "score_max": 4.0
+        }
+    ],
+    "equity": [
+        {
+            "order": 34,
+            "score_value": 1.0,
+            "score_max": 4.0
+        },
+        {
+            "order": 35,
+            "score_value": 3.0,
+            "score_max": 4.0
+        },
+        {
+            "order": 36,
+            "score_value": 2.0,
+            "score_max": 4.0
+        }
+    ],
+    "student_relationship": [
+        {
+            "order": 37,
+            "question": "Describe your relationship to the student",
+            "responses": [],
+            "response": "Select here:",
+            "score_value": 0.0,
+            "score_max": 0.0
+        },
+        {
+            "order": 38,
+            "score_value": 0.0,
+            "score_max": 0.0
+        }
+    ],
+    "communication_results": {
+        "score_value": 4.0,
+        "score_max": 8.0,
+        "score_quiz_as_percentage": 0.5,
+        "result": 2.0
+    },
+    "teamwork_results": {
+        "score_value": 6.0,
+        "score_max": 12.0,
+        "score_quiz_as_percentage": 0.5,
+        "result": 2.0
+    },
+    "self_development_results": {
+        "score_value": 7.0,
+        "score_max": 12.0,
+        "score_quiz_as_percentage": 0.5832999999999999,
+        "result": 2.33
+    },
+    "professionalism_results": {
+        "score_value": 5.0,
+        "score_max": 12.0,
+        "score_quiz_as_percentage": 0.4167,
+        "result": 1.67
+    },
+    "leadership_results": {
+        "score_value": 5.0,
+        "score_max": 12.0,
+        "score_quiz_as_percentage": 0.4167,
+        "result": 1.67
+    },
+    "critical_thinking_results": {
+        "score_value": 7.0,
+        "score_max": 12.0,
+        "score_quiz_as_percentage": 0.5832999999999999,
+        "result": 2.33
+    },
+    "technology_results": {
+        "score_value": 6.0,
+        "score_max": 12.0,
+        "score_quiz_as_percentage": 0.5,
+        "result": 2.0
+    },
+    "equity_results": {
+        "score_value": 6.0,
+        "score_max": 12.0,
+        "score_quiz_as_percentage": 0.5,
+        "result": 2.0
+    },
+    "overall_career_readiness_results": {
+        "result": 2.0
+    }
+}
