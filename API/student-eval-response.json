@@ -1,0 +1,154 @@
+{
+    "communication": {
+        "Oral Communication": {
+            "student": 47,
+            "evaluator": 99
+        },
+        "Written Communication": {
+            "student": 82,
+            "evaluator": 66
+        },
+        "Non-verbal Communication": {
+            "student": 25,
+            "evaluator": 16
+        },
+        "Active Listening": {
+            "student": 75,
+            "evaluator": 19
+        }
+    },
+    "teamwork": {
+        "Respect Diverse Perspectives": {
+            "student": 3,
+            "evaluator": 47
+        },
+        "Integrate Strengths": {
+            "student": 90,
+            "evaluator": 97
+        },
+        "Build Relationships for Collaboration": {
+            "student": 82,
+            "evaluator": 68
+        }
+    },
+    "self_development": {
+        "Awareness of Strengths & Challenges": {
+            "student": 97,
+            "evaluator": 58
+        },
+        "Professional Development": {
+            "student": 35,
+            "evaluator": 27
+        },
+        "Networking": {
+            "student": 99,
+            "evaluator": 28
+        }
+    },
+    "professionalism": {
+        "Act With Integrity": {
+            "student": 48,
+            "evaluator": 49
+        },
+        "Demonstrate Dependability": {
+            "student": 23,
+            "evaluator": 73
+        },
+        "Achieve Goals": {
+            "student": 50,
+            "evaluator": 98
+        }
+    },
+    "leadership": {
+        "Inspire, Persuade, & Motivate": {
+            "student": 60,
+            "evaluator": 68
+        },
+        "Engage Various Resources & Seek Feedback": {
+            "student": 79,
+            "evaluator": 82
+        },
+        "Facilitate Group Dynamics": {
+            "student": 50,
+            "evaluator": 28
+        }
+    },
+    "critical_thinking": {
+        "Display Situational Awareness": {
+            "student": 88,
+            "evaluator": 16
+        },
+        "Gather & Analyze Data": {
+            "student": 5,
+            "evaluator": 68
+        },
+        "Make Effective & Fair Decisions": {
+            "student": 69,
+            "evaluator": 4
+        }
+    },
+    "technology": {
+        "Leverage Technology": {
+            "pre": 86,
+            "evaluator": 24
+        },
+        "Adapt to New Technologies": {
+            "pre": 67,
+            "evaluator": 88
+        },
+        "Use Technology Ethically": {
+            "pre": 80,
+            "evaluator": 19
+        }
+    },
+    "equity": {
+        "Engage Multiple Perspectives": {
+            "student": 28,
+            "evaluator": 52
+        },
+        "Use Inclusive & Equitable Practices": {
+            "student": 49,
+            "evaluator": 36
+        },
+        "Advocate": {
+            "student": 15,
+            "evaluator": 95
+        }
+    },
+    "communication_results": {
+        "student": 8,
+        "evaluator": 87
+    },
+    "teamwork_results": {
+        "student": 86,
+        "evaluator": 69
+    },
+    "self_development_results": {
+        "student": 13,
+        "evaluator": 42
+    },
+    "professionalism_results": {
+        "student": 64,
+        "evaluator": 94
+    },
+    "leadership_results": {
+        "student": 14,
+        "evaluator": 3
+    },
+    "critical_thinking_results": {
+        "student": 40,
+        "evaluator": 20
+    },
+    "technology_results": {
+        "student": 27,
+        "evaluator": 54
+    },
+    "equity_results": {
+        "student": 40,
+        "evaluator": 17
+    },
+    "overall_career_readiness_results": {
+        "student": 76,
+        "evaluator": 33
+    }
+}

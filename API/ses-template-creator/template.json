@@ -1,0 +1,8 @@
+{
+    "Template": {
+        "TemplateName": "CareerReadinessTemplate",
+        "SubjectPart": "Career Readiness Inventory Report",
+        "HtmlPart": "<!-- Paste the entire HTML content here -->",
+        "TextPart": "Hi {{name}}, Thank you for taking time to reflect on the skills employers value the most. Here's a copy of your report for download: {{report_link}}"
+    }
+}

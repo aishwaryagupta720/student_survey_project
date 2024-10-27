@@ -1,0 +1,593 @@
+{
+    "communication": {
+        "Oral Communication": {
+            "Emerging Knowledge": [
+                25.66,
+                29
+            ],
+            "Understanding": [
+                23.89,
+                27
+            ],
+            "Early Application": [
+                21.24,
+                24
+            ],
+            "Advanced Application": [
+                29.2,
+                33
+            ],
+            "Total": 113,
+            "Max": [
+                29.2,
+                "Advanced Application"
+            ]
+        },
+        "Written Communication": {
+            "Emerging Knowledge": [
+                22.12,
+                25
+            ],
+            "Understanding": [
+                26.55,
+                30
+            ],
+            "Early Application": [
+                26.55,
+                30
+            ],
+            "Advanced Application": [
+                24.78,
+                28
+            ],
+            "Total": 113,
+            "Max": [
+                26.55,
+                "Understanding"
+            ]
+        },
+        "Non-verbal Communication": {
+            "Emerging Knowledge": [
+                35.4,
+                40
+            ],
+            "Understanding": [
+                16.81,
+                19
+            ],
+            "Early Application": [
+                24.78,
+                28
+            ],
+            "Advanced Application": [
+                23.01,
+                26
+            ],
+            "Total": 113,
+            "Max": [
+                35.4,
+                "Emerging Knowledge"
+            ]
+        },
+        "Active Listening": {
+            "Emerging Knowledge": [
+                25.66,
+                29
+            ],
+            "Understanding": [
+                23.01,
+                26
+            ],
+            "Early Application": [
+                15.04,
+                17
+            ],
+            "Advanced Application": [
+                36.28,
+                41
+            ],
+            "Total": 113,
+            "Max": [
+                36.28,
+                "Advanced Application"
+            ]
+        }
+    },
+    "teamwork": {
+        "Respect Diverse Perspectives": {
+            "Emerging Knowledge": [
+                27.43,
+                31
+            ],
+            "Understanding": [
+                19.47,
+                22
+            ],
+            "Early Application": [
+                7.96,
+                9
+            ],
+            "Advanced Application": [
+                45.13,
+                51
+            ],
+            "Total": 113,
+            "Max": [
+                45.13,
+                "Advanced Application"
+            ]
+        },
+        "Integrate Strengths": {
+            "Emerging Knowledge": [
+                15.93,
+                18
+            ],
+            "Understanding": [
+                33.63,
+                38
+            ],
+            "Early Application": [
+                31.86,
+                36
+            ],
+            "Advanced Application": [
+                18.58,
+                21
+            ],
+            "Total": 113,
+            "Max": [
+                33.63,
+                "Understanding"
+            ]
+        },
+        "Build Relationships for Collaboration": {
+            "Emerging Knowledge": [
+                33.63,
+                38
+            ],
+            "Understanding": [
+                15.04,
+                17
+            ],
+            "Early Application": [
+                31.86,
+                36
+            ],
+            "Advanced Application": [
+                19.47,
+                22
+            ],
+            "Total": 113,
+            "Max": [
+                33.63,
+                "Emerging Knowledge"
+            ]
+        }
+    },
+    "self_development": {
+        "Awareness of Strengths & Challenges": {
+            "Emerging Knowledge": [
+                21.24,
+                24
+            ],
+            "Understanding": [
+                38.05,
+                43
+            ],
+            "Early Application": [
+                30.09,
+                34
+            ],
+            "Advanced Application": [
+                10.62,
+                12
+            ],
+            "Total": 113,
+            "Max": [
+                38.05,
+                "Understanding"
+            ]
+        },
+        "Professional Development": {
+            "Emerging Knowledge": [
+                31.86,
+                36
+            ],
+            "Understanding": [
+                38.05,
+                43
+            ],
+            "Early Application": [
+                23.01,
+                26
+            ],
+            "Advanced Application": [
+                7.08,
+                8
+            ],
+            "Total": 113,
+            "Max": [
+                38.05,
+                "Understanding"
+            ]
+        },
+        "Networking": {
+            "Emerging Knowledge": [
+                35.4,
+                40
+            ],
+            "Understanding": [
+                22.12,
+                25
+            ],
+            "Early Application": [
+                32.74,
+                37
+            ],
+            "Advanced Application": [
+                9.73,
+                11
+            ],
+            "Total": 113,
+            "Max": [
+                35.4,
+                "Emerging Knowledge"
+            ]
+        }
+    },
+    "professionalism": {
+        "Act With Integrity": {
+            "Emerging Knowledge": [
+                32.74,
+                37
+            ],
+            "Understanding": [
+                10.62,
+                12
+            ],
+            "Early Application": [
+                5.31,
+                6
+            ],
+            "Advanced Application": [
+                51.33,
+                58
+            ],
+            "Total": 113,
+            "Max": [
+                51.33,
+                "Advanced Application"
+            ]
+        },
+        "Demonstrate Dependability": {
+            "Emerging Knowledge": [
+                32.74,
+                37
+            ],
+            "Understanding": [
+                14.16,
+                16
+            ],
+            "Early Application": [
+                15.04,
+                17
+            ],
+            "Advanced Application": [
+                38.05,
+                43
+            ],
+            "Total": 113,
+            "Max": [
+                38.05,
+                "Advanced Application"
+            ]
+        },
+        "Achieve Goals": {
+            "Emerging Knowledge": [
+                29.2,
+                33
+            ],
+            "Understanding": [
+                17.7,
+                20
+            ],
+            "Early Application": [
+                20.35,
+                23
+            ],
+            "Advanced Application": [
+                32.74,
+                37
+            ],
+            "Total": 113,
+            "Max": [
+                32.74,
+                "Advanced Application"
+            ]
+        }
+    },
+    "leadership": {
+        "Inspire, Persuade, & Motivate": {
+            "Emerging Knowledge": [
+                28.32,
+                32
+            ],
+            "Understanding": [
+                25.66,
+                29
+            ],
+            "Early Application": [
+                30.97,
+                35
+            ],
+            "Advanced Application": [
+                15.04,
+                17
+            ],
+            "Total": 113,
+            "Max": [
+                30.97,
+                "Early Application"
+            ]
+        },
+        "Engage Various Resources & Seek Feedback": {
+            "Emerging Knowledge": [
+                23.89,
+                27
+            ],
+            "Understanding": [
+                30.09,
+                34
+            ],
+            "Early Application": [
+                25.66,
+                29
+            ],
+            "Advanced Application": [
+                20.35,
+                23
+            ],
+            "Total": 113,
+            "Max": [
+                30.09,
+                "Understanding"
+            ]
+        },
+        "Facilitate Group Dynamics": {
+            "Emerging Knowledge": [
+                30.09,
+                34
+            ],
+            "Understanding": [
+                30.09,
+                34
+            ],
+            "Early Application": [
+                25.66,
+                29
+            ],
+            "Advanced Application": [
+                14.16,
+                16
+            ],
+            "Total": 113,
+            "Max": [
+                30.09,
+                "Emerging Knowledge"
+            ]
+        }
+    },
+    "critical_thinking": {
+        "Display Situational Awareness": {
+            "Emerging Knowledge": [
+                31.86,
+                36
+            ],
+            "Understanding": [
+                17.7,
+                20
+            ],
+            "Early Application": [
+                14.16,
+                16
+            ],
+            "Advanced Application": [
+                36.28,
+                41
+            ],
+            "Total": 113,
+            "Max": [
+                36.28,
+                "Advanced Application"
+            ]
+        },
+        "Gather & Analyze Data": {
+            "Emerging Knowledge": [
+                28.32,
+                32
+            ],
+            "Understanding": [
+                17.7,
+                20
+            ],
+            "Early Application": [
+                23.89,
+                27
+            ],
+            "Advanced Application": [
+                30.09,
+                34
+            ],
+            "Total": 113,
+            "Max": [
+                30.09,
+                "Advanced Application"
+            ]
+        },
+        "Make Effective & Fair Decisions": {
+            "Emerging Knowledge": [
+                21.24,
+                24
+            ],
+            "Understanding": [
+                17.7,
+                20
+            ],
+            "Early Application": [
+                25.66,
+                29
+            ],
+            "Advanced Application": [
+                35.4,
+                40
+            ],
+            "Total": 113,
+            "Max": [
+                35.4,
+                "Advanced Application"
+            ]
+        }
+    },
+    "technology": {
+        "Leverage Technology": {
+            "Emerging Knowledge": [
+                29.2,
+                33
+            ],
+            "Understanding": [
+                13.27,
+                15
+            ],
+            "Early Application": [
+                24.78,
+                28
+            ],
+            "Advanced Application": [
+                32.74,
+                37
+            ],
+            "Total": 113,
+            "Max": [
+                32.74,
+                "Advanced Application"
+            ]
+        },
+        "Adapt to New Technologies": {
+            "Emerging Knowledge": [
+                30.09,
+                34
+            ],
+            "Understanding": [
+                23.01,
+                26
+            ],
+            "Early Application": [
+                19.47,
+                22
+            ],
+            "Advanced Application": [
+                27.43,
+                31
+            ],
+            "Total": 113,
+            "Max": [
+                30.09,
+                "Emerging Knowledge"
+            ]
+        },
+        "Use Technology Ethically": {
+            "Emerging Knowledge": [
+                30.97,
+                35
+            ],
+            "Understanding": [
+                20.35,
+                23
+            ],
+            "Early Application": [
+                15.93,
+                18
+            ],
+            "Advanced Application": [
+                32.74,
+                37
+            ],
+            "Total": 113,
+            "Max": [
+                32.74,
+                "Advanced Application"
+            ]
+        }
+    },
+    "equity": {
+        "Engage Multiple Perspectives": {
+            "Emerging Knowledge": [
+                29.2,
+                33
+            ],
+            "Understanding": [
+                24.78,
+                28
+            ],
+            "Early Application": [
+                23.01,
+                26
+            ],
+            "Advanced Application": [
+                23.01,
+                26
+            ],
+            "Total": 113,
+            "Max": [
+                29.2,
+                "Emerging Knowledge"
+            ]
+        },
+        "Use Inclusive & Equitable Practices": {
+            "Emerging Knowledge": [
+                23.89,
+                27
+            ],
+            "Understanding": [
+                29.2,
+                33
+            ],
+            "Early Application": [
+                12.39,
+                14
+            ],
+            "Advanced Application": [
+                34.51,
+                39
+            ],
+            "Total": 113,
+            "Max": [
+                34.51,
+                "Advanced Application"
+            ]
+        },
+        "Advocate": {
+            "Emerging Knowledge": [
+                33.63,
+                38
+            ],
+            "Understanding": [
+                34.51,
+                39
+            ],
+            "Early Application": [
+                13.27,
+                15
+            ],
+            "Advanced Application": [
+                18.58,
+                21
+            ],
+            "Total": 113,
+            "Max": [
+                34.51,
+                "Understanding"
+            ]
+        }
+    }
+}

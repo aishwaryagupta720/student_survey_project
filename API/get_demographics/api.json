@@ -1,0 +1,321 @@
+// POST https://7gv0oagg0c.execute-api.us-east-1.amazonaws.com/dev/demographics
+{
+    "filters": {
+        "inventory_version": "plus",
+        "semester": "Fall 2024 - Spring 2025.",
+        "org_name": "efb383d9-2b47-4dcc-ac2f-8b6e93568b74",
+        "implementation_type": "general",
+        "demographics_question": [
+            {
+                "question": "d61f96be-29e6-4a26-bf62-55993bb6b8ac",
+                "response": "Woman",
+                "condition": "1"
+            }
+        ],
+        "custom_questions": []
+    }
+}
+// BODY
+{
+    "Are you a parent to a child under 18 years old?": {
+        "values": [
+            172,
+            2,
+            1
+        ],
+        "labels": [
+            "No",
+            "Prefer not to respond",
+            "Yes"
+        ],
+        "percentages": [
+            98.28571428571429,
+            1.1428571428571428,
+            0.5714285714285714
+        ]
+    },
+    "Are you the primary caregiver to a family member (not a child) such as a parent, partner, etc.?": {
+        "values": [
+            174,
+            1
+        ],
+        "labels": [
+            "No",
+            "Prefer not to respond"
+        ],
+        "percentages": [
+            99.42857142857143,
+            0.5714285714285714
+        ]
+    },
+    "Demographic Questions At what degree/certificate/class year are you currently enrolled?": {
+        "values": [
+            146,
+            1,
+            1,
+            19,
+            3,
+            2
+        ],
+        "labels": [
+            "Bachelor's - 1st Year",
+            "Bachelor's - 2nd Year",
+            "Bachelor's - 3rd Year",
+            "Bachelor's - 4th Year",
+            "Bachelor's - 5th Year or beyond",
+            "Masters"
+        ],
+        "percentages": [
+            84.88372093023256,
+            0.5813953488372093,
+            0.5813953488372093,
+            11.046511627906977,
+            1.744186046511628,
+            1.1627906976744187
+        ]
+    },
+    "Demographic QuestionsAt what degree/certificate/class year are you currently enrolled?": {
+        "values": [
+            3
+        ],
+        "labels": [
+            "Bachelor's - 1st Year"
+        ],
+        "percentages": [
+            100.0
+        ]
+    },
+    "Do you have a diagnosed disability?": {
+        "values": [
+            154,
+            13,
+            8
+        ],
+        "labels": [
+            "No",
+            "Prefer not to respond",
+            "Yes"
+        ],
+        "percentages": [
+            88.0,
+            7.428571428571429,
+            4.571428571428571
+        ]
+    },
+    "Do you identify as a member of the LGBTQ+ community?": {
+        "values": [
+            156,
+            12,
+            7
+        ],
+        "labels": [
+            "No",
+            "Prefer not to respond",
+            "Yes"
+        ],
+        "percentages": [
+            89.14285714285714,
+            6.857142857142858,
+            4.0
+        ]
+    },
+    "Gender: How do you identify?": {
+        "values": [
+            168,
+            2,
+            5
+        ],
+        "labels": [
+            "Man",
+            "Non-binary",
+            "Prefer not to respond"
+        ],
+        "percentages": [
+            96.0,
+            1.1428571428571428,
+            2.857142857142857
+        ]
+    },
+    "Have you ever served on active duty in the U.S. Armed Forces, Reserves, or National Guard?": {
+        "values": [
+            170,
+            1,
+            1,
+            1,
+            2
+        ],
+        "labels": [
+            "Never served in the military",
+            "Now on active duty",
+            "On active duty in the past, but not now",
+            "Only on active duty for training in the Reserves or National Guard",
+            "Prefer not to respond"
+        ],
+        "percentages": [
+            97.14285714285714,
+            0.5714285714285714,
+            0.5714285714285714,
+            0.5714285714285714,
+            1.1428571428571428
+        ]
+    },
+    "Is English the primary language spoken at your childhood home?": {
+        "values": [
+            22,
+            3,
+            150
+        ],
+        "labels": [
+            "No",
+            "Prefer not to respond",
+            "Yes"
+        ],
+        "percentages": [
+            12.571428571428573,
+            1.7142857142857144,
+            85.71428571428571
+        ]
+    },
+    "What is your age? (Optional)": {
+        "values": [
+            5,
+            152,
+            0,
+            1,
+            17
+        ],
+        "labels": [
+            "<18",
+            "18-25",
+            "25-30",
+            "30<",
+            "None"
+        ],
+        "percentages": [
+            2.857142857142857,
+            86.85714285714286,
+            0.0,
+            0.5714285714285714,
+            9.714285714285714
+        ]
+    },
+    "What is your parent(s) or caregiver(s) highest level of education in the United States?": {
+        "values": [
+            74,
+            5,
+            47,
+            21,
+            11,
+            3,
+            14
+        ],
+        "labels": [
+            "College Graduate (Associate/Bachelor's Degree)",
+            "Grade School",
+            "Graduate or Professional School",
+            "High School",
+            "None of the above (College experience outside the US, etc.)",
+            "Prefer not to respond",
+            "Some College"
+        ],
+        "percentages": [
+            42.285714285714285,
+            2.857142857142857,
+            26.857142857142858,
+            12.0,
+            6.2857142857142865,
+            1.7142857142857144,
+            8.0
+        ]
+    },
+    "Which of the following best represent your program or area of study?": {
+        "values": [
+            1,
+            3,
+            1,
+            6,
+            1,
+            1,
+            6,
+            1,
+            1,
+            2,
+            1,
+            13,
+            1
+        ],
+        "labels": [
+            "Aerospace, Aeronautical and Astronautical Engineering",
+            "Biomedical/Medical Engineering",
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Engineering Technologies/Technicians",
+            "Computer Science",
+            "Electrical, Electronics and Communications Engineering",
+            "Electrical/Electronics Maintenance and Repair Technology",
+            "Electrical Engineering Technologies/Technicians",
+            "Engineering, General",
+            "Mechanical Engineering",
+            "Mechanical Engineering Related Technologies/Technicians"
+        ],
+        "percentages": [
+            2.631578947368421,
+            7.894736842105263,
+            2.631578947368421,
+            15.789473684210526,
+            2.631578947368421,
+            2.631578947368421,
+            15.789473684210526,
+            2.631578947368421,
+            2.631578947368421,
+            5.263157894736842,
+            2.631578947368421,
+            34.21052631578947,
+            2.631578947368421
+        ]
+    },
+    "Which of the following categories would you use to best describe yourself?": {
+        "values": [
+            22,
+            9,
+            18,
+            1,
+            5,
+            1,
+            9,
+            110
+        ],
+        "labels": [
+            "Asian",
+            "Black",
+            "Hispanic or Latinx",
+            "International student with non-immigrant (visa) status in the U.S.",
+            "Multiracial",
+            "Native Hawaiian or Other Pacific Islander",
+            "Prefer not to respond",
+            "White"
+        ],
+        "percentages": [
+            12.571428571428573,
+            5.142857142857142,
+            10.285714285714285,
+            0.5714285714285714,
+            2.857142857142857,
+            0.5714285714285714,
+            5.142857142857142,
+            62.857142857142854
+        ]
+    },
+    "Which of the following sources did you use to finance your college tuition? (Optional)  Select all that apply:": {
+        "values": [
+            172
+        ],
+        "labels": [
+            null
+        ],
+        "percentages": [
+            100.0
+        ]
+    }
+}

@@ -1,0 +1,1422 @@
+// --------------------------------------------------------------------------------------
+// POST /summary
+// request
+{
+    "body": {
+        "filters": {
+            "inventory_version": "plus",
+            "semester": "Fall 2024 - Spring 2025.",
+            "org_name": "efb383d9-2b47-4dcc-ac2f-8b6e93568b74",
+            "implementation_type": "general",
+            "demographics_question": [
+                {
+                    "question": "d61f96be-29e6-4a26-bf62-55993bb6b8ac",
+                    "response": "Woman",
+                    "condition": "0"
+                }
+            ],
+            "custom_questions": []
+        }
+    }
+}
+//RESPONSE
+{
+    "total_student_responses": [
+        500,
+        24
+    ],
+    "total_students": [
+        450,
+        35
+    ],
+    "average_duration": [
+        320,
+        66
+    ]
+}
+// --------------------------------------------------------------------------------------
+//POST /dropdown
+// body
+{
+    "type": "field/demographics",
+    "dropdown": "inventory_version/semester/implementation_type/use_case_id",
+    "filters": {
+        "inventory_version": "nace/plus",
+        "semester": "Fall 2024 - Spring 2025.",
+        "org_name": "efb383d9-2b47-4dcc-ac2f-8b6e93568b74",
+        "implementation_type": "general",
+        "use_case_id": "",
+        "demographic_group": "",
+        "implementation_time": "pre/mid/post""demographics_question": [
+            {
+                "question": "d61f96be-29e6-4a26-bf62-55993bb6b8ac",
+                "response": "Woman",
+                "condition": "0"
+            }
+        ],
+        "custom_questions": []
+    }
+}
+// --------------------------------------------------------------------------------------
+//POST /competency
+// body
+{
+    "filters": {
+        "inventory_version": "nace/plus",
+        "semester": "Fall 2024 - Spring 2025.",
+        "org_name": "efb383d9-2b47-4dcc-ac2f-8b6e93568b74",
+        "implementation_type": "general",
+        "use_case_id": "",
+        "demographic_group": "",
+        "implementation_time": "pre/mid/post",
+        "demographics_question": [
+            {
+                "question": "d61f96be-29e6-4a26-bf62-55993bb6b8ac",
+                "response": "Woman",
+                "condition": "0"
+            }
+        ],
+        "custom_questions": []
+    }
+}
+
+  {
+    "statusCode": 200,
+    "body": "{\"Emerging Knowledge\": [\"33.33\", \"9\"], \"Understanding\": [\"18.52\", \"5\"], \"Early Application\": [\"22.22\", \"6\"], \"Advanced Application\": [\"25.93\", \"7\"], \"Average\": \"25.0\"}",
+    "headers": {
+        "Content-Type": "application/json"
+    }
+}
+// --------------------------------------------------------------------------------------
+//POST /competency-questions
+// body
+{
+    "filters": {
+        "inventory_version": "nace/plus",
+        "semester": "Fall 2024 - Spring 2025.",
+        "org_name": "efb383d9-2b47-4dcc-ac2f-8b6e93568b74",
+        "implementation_type": "general",
+        "use_case_id": "",
+        "demographic_group": "",
+        "implementation_time": "pre/mid/post",
+        "demographics_question": [
+            {
+                "question": "d61f96be-29e6-4a26-bf62-55993bb6b8ac",
+                "response": "Woman",
+                "condition": "0"
+            }
+        ],
+        "custom_questions": []
+    }
+}
+// response
+{
+    "statusCode": 200,
+    "body": {
+        "Communication": {
+            "Oral Communication": [
+                "33.33",
+                "9"
+            ],
+            "Written Communication": [
+                "18.52",
+                "5"
+            ],
+            "Non-verbal Communication": [
+                "22.22",
+                "6"
+            ],
+            "Active Listening": [
+                "25.93",
+                "7"
+            ]
+        },
+        "Teamwork": {
+            "Build Relationships for Collaboration": [
+                "30.00",
+                "8"
+            ],
+            "Respect Diverse Perspectives": [
+                "27.50",
+                "4"
+            ],
+            "Integrate Strengths": [
+                "35.00",
+                "10"
+            ]
+        },
+        "Self Development": {
+            "Awareness of Strengths & Challenges": [
+                "28.89",
+                "9"
+            ],
+            "Professional Development": [
+                "31.11",
+                "11"
+            ],
+            "Networking": [
+                "26.67",
+                "3"
+            ]
+        },
+        "Professionalism": {
+            "Act With Integrity": [
+                "29.44",
+                "9"
+            ],
+            "Demonstrate Dependability": [
+                "34.56",
+                "12"
+            ],
+            "Achieve Goals": [
+                "24.00",
+                "6"
+            ]
+        },
+        "Leadership": {
+            "Inspire, Persuade, & Motivate": [
+                "32.22",
+                "7"
+            ],
+            "Engage Various Resources & Seek Feedback": [
+                "30.78",
+                "9"
+            ],
+            "Facilitate Group Dynamics": [
+                "35.00",
+                "10"
+            ]
+        },
+        "Critical Thinking": {
+            "Display Situational Awareness": [
+                "33.33",
+                "6"
+            ],
+            "Gather & Analyze Data": [
+                "21.00",
+                "5"
+            ],
+            "Make Effective & Fair Decisions": [
+                "24.89",
+                "9"
+            ]
+        },
+        "Technology": {
+            "Leverage Technology": [
+                "37.77",
+                "13"
+            ],
+            "Adapt to New Technologies": [
+                "29.88",
+                "8"
+            ],
+            "Use Technology Ethically": [
+                "30.44",
+                "7"
+            ]
+        },
+        "Equity": {
+            "Engage Multiple Perspectives": [
+                "25.55",
+                "5"
+            ],
+            "Use Inclusive & Equitable Practices": [
+                "20.33",
+                "4"
+            ],
+            "Advocate": [
+                "28.89",
+                "9"
+            ]
+        }
+    },
+    "headers": {
+        "Content-Type": "application/json"
+    }
+}
+// --------------------------------------------------------------------------------------
+// POST https://7gv0oagg0c.execute-api.us-east-1.amazonaws.com/dev/work-experience
+// body
+{
+    "filters": {
+        "inventory_version": "plus",
+        "semester": "AY 24-25",
+        "org_name": "3840aa6f-a1d5-462b-b9b2-5d60b80a34e5",
+        "implementation_type": "work-exp",
+        "demographics_question": [],
+        "custom_questions": []
+    }
+}
+// response
+{
+    "Experiential Learning Type": {
+        "type": "pie",
+        "percentages": [
+            50.0,
+            11.11111111111111,
+            5.555555555555555,
+            22.22222222222222,
+            5.555555555555555,
+            5.555555555555555
+        ],
+        "labels": [
+            "On-campus student work",
+            "Practicum experience (e.g., nursing, student teaching, or other clinical experience)",
+            "Apprenticeship",
+            "Other",
+            "Classroom based projects",
+            "Internship"
+        ],
+        "values": [
+            9,
+            2,
+            1,
+            4,
+            1,
+            1
+        ]
+    },
+    "Pay Status": {
+        "type": "pie",
+        "percentages": [
+            16.666666666666664,
+            83.33333333333334
+        ],
+        "labels": [
+            "1-Unpaid",
+            "2-Paid"
+        ],
+        "values": [
+            3,
+            15
+        ]
+    },
+    "Academic Credit": {
+        "type": "pie",
+        "percentages": [
+            61.111111111111114,
+            38.88888888888889
+        ],
+        "labels": [
+            "1-Not for Credit",
+            "2-Credit"
+        ],
+        "values": [
+            11,
+            7
+        ]
+    },
+    "Average Hours and Weeks": {
+        "type": "table",
+        "hours": {
+            "min": 0,
+            "max": 40,
+            "avg": 18.125,
+            "response": 44.44444444444444
+        },
+        "weeks": {
+            "min": 0,
+            "max": 20,
+            "avg": 10.5,
+            "response": 33.33333333333333
+        }
+    }
+}
+// --------------------------------------------------------------------------------------
+// POST https://7gv0oagg0c.execute-api.us-east-1.amazonaws.com/dev/demographics
+// request body
+{
+    "filters": {
+        "inventory_version": "plus",
+        "semester": "Fall 2024 - Spring 2025.",
+        "org_name": "efb383d9-2b47-4dcc-ac2f-8b6e93568b74",
+        "implementation_type": "general",
+        "demographics_question": [
+            {
+                "question": "d61f96be-29e6-4a26-bf62-55993bb6b8ac",
+                "response": "Woman",
+                "condition": "1"
+            }
+        ],
+        "custom_questions": []
+    }
+}
+// response sample
+{
+    "Are you a parent to a child under 18 years old?": {
+        "values": [
+            164,
+            2,
+            1
+        ],
+        "labels": [
+            "No",
+            "Prefer not to respond",
+            "Yes"
+        ],
+        "percentages": [
+            98.20359281437125,
+            1.1976047904191618,
+            0.5988023952095809
+        ]
+    },
+    "Are you the primary caregiver to a family member (not a child) such as a parent, partner, etc.?": {
+        "values": [
+            166,
+            1
+        ],
+        "labels": [
+            "No",
+            "Prefer not to respond"
+        ],
+        "percentages": [
+            99.40119760479041,
+            0.5988023952095809
+        ]
+    },
+    "Demographic Questions At what degree/certificate/class year are you currently enrolled?": {
+        "values": [
+            141,
+            1,
+            1,
+            19,
+            3,
+            2
+        ],
+        "labels": [
+            "Bachelor's - 1st Year",
+            "Bachelor's - 2nd Year",
+            "Bachelor's - 3rd Year",
+            "Bachelor's - 4th Year",
+            "Bachelor's - 5th Year or beyond",
+            "Masters"
+        ],
+        "percentages": [
+            84.4311377245509,
+            0.5988023952095809,
+            0.5988023952095809,
+            11.377245508982035,
+            1.7964071856287425,
+            1.1976047904191618
+        ]
+    },
+    "Do you have a diagnosed disability?": {
+        "values": [
+            148,
+            13,
+            6
+        ],
+        "labels": [
+            "No",
+            "Prefer not to respond",
+            "Yes"
+        ],
+        "percentages": [
+            88.62275449101796,
+            7.784431137724551,
+            3.592814371257485
+        ]
+    },
+    "Do you identify as a member of the LGBTQ+ community?": {
+        "values": [
+            148,
+            12,
+            7
+        ],
+        "labels": [
+            "No",
+            "Prefer not to respond",
+            "Yes"
+        ],
+        "percentages": [
+            88.62275449101796,
+            7.18562874251497,
+            4.191616766467066
+        ]
+    },
+    "Gender: How do you identify?": {
+        "values": [
+            160,
+            2,
+            5
+        ],
+        "labels": [
+            "Man",
+            "Non-binary",
+            "Prefer not to respond"
+        ],
+        "percentages": [
+            95.80838323353294,
+            1.1976047904191618,
+            2.9940119760479043
+        ]
+    },
+    "Have you ever served on active duty in the U.S. Armed Forces, Reserves, or National Guard?": {
+        "values": [
+            162,
+            1,
+            1,
+            1,
+            2
+        ],
+        "labels": [
+            "Never served in the military",
+            "Now on active duty",
+            "On active duty in the past, but not now",
+            "Only on active duty for training in the Reserves or National Guard",
+            "Prefer not to respond"
+        ],
+        "percentages": [
+            97.0059880239521,
+            0.5988023952095809,
+            0.5988023952095809,
+            0.5988023952095809,
+            1.1976047904191618
+        ]
+    },
+    "Is English the primary language spoken at your childhood home?": {
+        "values": [
+            22,
+            3,
+            142
+        ],
+        "labels": [
+            "No",
+            "Prefer not to respond",
+            "Yes"
+        ],
+        "percentages": [
+            13.17365269461078,
+            1.7964071856287425,
+            85.02994011976048
+        ]
+    },
+    "What is your age? (Optional)": {
+        "values": [
+            5,
+            147,
+            0,
+            1,
+            14
+        ],
+        "labels": [
+            "<18",
+            "18-25",
+            "25-30",
+            "30<",
+            "None"
+        ],
+        "percentages": [
+            2.9940119760479043,
+            88.02395209580838,
+            0.0,
+            0.5988023952095809,
+            8.383233532934131
+        ]
+    },
+    "What is your parent(s) or caregiver(s) highest level of education in the United States?": {
+        "values": [
+            69,
+            5,
+            45,
+            20,
+            11,
+            3,
+            14
+        ],
+        "labels": [
+            "College Graduate (Associate/Bachelor's Degree)",
+            "Grade School",
+            "Graduate or Professional School",
+            "High School",
+            "None of the above (College experience outside the US, etc.)",
+            "Prefer not to respond",
+            "Some College"
+        ],
+        "percentages": [
+            41.31736526946108,
+            2.9940119760479043,
+            26.94610778443114,
+            11.976047904191617,
+            6.58682634730539,
+            1.7964071856287425,
+            8.383233532934131
+        ]
+    },
+    "Which of the following best represent your program or area of study?": {
+        "values": [
+            1,
+            2,
+            1,
+            3,
+            1,
+            5,
+            1,
+            1,
+            2,
+            1,
+            12
+        ],
+        "labels": [
+            "Aerospace, Aeronautical and Astronautical Engineering",
+            "Biomedical/Medical Engineering",
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Computer Engineering Technologies/Technicians",
+            "Computer Science",
+            "Electrical, Electronics and Communications Engineering",
+            "Electrical/Electronics Maintenance and Repair Technology",
+            "Electrical Engineering Technologies/Technicians",
+            "Engineering, General",
+            "Mechanical Engineering"
+        ],
+        "percentages": [
+            3.3333333333333335,
+            6.666666666666667,
+            3.3333333333333335,
+            10.0,
+            3.3333333333333335,
+            16.666666666666664,
+            3.3333333333333335,
+            3.3333333333333335,
+            6.666666666666667,
+            3.3333333333333335,
+            40.0
+        ]
+    },
+    "Which of the following categories would you use to best describe yourself?": {
+        "values": [
+            21,
+            9,
+            18,
+            1,
+            5,
+            1,
+            9,
+            103
+        ],
+        "labels": [
+            "Asian",
+            "Black",
+            "Hispanic or Latinx",
+            "International student with non-immigrant (visa) status in the U.S.",
+            "Multiracial",
+            "Native Hawaiian or Other Pacific Islander",
+            "Prefer not to respond",
+            "White"
+        ],
+        "percentages": [
+            12.574850299401197,
+            5.389221556886228,
+            10.778443113772456,
+            0.5988023952095809,
+            2.9940119760479043,
+            0.5988023952095809,
+            5.389221556886228,
+            61.67664670658682
+        ]
+    },
+    "Which of the following sources did you use to finance your college tuition? (Optional)  Select all that apply:": {
+        "values": [
+            167
+        ],
+        "labels": [
+            null
+        ],
+        "percentages": [
+            100.0
+        ]
+    }
+}
+// --------------------------------------------------------------------------------------
+// GET https://7gv0oagg0c.execute-api.us-east-1.amazonaws.com/dev/get-org
+//body
+{
+    "org_name": "University of Arkansas"
+}
+// response
+{
+    "org_id": "efb383d9-2b47-4dcc-ac2f-8b6e93568b74"
+}
+// --------------------------------------------------------------------------------------
+// POST https://7gv0oagg0c.execute-api.us-east-1.amazonaws.com/dev/social-capital-bars
+//body
+"filters": {
+    "inventory_version": "plus",
+    "semester": "Fall 2024 - Spring 2025.",
+    "org_name": "efb383d9-2b47-4dcc-ac2f-8b6e93568b74",
+    "implementation_type": "general",
+    "demographics_question": [
+        {
+            "question": "d61f96be-29e6-4a26-bf62-55993bb6b8ac",
+            "response": "Man",
+            "condition": "0"
+        }
+    ],
+    "custom_questions": []
+}
+// response 
+{
+    "I feel confident proactively introducing myself to professionals I have never met (who could be helpful in my career).": {
+        "values": [
+            118,
+            44,
+            55,
+            16
+        ],
+        "labels": [
+            "Agree",
+            "Disagree",
+            "Strongly Agree",
+            "Strongly Disagree"
+        ],
+        "percentages": [
+            50.64377682403433,
+            18.88412017167382,
+            23.605150214592275,
+            6.866952789699571
+        ]
+    },
+    "I have proactively asked someone I know to introduce me to someone they know so I can talk to them to learn about their career.": {
+        "values": [
+            54,
+            86,
+            29,
+            64
+        ],
+        "labels": [
+            "No, and I had not considered this",
+            "Not yet but I plan to",
+            "Yes, multiple times",
+            "Yes, once"
+        ],
+        "percentages": [
+            23.17596566523605,
+            36.9098712446352,
+            12.446351931330472,
+            27.467811158798284
+        ]
+    },
+    "I have proactively reached out to an alum from my school to learn about their career path.": {
+        "values": [
+            93,
+            86,
+            16,
+            38
+        ],
+        "labels": [
+            "No, and I had not considered this",
+            "Not yet but I plan to",
+            "Yes, multiple times",
+            "Yes, once"
+        ],
+        "percentages": [
+            39.91416309012876,
+            36.9098712446352,
+            6.866952789699571,
+            16.30901287553648
+        ]
+    }
+}
+// --------------------------------------------------------------------------------------
+// POST https://7gv0oagg0c.execute-api.us-east-1.amazonaws.com/dev/life-design
+//body
+{
+    "filters": {
+        "inventory_version": "plus",
+        "semester": "Fall 2024 - Spring 2025.",
+        "org_name": "efb383d9-2b47-4dcc-ac2f-8b6e93568b74",
+        "implementation_type": "general",
+        "demographics_question": [
+            {
+                "question": "d61f96be-29e6-4a26-bf62-55993bb6b8ac",
+                "response": "Man",
+                "condition": "0"
+            }
+        ],
+        "custom_questions": []
+    }
+}
+// response
+{
+    "I have the tools I need to build a happy, meaningful, and successful life.": {
+        "values": [
+            108,
+            12,
+            111,
+            3
+        ],
+        "labels": [
+            "Agree",
+            "Disagree",
+            "Strongly Agree",
+            "Strongly Disagree"
+        ],
+        "percentages": [
+            46.15384615384615,
+            5.128205128205128,
+            47.43589743589743,
+            1.282051282051282
+        ]
+    },
+    "I often try to look at problems from different perspectives to find new ways to move forward.": {
+        "values": [
+            145,
+            13,
+            75,
+            1
+        ],
+        "labels": [
+            "Agree",
+            "Disagree",
+            "Strongly Agree",
+            "Strongly Disagree"
+        ],
+        "percentages": [
+            61.965811965811966,
+            5.555555555555555,
+            32.05128205128205,
+            0.4273504273504274
+        ]
+    },
+    "I think taking measured risks and learning to embrace failure is important in my career success.": {
+        "values": [
+            128,
+            8,
+            97,
+            1
+        ],
+        "labels": [
+            "Agree",
+            "Disagree",
+            "Strongly Agree",
+            "Strongly Disagree"
+        ],
+        "percentages": [
+            54.700854700854705,
+            3.418803418803419,
+            41.452991452991455,
+            0.4273504273504274
+        ]
+    },
+    "When I feel stuck in life, I reach out to others who help me uncover new solutions or ways of thinking about the situation.": {
+        "values": [
+            131,
+            49,
+            50,
+            4
+        ],
+        "labels": [
+            "Agree",
+            "Disagree",
+            "Strongly Agree",
+            "Strongly Disagree"
+        ],
+        "percentages": [
+            55.98290598290598,
+            20.94017094017094,
+            21.367521367521366,
+            1.7094017094017095
+        ]
+    },
+    "When I feel stuck in regards to my career plans, I have strategies I use to help me move forward (become “unstuck”).": {
+        "values": [
+            130,
+            62,
+            40,
+            2
+        ],
+        "labels": [
+            "Agree",
+            "Disagree",
+            "Strongly Agree",
+            "Strongly Disagree"
+        ],
+        "percentages": [
+            55.55555555555556,
+            26.495726495726498,
+            17.094017094017094,
+            0.8547008547008548
+        ]
+    }
+}
+// POST https://7gv0oagg0c.execute-api.us-east-1.amazonaws.com/dev/career-mobility-bars
+{
+    "filters": {
+        "inventory_version": "plus",
+        "semester": "Fall 2024 - Spring 2025.",
+        "org_name": "efb383d9-2b47-4dcc-ac2f-8b6e93568b74",
+        "implementation_type": "general",
+        "demographics_question": [
+            {
+                "question": "d61f96be-29e6-4a26-bf62-55993bb6b8ac",
+                "response": "Man",
+                "condition": "0"
+            }
+        ],
+        "custom_questions": []
+    }
+}
+// body same as all + questions
+// POST https://7gv0oagg0c.execute-api.us-east-1.amazonaws.com/dev/career-mobility-pie
+{
+    "filters": {
+        "inventory_version": "plus",
+        "semester": "Fall 2024 - Spring 2025.",
+        "org_name": "efb383d9-2b47-4dcc-ac2f-8b6e93568b74",
+        "implementation_type": "general",
+        "demographics_question": [
+            {
+                "question": "d61f96be-29e6-4a26-bf62-55993bb6b8ac",
+                "response": "Man",
+                "condition": "0"
+            }
+        ],
+        "custom_questions": []
+    }
+}
+// body same as all + questions
+
+
+
+// POST https://7gv0oagg0c.execute-api.us-east-1.amazonaws.com/dev/social-capital-pie
+
+// body 
+{
+    "filters": {
+        "inventory_version": "plus",
+        "semester": "Fall 2024 - Spring 2025.",
+        "org_name": "efb383d9-2b47-4dcc-ac2f-8b6e93568b74",
+        "implementation_type": "general",
+        "demographics_question": [
+            {
+                "question": "d61f96be-29e6-4a26-bf62-55993bb6b8ac",
+                "response": "Man",
+                "condition": "0"
+            }
+        ],
+        "custom_questions": []
+    }
+}
+
+// response
+{
+    "I have proactively asked family members (other than parents/guardians) and friends about their job or career.": {
+        "Family Members (Choose Below)": {
+            "values": [
+                112,
+                32,
+                15,
+                6
+            ],
+            "labels": [
+                "4- Yes. Multiple times",
+                "3- Yes. Once",
+                "1-No and I had not considered this",
+                "2- Not yet but I plan to"
+            ],
+            "percentages": [
+                67.87878787878789,
+                19.393939393939394,
+                9.090909090909092,
+                3.6363636363636362
+            ]
+        },
+        "Friends and Family Friends (Choose Below)": {
+            "values": [
+                106,
+                29,
+                16,
+                14
+            ],
+            "labels": [
+                "4- Yes. Multiple times",
+                "3- Yes. Once",
+                "1-No and I had not considered this",
+                "2- Not yet but I plan to"
+            ],
+            "percentages": [
+                64.24242424242425,
+                17.575757575757574,
+                9.696969696969697,
+                8.484848484848486
+            ]
+        }
+    },
+    "I have relationships with former employers and teachers/professors who would be willing to give me a formal recommendation if/when needed.": {
+        "Employers (Choose Below)": {
+            "values": [
+                71,
+                51,
+                22,
+                21
+            ],
+            "labels": [
+                "1-Not Yet",
+                "2- 1 Relationship",
+                "3- 2 Relationships",
+                "4- 3 or more Relationships"
+            ],
+            "percentages": [
+                43.03030303030303,
+                30.909090909090907,
+                13.333333333333334,
+                12.727272727272727
+            ]
+        },
+        "Teachers/Professors (Choose Below)": {
+            "values": [
+                64,
+                50,
+                27,
+                24
+            ],
+            "labels": [
+                "1-Not Yet",
+                "4- 3 or more Relationships",
+                "3- 2 Relationships",
+                "2- 1 Relationship"
+            ],
+            "percentages": [
+                38.78787878787879,
+                30.303030303030305,
+                16.363636363636363,
+                14.545454545454545
+            ]
+        }
+    }
+}
+
+
+
+// POST https://7gv0oagg0c.execute-api.us-east-1.amazonaws.com/dev/pre-post-competency
+
+//response
+{
+    "post": {
+        "communication_results": 2.0277777777777777,
+        "teamwork_results": 2.1855555555555557,
+        "self_development_results": 1.9622222222222223,
+        "professionalism_results": 2.2222222222222223,
+        "leadership_results": 2.518888888888889,
+        "critical_thinking_results": 2.035555555555556,
+        "technology_results": 2.4444444444444446,
+        "equity_results": 2.0733333333333333,
+        "overall_career_readiness_results": 2.1855555555555553
+    },
+    "pre": {
+        "communication_results": 1.7916666666666667,
+        "teamwork_results": 1.8522222222222224,
+        "self_development_results": 1.8333333333333333,
+        "professionalism_results": 1.9066666666666667,
+        "leadership_results": 1.8699999999999999,
+        "critical_thinking_results": 1.8699999999999999,
+        "technology_results": 1.9249999999999996,
+        "equity_results": 1.7966666666666669,
+        "overall_career_readiness_results": 1.8549999999999995
+    }
+}
+
+// POST https://7gv0oagg0c.execute-api.us-east-1.amazonaws.com/dev/pre-post-questions
+
+//response
+
+{
+    "communication": {
+        "Oral Communication": {
+            "pre": 90,
+            "post": 47
+        },
+        "Written Communication": {
+            "pre": 96,
+            "post": 66
+        },
+        "Non-verbal Communication": {
+            "pre": 79,
+            "post": 23
+        },
+        "Active Listening": {
+            "pre": 34,
+            "post": 94
+        }
+    },
+    "teamwork": {
+        "Respect Diverse Perspectives": {
+            "pre": 18,
+            "post": 40
+        },
+        "Integrate Strengths": {
+            "pre": 20,
+            "post": 71
+        },
+        "Build Relationships for Collaboration": {
+            "pre": 27,
+            "post": 72
+        }
+    },
+    "self_development": {
+        "Awareness of Strengths & Challenges": {
+            "pre": 42,
+            "post": 55
+        },
+        "Professional Development": {
+            "pre": 16,
+            "post": 28
+        },
+        "Networking": {
+            "pre": 15,
+            "post": 41
+        }
+    },
+    "professionalism": {
+        "Act With Integrity": {
+            "pre": 52,
+            "post": 26
+        },
+        "Demonstrate Dependability": {
+            "pre": 92,
+            "post": 88
+        },
+        "Achieve Goals": {
+            "pre": 61,
+            "post": 24
+        }
+    },
+    "leadership": {
+        "Inspire, Persuade, & Motivate": {
+            "pre": 89,
+            "post": 41
+        },
+        "Engage Various Resources & Seek Feedback": {
+            "pre": 26,
+            "post": 96
+        },
+        "Facilitate Group Dynamics": {
+            "pre": 76,
+            "post": 95
+        }
+    },
+    "critical_thinking": {
+        "Display Situational Awareness": {
+            "pre": 26,
+            "post": 26
+        },
+        "Gather & Analyze Data": {
+            "pre": 27,
+            "post": 51
+        },
+        "Make Effective & Fair Decisions": {
+            "pre": 21,
+            "post": 79
+        }
+    },
+    "technology": {
+        "Leverage Technology": {
+            "pre": 75,
+            "post": 38
+        },
+        "Adapt to New Technologies": {
+            "pre": 97,
+            "post": 41
+        },
+        "Use Technology Ethically": {
+            "pre": 6,
+            "post": 11
+        }
+    },
+    "equity": {
+        "Engage Multiple Perspectives": {
+            "pre": 66,
+            "post": 62
+        },
+        "Use Inclusive & Equitable Practices": {
+            "pre": 96,
+            "post": 39
+        },
+        "Advocate": {
+            "pre": 83,
+            "post": 48
+        }
+    }
+}
+
+
+// POST https://7gv0oagg0c.execute-api.us-east-1.amazonaws.com/dev/pre-post-summary
+
+// body
+{
+    "filters": {
+        "inventory_version": "plus",
+        "semester": "Fall 2024 - Spring 2025.",
+        "org_name": "efb383d9-2b47-4dcc-ac2f-8b6e93568b74"
+    }
+}
+
+// response
+{
+    "logo": "https://cri-organization-logos.s3.amazonaws.com/efb383d9-2b47-4dcc-ac2f-8b6e93568b74/logo/logo.png",
+    "pre": [
+        "32",
+        "1100.0"
+    ],
+    "post": [
+        "0",
+        "0.0"
+    ],
+    "average_duration": [
+        "671.3254573170731707",
+        "13.99"
+    ]
+}
+
+// POST https://7gv0oagg0c.execute-api.us-east-1.amazonaws.com/dev/student-filters
+
+
+// body
+{
+    "id":"c193e17d-e1a6-47a1-b2a1-b7ec25e63bf4"
+}
+
+// response
+
+{
+    "general": [
+        "Annual Invitation:Fall 24"
+    ]
+}
+
+
+// POST https://7gv0oagg0c.execute-api.us-east-1.amazonaws.com/dev/student-details
+
+// body
+{
+    "id": "88d2c084-7686-454f-ab43-167c72c680af",
+    "implementation_type": "work-exp",
+    "filter": "HUB Robeson Center:24 - 25 Academic Year"
+}
+
+// response
+{
+    "degree": "Bachelor's - 3rd Year",
+    "program": "Education, General",
+    "work_experience": "Job Shadowing",
+    "timestamp": "2024-10-17 17:23:42",
+    "name": "Francis Walsh",
+    "org_name": "Penn State University",
+    "Evaluator Name": "Lissa Dochat",
+    "Evaluator Email": "mad6065@psu.edu"
+}
+
+
+// POST https://7gv0oagg0c.execute-api.us-east-1.amazonaws.com/dev/student-competencies
+// body
+{
+    "id": "88d2c084-7686-454f-ab43-167c72c680af",
+    "implementation_type": "work-exp",
+    "filter": "HUB Robeson Center:24 - 25 Academic Year",
+    "evaluator_email": ["mad6065@psu.edu"]
+
+}
+
+// response
+{
+    "communication_results": {
+        "pre": "Emerging Knowledge",
+        "mid": "Emerging Knowledge",
+        "post": null,
+        "evaluator": "Advanced Application"
+    },
+    "teamwork_results": {
+        "pre": "Understanding",
+        "mid": "Understanding",
+        "post": null,
+        "evaluator": "Advanced Application"
+    },
+    "self_development_results": {
+        "pre": "Emerging Knowledge",
+        "mid": "Emerging Knowledge",
+        "post": null,
+        "evaluator": "Advanced Application"
+    },
+    "professionalism_results": {
+        "pre": "Emerging Knowledge",
+        "mid": "Emerging Knowledge",
+        "post": null,
+        "evaluator": "Advanced Application"
+    },
+    "leadership_results": {
+        "pre": "Emerging Knowledge",
+        "mid": "Emerging Knowledge",
+        "post": null,
+        "evaluator": "Advanced Application"
+    },
+    "critical_thinking_results": {
+        "pre": "Emerging Knowledge",
+        "mid": "Emerging Knowledge",
+        "post": null,
+        "evaluator": "Advanced Application"
+    },
+    "technology_results": {
+        "pre": "Emerging Knowledge",
+        "mid": "Emerging Knowledge",
+        "post": null,
+        "evaluator": "Advanced Application"
+    },
+    "equity_results": {
+        "pre": "Emerging Knowledge",
+        "mid": "Emerging Knowledge",
+        "post": null,
+        "evaluator": "Advanced Application"
+    },
+    "overall_career_readiness_results": {
+        "pre": "Emerging Knowledge",
+        "mid": "Emerging Knowledge",
+        "post": null,
+        "evaluator": "Advanced Application"
+    },
+    "pre": true,
+    "mid": true,
+    "post": false,
+    "evaluator": true,
+    "communication": {
+        "Oral Communication": {
+            "mid": 2.0,
+            "pre": 2.0,
+            "evaluator": 4.0
+        },
+        "Written Communication": {
+            "mid": 3.0,
+            "pre": 3.0,
+            "evaluator": 4.0
+        },
+        "Non-verbal Communication": {
+            "mid": 1.0,
+            "pre": 1.0,
+            "evaluator": 4.0
+        },
+        "Active Listening": {
+            "mid": 1.0,
+            "pre": 1.0,
+            "evaluator": 4.0
+        }
+    },
+    "critical_thinking": {
+        "Display Situational Awareness": {
+            "mid": 1.0,
+            "pre": 1.0,
+            "evaluator": 4.0
+        },
+        "Gather & Analyze Data": {
+            "mid": 1.0,
+            "pre": 1.0,
+            "evaluator": 4.0
+        },
+        "Make Effective & Fair Decisions": {
+            "mid": 1.0,
+            "pre": 1.0,
+            "evaluator": 4.0
+        }
+    },
+    "equity": {
+        "Engage Multiple Perspectives": {
+            "mid": 1.0,
+            "pre": 1.0,
+            "evaluator": 4.0
+        },
+        "Use Inclusive & Equitable Practices": {
+            "mid": 1.0,
+            "pre": 1.0,
+            "evaluator": 4.0
+        },
+        "Advocate": {
+            "mid": 1.0,
+            "pre": 1.0,
+            "evaluator": 4.0
+        }
+    },
+    "leadership": {
+        "Inspire, Persuade, & Motivate": {
+            "mid": 2.0,
+            "pre": 2.0,
+            "evaluator": 4.0
+        },
+        "Engage Various Resources & Seek Feedback": {
+            "mid": 2.0,
+            "pre": 2.0,
+            "evaluator": 4.0
+        },
+        "Facilitate Group Dynamics": {
+            "mid": 1.0,
+            "pre": 1.0,
+            "evaluator": 4.0
+        }
+    },
+    "professionalism": {
+        "Act With Integrity": {
+            "mid": 2.0,
+            "pre": 2.0,
+            "evaluator": 4.0
+        },
+        "Demonstrate Dependability": {
+            "mid": 1.0,
+            "pre": 1.0,
+            "evaluator": 3.0
+        },
+        "Achieve Goals": {
+            "mid": 1.0,
+            "pre": 1.0,
+            "evaluator": 4.0
+        }
+    },
+    "self_development": {
+        "Awareness of Strengths & Challenges": {
+            "mid": 1.0,
+            "pre": 1.0,
+            "evaluator": 4.0
+        },
+        "Professional Development": {
+            "mid": 1.0,
+            "pre": 1.0,
+            "evaluator": 3.0
+        },
+        "Networking": {
+            "mid": 2.0,
+            "pre": 2.0,
+            "evaluator": 3.0
+        }
+    },
+    "teamwork": {
+        "Respect Diverse Perspectives": {
+            "mid": 2.0,
+            "pre": 2.0,
+            "evaluator": 4.0
+        },
+        "Integrate Strengths": {
+            "mid": 2.0,
+            "pre": 2.0,
+            "evaluator": 2.0
+        },
+        "Build Relationships for Collaboration": {
+            "mid": 2.0,
+            "pre": 2.0,
+            "evaluator": 4.0
+        }
+    },
+    "technology": {
+        "Leverage Technology": {
+            "mid": 1.0,
+            "pre": 1.0,
+            "evaluator": 4.0
+        },
+        "Adapt to New Technologies": {
+            "mid": 1.0,
+            "pre": 1.0,
+            "evaluator": 4.0
+        },
+        "Use Technology Ethically": {
+            "mid": 2.0,
+            "pre": 2.0,
+            "evaluator": 4.0
+        }
+    }
+}

@@ -1,0 +1,191 @@
+// POST https://7gv0oagg0c.execute-api.us-east-1.amazonaws.com/dev/competency
+{
+    "filters": {
+        "inventory_version": "plus",
+        "org_name": "efb383d9-2b47-4dcc-ac2f-8b6e93568b74",
+        "custom_questions": []
+    }
+}
+//  RESPONSE
+{
+    "communication_results": {
+        "Emerging Knowledge": [
+            "41.69",
+            "572"
+        ],
+        "Understanding": [
+            "26.31",
+            "361"
+        ],
+        "Early Application": [
+            "13.92",
+            "191"
+        ],
+        "Advanced Application": [
+            "18.08",
+            "248"
+        ],
+        "Average": "57.28110061793168",
+        "Max": "Emerging Knowledge"
+    },
+    "teamwork_results": {
+        "Emerging Knowledge": [
+            "42.49",
+            "583"
+        ],
+        "Understanding": [
+            "18.8",
+            "258"
+        ],
+        "Early Application": [
+            "13.78",
+            "189"
+        ],
+        "Advanced Application": [
+            "24.93",
+            "342"
+        ],
+        "Average": "59.512744451768725",
+        "Max": "Emerging Knowledge"
+    },
+    "self_development_results": {
+        "Emerging Knowledge": [
+            "38.48",
+            "528"
+        ],
+        "Understanding": [
+            "30.1",
+            "413"
+        ],
+        "Early Application": [
+            "18.88",
+            "259"
+        ],
+        "Advanced Application": [
+            "12.54",
+            "172"
+        ],
+        "Average": "51.70095778644911",
+        "Max": "Emerging Knowledge"
+    },
+    "professionalism_results": {
+        "Emerging Knowledge": [
+            "45.12",
+            "619"
+        ],
+        "Understanding": [
+            "13.12",
+            "180"
+        ],
+        "Early Application": [
+            "8.6",
+            "118"
+        ],
+        "Advanced Application": [
+            "33.16",
+            "455"
+        ],
+        "Average": "66.02188392007622",
+        "Max": "Emerging Knowledge"
+    },
+    "leadership_results": {
+        "Emerging Knowledge": [
+            "36.73",
+            "504"
+        ],
+        "Understanding": [
+            "25.36",
+            "348"
+        ],
+        "Early Application": [
+            "20.55",
+            "282"
+        ],
+        "Advanced Application": [
+            "17.35",
+            "238"
+        ],
+        "Average": "55.30042250389147",
+        "Max": "Emerging Knowledge"
+    },
+    "critical_thinking_results": {
+        "Emerging Knowledge": [
+            "37.17",
+            "510"
+        ],
+        "Understanding": [
+            "21.21",
+            "291"
+        ],
+        "Early Application": [
+            "14.29",
+            "196"
+        ],
+        "Advanced Application": [
+            "27.33",
+            "375"
+        ],
+        "Average": "61.63522012578609",
+        "Max": "Emerging Knowledge"
+    },
+    "technology_results": {
+        "Emerging Knowledge": [
+            "36.66",
+            "503"
+        ],
+        "Understanding": [
+            "21.65",
+            "297"
+        ],
+        "Early Application": [
+            "15.67",
+            "215"
+        ],
+        "Advanced Application": [
+            "26.02",
+            "357"
+        ],
+        "Average": "61.33890641430071",
+        "Max": "Emerging Knowledge"
+    },
+    "equity_results": {
+        "Emerging Knowledge": [
+            "41.47",
+            "569"
+        ],
+        "Understanding": [
+            "22.81",
+            "313"
+        ],
+        "Early Application": [
+            "15.45",
+            "212"
+        ],
+        "Advanced Application": [
+            "20.26",
+            "278"
+        ],
+        "Average": "56.35349416694986",
+        "Max": "Emerging Knowledge"
+    },
+    "overall_career_readiness_results": {
+        "Emerging Knowledge": [
+            "33.82",
+            "464"
+        ],
+        "Understanding": [
+            "27.48",
+            "377"
+        ],
+        "Early Application": [
+            "22.81",
+            "313"
+        ],
+        "Advanced Application": [
+            "15.89",
+            "218"
+        ],
+        "Average": "54.71838890723038",
+        "Max": "Emerging Knowledge"
+    }
+}

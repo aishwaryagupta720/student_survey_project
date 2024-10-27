@@ -1,0 +1,179 @@
+{
+    "statusCode": 200,
+    "body": {
+        "communication_results": {
+            "Emerging Knowledge": [
+                "29.63",
+                "8"
+            ],
+            "Understanding": [
+                "18.52",
+                "5"
+            ],
+            "Early Application": [
+                "18.52",
+                "5"
+            ],
+            "Advanced Application": [
+                "33.33",
+                "9"
+            ],
+            "Average": "25.0"
+        },
+        "teamwork_results": {
+            "Emerging Knowledge": [
+                "25.93",
+                "7"
+            ],
+            "Understanding": [
+                "18.52",
+                "5"
+            ],
+            "Early Application": [
+                "18.52",
+                "5"
+            ],
+            "Advanced Application": [
+                "37.04",
+                "10"
+            ],
+            "Average": "25.0"
+        },
+        "self_development_results": {
+            "Emerging Knowledge": [
+                "44.44",
+                "12"
+            ],
+            "Understanding": [
+                "25.93",
+                "7"
+            ],
+            "Early Application": [
+                "18.52",
+                "5"
+            ],
+            "Advanced Application": [
+                "11.11",
+                "3"
+            ],
+            "Average": "25.0"
+        },
+        "professionalism_results": {
+            "Emerging Knowledge": [
+                "29.63",
+                "8"
+            ],
+            "Understanding": [
+                "7.41",
+                "2"
+            ],
+            "Early Application": [
+                "11.11",
+                "3"
+            ],
+            "Advanced Application": [
+                "51.85",
+                "14"
+            ],
+            "Average": "25.0"
+        },
+        "leadership_results": {
+            "Emerging Knowledge": [
+                "33.33",
+                "9"
+            ],
+            "Understanding": [
+                "29.63",
+                "8"
+            ],
+            "Early Application": [
+                "11.11",
+                "3"
+            ],
+            "Advanced Application": [
+                "25.93",
+                "7"
+            ],
+            "Average": "25.0"
+        },
+        "critical_thinking_results": {
+            "Emerging Knowledge": [
+                "37.04",
+                "10"
+            ],
+            "Understanding": [
+                "11.11",
+                "3"
+            ],
+            "Early Application": [
+                "7.41",
+                "2"
+            ],
+            "Advanced Application": [
+                "44.44",
+                "12"
+            ],
+            "Average": "25.0"
+        },
+        "technology_results": {
+            "Emerging Knowledge": [
+                "37.04",
+                "10"
+            ],
+            "Understanding": [
+                "3.7",
+                "1"
+            ],
+            "Early Application": [
+                "18.52",
+                "5"
+            ],
+            "Advanced Application": [
+                "40.74",
+                "11"
+            ],
+            "Average": "25.0"
+        },
+        "equity_results": {
+            "Emerging Knowledge": [
+                "33.33",
+                "9"
+            ],
+            "Understanding": [
+                "22.22",
+                "6"
+            ],
+            "Early Application": [
+                "22.22",
+                "6"
+            ],
+            "Advanced Application": [
+                "22.22",
+                "6"
+            ],
+            "Average": "25.0"
+        },
+        "overall_career_readiness_results": {
+            "Emerging Knowledge": [
+                "33.33",
+                "9"
+            ],
+            "Understanding": [
+                "18.52",
+                "5"
+            ],
+            "Early Application": [
+                "22.22",
+                "6"
+            ],
+            "Advanced Application": [
+                "25.93",
+                "7"
+            ],
+            "Average": "25.0"
+        }
+    },
+    "headers": {
+        "Content-Type": "application/json"
+    }
+}
