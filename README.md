@@ -7,7 +7,7 @@ The Student Survey Project is designed to collect and analyze feedback from stud
 ## Architecture
 Below is the architecture diagram illustrating how different AWS services are integrated into the project:
 
-![Architecture Diagram](path_to_architecture.png)
+![Architecture Diagram](architecture.png)
 
 The architecture utilizes several AWS services to streamline the workflow:
 - **Amazon API Gateway** manages incoming requests from various forms, routing them to the appropriate Python-based AWS Lambda functions.
@@ -20,7 +20,7 @@ The architecture utilizes several AWS services to streamline the workflow:
 ## Database Schema
 Here's the schema diagram showing the database layout:
 
-![Schema Diagram](path_to_schema.png)
+![Schema Diagram](schema.png)
 
 The database schema includes multiple tables designed to handle various aspects of data storage:
 - **Contact_Table**: Stores contact information and demographics.
