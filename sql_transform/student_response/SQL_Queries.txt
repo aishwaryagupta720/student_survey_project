@@ -1,5 +1,5 @@
 CREATE TABLE student_response (
-    response_id VARCHAR(255) PRIMARY KEY,
+    response_id VARCHAR(255),
     timestamp TIMESTAMP,
     email VARCHAR(255),
     name VARCHAR(100),
@@ -10,12 +10,13 @@ CREATE TABLE student_response (
     survey_url VARCHAR(255),
     survey_title VARCHAR(255),
     duration INTEGER,
-    org_type VARCHAR(50),
-    inventory_version VARCHAR(50),
-    implementation_type VARCHAR(50),
-    use_case_id VARCHAR(50),
-    semester VARCHAR(50),
-    attempt_type VARCHAR(50),
+    org_name VARCHAR(255),
+    org_type VARCHAR(100),
+    inventory_version VARCHAR(100),
+    implementation_type VARCHAR(100),
+    use_case_id VARCHAR(100),
+    semester VARCHAR(100),
+    attempt_type VARCHAR(100),
     communication JSONB,
     teamwork JSONB,
     self_development JSONB,
@@ -37,8 +38,16 @@ CREATE TABLE student_response (
     critical_thinking_results JSONB,
     technology_results JSONB,
     equity_results JSONB,
-    overall_career_readiness_results JSONB
+    overall_career_readiness_results JSONB,
+    PRIMARY KEY (response_id, email)
 );
+
+ALTER TABLE studnet_response
+ADD COLUMN custom_fields JSONB;
+
+ALTER TABLE organization_record
+ALTER COLUMN inventory_version TYPE VARCHAR(255) [];
+
 
 
 CREATE TABLE observer_response (
@@ -83,3 +92,47 @@ CREATE TABLE observer_response (
     equity_results jsonb,
     overall_career_readiness_results jsonb
 );
+
+SELECT 
+    kcu.column_name
+FROM 
+    information_schema.table_constraints AS tc 
+JOIN 
+    information_schema.key_column_usage AS kcu 
+    ON tc.constraint_name = kcu.constraint_name
+    AND tc.table_schema = kcu.table_schema
+WHERE 
+    tc.table_name = 'organization_record' 
+    AND tc.table_schema = 'public'  -- change this if your schema is different
+    AND tc.constraint_type = 'PRIMARY KEY';
+
+
+
+CREATE TABLE organization_record (
+    organization_id UUID DEFAULT uuid_generate_v4(),  -- UUID as primary key
+    org_name VARCHAR(255) NOT NULL,                               -- Organization name
+    email VARCHAR(255) NOT NULL,                           -- Unique email with constraint
+    org_type VARCHAR(255),                                        -- Organization type
+    implementation_type VARCHAR(255)[],                           -- Array of implementation types
+    inventory_version VARCHAR(255),                               -- Inventory version
+    use_case_id VARCHAR(255),                                     -- Use case identifier
+    semester VARCHAR(255),                                        -- Semester details
+    logo_url TEXT,                                                 -- URL to the organization's logo
+    PRIMARY KEY (organization_id, org_name)
+);
+
+-- Create a single table for Questions, Options, and Scores
+CREATE TABLE question_bank (
+    id UUID DEFAULT uuid_generate_v4(),
+    target VARCHAR(255) [],
+    question_order INT,
+    category VARCHAR(255),
+    org_name VARCHAR(255),
+    question TEXT NOT NULL,
+    options JSONB ,
+    score_total INT,
+    PRIMARY KEY (id)
+);
+
+ALTER TABLE student_response
+ADD COLUMN implementation_time VARCHAR(255);

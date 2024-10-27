@@ -1,0 +1,51 @@
+group_mapping = {
+    'First Generation': ['dd5c1e33-8813-46af-9f79-75f10e9d69ff',"%graduate%",'1'],
+    'International': ['a54979a3-daed-4b76-8968-663daa743786','International student with non-immigrant (visa) status in the U.S.','0']
+}
+
+demographic_mapping = { 
+    'Gender': 'd61f96be-29e6-4a26-bf62-55993bb6b8ac',
+    'DemographicCategory': 'a54979a3-daed-4b76-8968-663daa743786',
+    'PresetGroups': 'dd5c1e33-8813-46af-9f79-75f10e9d69ff',
+    'Disability': '9a149e36-a5e8-4602-b6a4-e47aab952508',
+    'LGBTQ': 'bd7e349a-4e0a-435d-9a68-551cc7999981',
+    'Language': 'd16579f7-ec39-4c00-b8e9-4b297a62c10d',
+    'Parent': '37963d7a-dd81-4366-9ec0-5e02b0dadf63',
+    'Military': 'af505188-1f22-405c-88e0-d953591f0a6b',
+    'Caregiver': 'c2436b4e-8084-4346-b78e-372b063aa9d4',
+    'FinanceSources': 'ba35d9d9-8265-4e8e-8bc5-49264505917c',
+    'Age': 'a7dab9b7-a07d-430c-a8c7-3113f12d2c00',
+    'Program': 'd9b64530-72b3-45b2-b714-2016c5ac7626',
+    'AcademicLevel': 'c974a276-95a6-4237-869e-5161234da62d'
+}
+
+inventory_version
+semester
+org_name
+implementation_type
+use_case_id
+demographic_group
+demographics_question
+
+
+
+{
+    "type": "demographics",
+    "dropdown": "Degree",
+    "filters": {
+        "demographics_question":[
+            {
+          "question": "d61f96be-29e6-4a26-bf62-55993bb6b8ac",
+          "response": "Man",
+          "condition": "0"
+        },
+        {
+          "question": "d61f96be-29e6-4a26-bf62-55993bb6b8ac",
+          "response": "Woman",
+          "condition": "0"
+        }
+        ]
+    }
+}
+
+

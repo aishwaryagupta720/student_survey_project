@@ -1,0 +1,2970 @@
+{
+    "id": 112294861,
+    "timestamp": "2024-09-17 15:18:18",
+    "timestamp_utc": "2024-09-17 19:47:50",
+    "unique_identifier": "fc7f4520-50a8-485f-8532-e029340a8c7c",
+    "latitude": "None",
+    "longitude": "None",
+    "shared": 0,
+    "duration": 1061,
+    "partial": false,
+    "quiz_time": "None",
+    "user_agent": "None",
+    "ip_address": "None",
+    "device": "None",
+    "score": "None",
+    "max_score": "None",
+    "custom_score": 182,
+    "max_custom_score": 257,
+    "custom_score_as_percentage": "71%",
+    "quiz_score_as_percentage": "0%",
+    "respondent": {
+        "name": "Charlotte",
+        "last_name": "McCoy",
+        "email": "cfmccoy@uark.edu",
+        "external_id": "None",
+        "custom_data": "None",
+        "unique_identifier": "IikmWag8K",
+        "do_not_mail": false,
+        "user_id": "None",
+        "organization_id": "None",
+        "updated_at": "2024-09-17T20:18:19.000000Z",
+        "has_additional_data": false,
+        "fields": []
+    },
+    "campaign": {
+        "title": "None",
+        "url": "None"
+    },
+    "language": {
+        "name": "English",
+        "code": "en"
+    },
+    "outcomes": [
+        {
+            "title": "PDF Report",
+            "text": "<p class=\"text-align-center\" style=\"text-align: center;\">  <strong>    <span style=\"font-size: 35px;\">Thank You!</span>  </strong><strong><span style=\"font-size: 35px;\"><br></span></strong></p>\n<p class=\"text-align-center\" style=\"text-align: center;\"><span class=\"font-large\"><br></span></p>\n<p class=\"text-align-center\" style=\"text-align: center; font-size: 25px;\">      <strong>      <a href=\"https://app.careerreadinessinventory.academy/reportr-download/2a96552b-958e-498b-a372-1ae1a020f325/*|SESSION_SIGNATURE|*?cached=true\" target=\"_blank\" style=\"background-color: #9D2235; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block;\">        Access Your Report      </a>    </strong>  </p>"
+        }
+    ],
+    "survey": {
+        "url": "uark-start",
+        "unique_identifier": "c561682f-13b9-4dbc-94d5-b84f08384775",
+        "title": "NACE Career Readiness+ Inventory",
+        "last_update": "2024-09-17 17:25:17",
+        "user": "axel@careerlaunch.academy"
+    },
+    "access_code": {
+        "code": "None"
+    },
+    "custom_fields": [
+        {
+            "name": "cf1",
+            "text": "First Name",
+            "value": "Charlotte"
+        },
+        {
+            "name": "cf2",
+            "text": "Last Name",
+            "value": "McCoy"
+        },
+        {
+            "name": "cf3",
+            "text": "UARK Student Email",
+            "value": "cfmccoy@uark.edu"
+        },
+        {
+            "name": "cf4",
+            "text": "Organization Name",
+            "value": "University of Arkansas"
+        },
+        {
+            "name": "cf5",
+            "text": "Org Type",
+            "value": "4yr-public"
+        },
+        {
+            "name": "cf6",
+            "text": "Inventory Version",
+            "value": "plus"
+        },
+        {
+            "name": "cf7",
+            "text": "Implementation Type",
+            "value": "general"
+        },
+        {
+            "name": "cf8",
+            "text": "Use Case ID",
+            "value": "General Access"
+        },
+        {
+            "name": "cf9",
+            "text": "Semester/Quarter",
+            "value": "Fall 2024 - Spring 2025"
+        },
+        {
+            "name": "cf10",
+            "text": "Attempt Type",
+            "value": "None"
+        },
+        {
+            "name": "cf11",
+            "text": "Evaluator #1 First Name",
+            "value": "None"
+        },
+        {
+            "name": "cf12",
+            "text": "Evaluator #1 Last Name",
+            "value": "None"
+        },
+        {
+            "name": "cf13",
+            "text": "Evaluator #1 Email",
+            "value": "None"
+        },
+        {
+            "name": "cf14",
+            "text": "Evaluator #2 First Name",
+            "value": "None"
+        },
+        {
+            "name": "cf15",
+            "text": "Evaluator #2 Last Name",
+            "value": "None"
+        },
+        {
+            "name": "cf16",
+            "text": "Evaluator #2 Email",
+            "value": "None"
+        },
+        {
+            "name": "cf17",
+            "text": "UARK Student ID",
+            "value": "011056419"
+        }
+    ],
+    "questions": [
+        {
+            "unique_identifier": "61cd67ed-c800-4cad-9be6-d529f6b08087",
+            "order": 1,
+            "title": "As You Get Started\nWe understand that you want to score well on tests. This is NOT a test.\nThis 8-10 minute inventory is about the skills employers value the most. Upon completion you will gain an understanding of your current skill levels. You will also receive recommendations to continue to grow your skills.\nIt is important to answer honestly to reflect where you are today so that you know how close you are to having the skills employers are looking for. If, or when, you take this inventory in the future, you will be able to evaluate your growth.",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_only.name",
+                "object_name": "plaintext"
+            },
+            "responses": [],
+            "response": {
+                "text": "None",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": "None"
+        },
+        {
+            "unique_identifier": "6250e61d-39ab-471c-9e1e-dd4e5f30608c",
+            "order": 2,
+            "title": "The Skills Employers Value the Most\nThis inventory is centered on the National Association of Colleges and Employers’ (NACE) research that has identified the eight (8) skills that employers value most, which are called the NACE Career Readiness Competencies.\nNACE’s research has defined four (4) skill levels. Below are the definitions. There is also a 5th option for Not Applicable.\nEmerging Knowledge — I have&nbsp;an emerging awareness of the behavior, its importance, and related concepts.\nUnderstanding — I demonstrate an understanding of the behavior and related concepts.\nEarly Application — I sometimes apply the behavior.\nAdvanced Application — The behavior is consistent and integrated into my workplace behaviors.\nNot Applicable — I am just beginning to learn about this skill/behavior.",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_only.name",
+                "object_name": "plaintext"
+            },
+            "responses": [],
+            "response": {
+                "text": "None",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": "None"
+        },
+        {
+            "unique_identifier": "06525d47-3386-441b-bd1a-eb92eaf44e06",
+            "order": 3,
+            "title": "Communication        Clearly and effectively exchange information, ideas, facts, and perspectives with persons inside and outside of an organization.        Here are some examples:            Understand the importance of and demonstrate verbal, written, and non-verbal/body language abilities.        Employ active listening, persuasion, and influencing skills.        Communicate in a clear and organized manner so that others can effectively understand.        Frame communication with respect to diversity of learning styles, varied individual communication abilities, and cultural differences.        Ask appropriate questions for specific information from supervisors, specialists, and others.        Promptly inform relevant others when needing guidance with assigned tasks.    \n\nAs you go through the Inventory, you will see some  icons. You can click on these to receive extra information.",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_only.name",
+                "object_name": "plaintext"
+            },
+            "responses": [],
+            "response": {
+                "text": "None",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": "None"
+        },
+        {
+            "unique_identifier": "3fac5e6c-e1bb-4ee3-b053-d83cce812321",
+            "order": 4,
+            "title": "Oral&nbsp;Communication",
+            "explanation": "None",
+            "hint": "Oral Communication = Talking, conversations, etc.",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "0a737745-a108-4dcf-9bd5-80b959c794cb"
+                },
+                "text": "I consistently use effective oral communication skills to convey meaning.",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "4.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "100%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "9349fe1f-c37c-4bb7-b669-14d7244b60ce",
+            "order": 5,
+            "title": "Written&nbsp;Communication",
+            "explanation": "None",
+            "hint": "Written Communication = Emails, letters, etc.",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "3186414b-2504-4ea2-90aa-62495c564687"
+                },
+                "text": "I consistently use effective written communication skills to convey meaning.",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "4.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "100%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "51e59492-a9d4-4ebc-a5a4-12a636de9e88",
+            "order": 6,
+            "title": "Non-verbal&nbsp;Communication",
+            "explanation": "None",
+            "hint": "Non-verbal Communication = Body language, posture, etc.\nConvey = Show",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "f5c4c557-1e58-414c-88c8-0364bd05d39f"
+                },
+                "text": "I consistently use effective non-verbal communication skills to convey meaning.",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "4.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "100%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "ed788e98-5658-4b0a-ad8e-91a1a22f24b7",
+            "order": 7,
+            "title": "Active Listening",
+            "explanation": "None",
+            "hint": "Active Listening = Focused listening with non-verbal or verbal response",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "91f7177b-2477-4c3b-a653-d18e5901792f"
+                },
+                "text": "I consistently use active listening skills when communicating with others.",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "4.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "100%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "67c39117-cace-4f90-a53f-ee7f082ad6e9",
+            "order": 8,
+            "title": "Teamwork        Build and maintain collaborative relationships to work effectively toward common goals, while appreciating diverse viewpoints and shared responsibilities.        Here are some examples:            Listen carefully to others, taking time to understand and ask appropriate questions without interrupting.        Effectively manage conflict, interact with and respect diverse personalities, and meet ambiguity with resilience.        Be accountable for individual and team responsibilities and deliverables.        Employ personal strengths, knowledge, and talents to complement those of others.        Exercise the ability to compromise and be agile.        Collaborate with others to achieve common goals.        Build strong, positive working relationships with supervisor and team members/coworkers.",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_only.name",
+                "object_name": "plaintext"
+            },
+            "responses": [],
+            "response": {
+                "text": "None",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": "None"
+        },
+        {
+            "unique_identifier": "30afbeda-2ee3-46a9-bb43-c8411c0daaec",
+            "order": 9,
+            "title": "Build Relationships for&nbsp;Collaboration",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "8d293b31-e2e2-498f-a580-842ce0713a7c"
+                },
+                "text": "I consistently build strong, positive work relationships with colleagues and supervisors for collaboration.",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "4.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "100%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "f86cdc60-f915-4dac-a930-d3bb4a3e2b4a",
+            "order": 10,
+            "title": "Respect Diverse&nbsp;Perspectives",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "42765c4b-3929-402f-a583-a4d0b6e8c047"
+                },
+                "text": "I consistently show respect for and include all people in the workplace, including those from diverse backgrounds.",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "4.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "100%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "40330e12-e092-4c2d-8820-dbbefdb25452",
+            "order": 11,
+            "title": "Integrate Strengths",
+            "explanation": "None",
+            "hint": "Integrate = Use",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "0d3816c2-8e25-433b-bdb5-4d6b5e90fb26"
+                },
+                "text": "I consistently integrate my own and my colleagues’ strengths, knowledge, and talents into the team’s performance.",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "4.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "100%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "3e313481-03ce-4576-ada4-0d9b0d6bca93",
+            "order": 12,
+            "title": "Career & Self-Development        Proactively develop oneself and one’s career through continual personal and professional learning, awareness of one’s strengths and weaknesses, navigation of career opportunities, and networking to build relationships within and without one’s organization.        Here are some examples:            Show an awareness of own strengths and areas for development.        Identify areas for continual growth while pursuing and applying feedback.        Develop plans and goals for one’s future career.        Professionally advocate for oneself and others.        Display curiosity; seek out opportunities to learn.        Assume duties or positions that will help one progress professionally.        Establish, maintain, and/or leverage relationships with people who can help one professionally.        Seek and embrace development opportunities.        Voluntarily participate in further education, training, or other events to support one’s career.",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_only.name",
+                "object_name": "plaintext"
+            },
+            "responses": [],
+            "response": {
+                "text": "None",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": "None"
+        },
+        {
+            "unique_identifier": "d7990995-859b-47fa-8620-62df0684af6b",
+            "order": 13,
+            "title": "Awareness of&nbsp;Strengths &&nbsp;Challenges",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "efd54af4-388a-4320-91b0-47642db6648e"
+                },
+                "text": "I consistently examine strengths and challenges to design a plan to find learning experiences needed to move toward my career goals.",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "4.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "100%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "df478ce0-b860-4203-b032-1604a2b47a2f",
+            "order": 14,
+            "title": "Professional&nbsp;Development",
+            "explanation": "None",
+            "hint": "Professional Development = Improving yourself through learning and training to advance your career.",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "7cddcd9e-e3dc-43a9-a1a4-8a1520c9a9a9"
+                },
+                "text": "I consistently seek out professional development opportunities for achieving my career goals.",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "4.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "100%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "a96a94cc-e6b8-4d7b-a045-c5912d3f7e01",
+            "order": 15,
+            "title": "Networking",
+            "explanation": "None",
+            "hint": "Networking = Relationship Building Skills\nCareer Pathways = Options & Opportunities for Jobs",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "2e4fa7f6-afaa-4b99-95b4-eb555c329c63"
+                },
+                "text": "I consistently use networks to build new relationships and pathways that align with my career goals.",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "4.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "100%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "c9d35c02-836c-465c-a808-9cb4cc1be82f",
+            "order": 16,
+            "title": "Professionalism        Knowing work environments differ greatly, understand and demonstrate effective work habits, and act in the interest of the larger community and workplace.        Here are some examples:            Act equitably with integrity and accountability to self, others, and the organization.        Maintain a positive personal brand in alignment with organization and personal career values.        Be present and prepared.        Demonstrate dependability (e.g., report consistently for work or meetings).        Prioritize and complete tasks to accomplish organizational goals.        Consistently meet or exceed goals and expectations.        Have an attention to detail, resulting in few if any errors in their work.        Show a high level of dedication toward doing a good job.",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_only.name",
+                "object_name": "plaintext"
+            },
+            "responses": [],
+            "response": {
+                "text": "None",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": "None"
+        },
+        {
+            "unique_identifier": "99d00830-3f40-42a9-9581-9a2d5fa44d07",
+            "order": 17,
+            "title": "Act With Integrity",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "a158708e-073f-4f75-bbe7-98dbdc05019f"
+                },
+                "text": "I consistently act with integrity in the workplace by finding ways to align and navigate my sense of personal ethics.",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "4.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "100%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "d6a35ad8-8a13-4e2d-93dc-4ead7b149c06",
+            "order": 18,
+            "title": "Demonstrate&nbsp;Dependability",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "d0ceedc6-f035-44a7-a8ee-6fe2dbe81352"
+                },
+                "text": "I consistently act as a dependable, diligent member of a work environment.",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "4.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "100%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "70c32af9-c241-4d55-aa99-d3ff44a16dba",
+            "order": 19,
+            "title": "Achieve Goals",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "c7fa47d9-c135-49dd-8b0a-3deb3e1606c8"
+                },
+                "text": "I consistently achieve goals in the workplace by prioritizing and completing tasks.",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "4.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "100%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "59c911c0-8366-4a45-9339-ef731f521581",
+            "order": 20,
+            "title": "Leadership        Recognize and capitalize on personal and team strengths to achieve organizational goals.        Here are some examples:            Inspire, persuade, and motivate self and others under a shared vision.        Seek out and leverage diverse resources and feedback from others to inform direction.        Use innovative thinking to go beyond traditional methods.        Serve as a role model to others by approaching tasks with confidence and a positive attitude.        Motivate and inspire others by encouraging them and by building mutual trust.        Plan, initiate, manage, complete and evaluate projects.",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_only.name",
+                "object_name": "plaintext"
+            },
+            "responses": [],
+            "response": {
+                "text": "None",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": "None"
+        },
+        {
+            "unique_identifier": "8a118ae7-9696-482e-943f-b7aef337b033",
+            "order": 21,
+            "title": "Inspire, Persuade, &&nbsp;Motivate",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "fffddc3f-a761-4675-8b54-04c4991aa6d7"
+                },
+                "text": "I consistently practice the skills and knowledge leaders use in the workplace.",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "4.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "100%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "1520a12f-806e-49b7-ad38-937bf0449f34",
+            "order": 22,
+            "title": "Engage Various&nbsp;Resources & Seek&nbsp;Feedback",
+            "explanation": "None",
+            "hint": "Inform Direction = Make a decision on what to do.",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "338c943c-6d2f-4ecb-8bfc-8fdf42101982"
+                },
+                "text": "I consistently use a variety of resources and feedback from others to inform direction.",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "4.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "100%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "3ee8fa6d-06a8-4f36-b173-cee8ac8f5316",
+            "order": 23,
+            "title": "Facilitate Group&nbsp;Dynamics",
+            "explanation": "None",
+            "hint": "Facilitate = Organize\nLeveraging = Using",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "4a872735-2562-4daa-9521-39a2775f3ab0"
+                },
+                "text": "I consistently facilitate group dynamics by putting team members in positions to succeed, collectively setting group norms, and resolving conflicts effectively.",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "4.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "100%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "9efb44ec-3381-4b73-9938-7e6267244be7",
+            "order": 24,
+            "title": "Critical Thinking        Identify and respond to needs based upon an understanding of situational context and logical analysis of relevant information.        Here are some examples:            Make decisions and solve problems using sound, inclusive reasoning and judgment.        Gather and analyze information from a diverse set of sources and individuals to fully understand a problem.        Proactively anticipate needs and prioritize action steps.        Accurately summarize and interpret data with an awareness of personal biases that may impact outcomes.        Effectively communicate actions and rationale, recognizing the diverse perspectives and lived experiences of stakeholders.        Multi-task well in a fast-paced environment.",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_only.name",
+                "object_name": "plaintext"
+            },
+            "responses": [],
+            "response": {
+                "text": "None",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": "None"
+        },
+        {
+            "unique_identifier": "31c2ba5e-e960-4c4c-bd74-2f05c09e94ad",
+            "order": 25,
+            "title": "Display Situational&nbsp;Awareness",
+            "explanation": "None",
+            "hint": "Situational Awareness = The ability to think about, understand, and effectively respond to one's situation.",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "1d9051b9-00de-4115-a09a-29080f6506a9"
+                },
+                "text": "I consistently use situational awareness in the workplace.",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "4.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "100%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "505d2cdd-f005-4407-8411-16cdf2e3fdae",
+            "order": 26,
+            "title": "Gather & Analyze Data",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "5b32e6e8-1de8-4a53-904c-31389e848ec7"
+                },
+                "text": "I consistently gather and analyze data to solve a problem after considering the quality of the data.",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "4.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "100%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "17521abd-fd68-4ec4-81c3-b50b017bd23a",
+            "order": 27,
+            "title": "Make Effective & Fair&nbsp;Decisions",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "1ffb034c-ded3-4fb1-818c-4035ceccab8b"
+                },
+                "text": "I consistently demonstrate effective decision-making and problem-solving.",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "4.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "100%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "3c706aa5-bd41-4244-a379-ddf97c98102d",
+            "order": 28,
+            "title": "Technology        Understand and leverage technologies ethically to enhance efficiencies, complete tasks, and accomplish goals.        Here are some examples:            Navigate change and be open to learning new technologies.        Use technology to improve efficiency and productivity of their work.        Identify appropriate technology for completing specific tasks.        Manage technology to integrate information to support relevant, effective, and timely decision-making.        Quickly adapt to new or unfamiliar technologies.        Manipulate information, construct ideas, and use technology to achieve strategic goals.",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_only.name",
+                "object_name": "plaintext"
+            },
+            "responses": [],
+            "response": {
+                "text": "None",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": "None"
+        },
+        {
+            "unique_identifier": "5fa12935-daf8-41a8-a5f1-602a6e46aea6",
+            "order": 29,
+            "title": "Leverage Technology",
+            "explanation": "None",
+            "hint": "Leverage = Use",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "48389e1d-4fd0-4114-9a3d-1a6c5bd51590"
+                },
+                "text": "I consistently use the appropriate technology to improve efficiency and productivity.",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "4.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "100%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "70ae1545-0775-415d-b81f-d62822982605",
+            "order": 30,
+            "title": "Adapt to New&nbsp;Technologies",
+            "explanation": "None",
+            "hint": "Adapt = Change to new ways of doing things",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "0cefc7f8-5c17-42f9-a2b6-c4f2681d36fd"
+                },
+                "text": "I consistently develop and use the knowledge and skills that are needed to adapt to new workplace technologies.",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "4.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "100%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "67917423-d929-4605-a421-3c052531f843",
+            "order": 31,
+            "title": "Use Technology Ethically",
+            "explanation": "None",
+            "hint": "Ethical = Honest or True \nEmerging = Relatively new",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "8cafff23-672a-46ad-92b6-7b3f9e5bd678"
+                },
+                "text": "I consistently ensure the ethical use of technology in the workplace, including establishing and following processes for using emerging technologies responsibly and for protecting information.",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "4.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "100%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "1e9f1b40-c715-4601-8731-0b9cfd87603a",
+            "order": 32,
+            "title": "Equity & Inclusion        Demonstrate the awareness, attitude, knowledge, and skills required to equitably engage and include people from different local and global cultures. Engage in anti-oppressive practices that actively challenge the systems, structures, and policies of racism and inequity.        Here are some examples:            Solicit and use feedback from multiple cultural perspectives to make inclusive and equity-minded decisions.        Actively contribute to inclusive and equitable practices that influence individual and systemic change.        Advocate for inclusion, equitable practices, justice, and empowerment for historically marginalized communities.        Seek global cross-cultural interactions and experiences that enhance one’s understanding of people from different demographic groups and that leads to personal growth.        Keep an open mind to diverse ideas and new ways of thinking.        Identify resources and eliminate barriers resulting from individual and systemic racism, inequities, and biases.        Demonstrate flexibility by adapting to diverse environments.        Address systems of privilege that limit opportunities for members of historically marginalized communities.",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_only.name",
+                "object_name": "plaintext"
+            },
+            "responses": [],
+            "response": {
+                "text": "None",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": "None"
+        },
+        {
+            "unique_identifier": "3bb274bb-e7b0-4c06-97f0-a69d495d203f",
+            "order": 33,
+            "title": "Engage Multiple Perspectives",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "92576f30-13c3-4a4b-a017-f5721281c339"
+                },
+                "text": "I consistently seek input from multiple cultures and then integrate the input into future decisions and actions.",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "4.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "100%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "c2edfaf4-96a1-45f1-bf09-d123f6a281b9",
+            "order": 34,
+            "title": "Use Inclusive &&nbsp;Equitable Practices",
+            "explanation": "None",
+            "hint": "Equitable = Dealing fairly and equally with all concerned",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "ee785dab-56be-4438-bcfe-6ad07432b25e"
+                },
+                "text": "I consistently use inclusive and equitable workplace practices and work to bring them to the workplace.",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "4.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "100%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "45c4df36-ec3d-4ad0-9c44-823d0f22fa3f",
+            "order": 35,
+            "title": "Advocate",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "fea17d78-1300-45ba-9b1f-c4a1b11db141"
+                },
+                "text": "I consistently advocate for underrepresented groups in the workplace.",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "4.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "100%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "1b503b2c-dcb2-4e8a-a0a5-439207b39ca8",
+            "order": 36,
+            "title": "Social Capital Skills\n(Relationship Building Skills)                Social capital refers to the personal and professional connections, relationships, and networks that people form throughout their life. These relationships can provide support, information, or opportunities.",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_only.name",
+                "object_name": "plaintext"
+            },
+            "responses": [],
+            "response": {
+                "text": "None",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": "None"
+        },
+        {
+            "unique_identifier": "591f61dd-9229-4f8b-8a51-21c5b1e21ecd",
+            "order": 37,
+            "title": "I have relationships with former employers and teachers/professors who would be willing to give me a formal recommendation if/when needed.",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.form.name",
+                "object_name": "form"
+            },
+            "responses": [
+                {
+                    "answer": {
+                        "unique_identifier": "dc331bea-c5f5-414d-89f5-fff619c068a2",
+                        "answer_type_id": 9
+                    },
+                    "text": "Employers (Choose Below)",
+                    "response": "1-Not Yet"
+                },
+                {
+                    "answer": {
+                        "unique_identifier": "1f57b3ae-71e1-4539-a79e-0fa3e4411750",
+                        "answer_type_id": 9
+                    },
+                    "text": "Teachers/Professors (Choose Below)",
+                    "response": "3- 2 Relationships"
+                }
+            ],
+            "response": "",
+            "feedback": "None",
+            "score": "None"
+        },
+        {
+            "unique_identifier": "708c8bb9-9346-4761-8a83-1a4be50dccf6",
+            "order": 38,
+            "title": "I have proactively asked family members (other than parents/guardians) and friends about their job or career.",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.form.name",
+                "object_name": "form"
+            },
+            "responses": [
+                {
+                    "answer": {
+                        "unique_identifier": "52dc284f-07e8-45de-93c0-a7a52cdcb98b",
+                        "answer_type_id": 9
+                    },
+                    "text": "Family Members (Choose Below)",
+                    "response": "4- Yes. Multiple times"
+                },
+                {
+                    "answer": {
+                        "unique_identifier": "4d306d9f-883b-468f-ad8e-495e0899751b",
+                        "answer_type_id": 9
+                    },
+                    "text": "Friends and Family Friends (Choose Below)",
+                    "response": "4- Yes. Multiple times"
+                }
+            ],
+            "response": "",
+            "feedback": "None",
+            "score": "None"
+        },
+        {
+            "unique_identifier": "ee71b1b6-6840-4e34-a889-963a4727ec5b",
+            "order": 39,
+            "title": "I feel confident proactively introducing myself to professionals I have never met (who could be helpful in my career).",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "35b5fe0e-656b-4556-b88a-caf30d5dc562"
+                },
+                "text": "Agree",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "3.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "75%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "a01317a5-0948-4e5c-8984-b1967fd41528",
+            "order": 40,
+            "title": "I have proactively reached out to an alum from my school to learn about their career path.",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "a39f28c2-61f6-4eb6-9413-791c08f0296d"
+                },
+                "text": "Yes, once",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "3.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "75%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "19c21b5a-80ca-4e71-b6c1-87a79976b17c",
+            "order": 41,
+            "title": "I have proactively asked to have a career conversation with a professional at an organization I’m interested in working for.",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "9915c614-b888-4d73-bb87-bb9c9fa43563"
+                },
+                "text": "Yes, once",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "3.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "75%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "ecbc64f9-7a9f-45fc-8126-e34b2fc2058c",
+            "order": 42,
+            "title": "I have proactively asked someone I know to introduce me to someone they know so I can talk to them to learn about their career.",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "a830566b-7f12-48eb-9467-905a064654c8"
+                },
+                "text": "Yes, multiple times",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "4.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "100%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "60496225-b1df-47e8-9173-ec02b53837e5",
+            "order": 43,
+            "title": "Life Design Mindsets                Life Design refers to the mindsets and best practices for taking a design thinking approach to creating a career and life that is both meaningful and fulfilling, regardless of who you are, what school you go to, or what your interests are.",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_only.name",
+                "object_name": "plaintext"
+            },
+            "responses": [],
+            "response": {
+                "text": "None",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": "None"
+        },
+        {
+            "unique_identifier": "449ca33b-b599-42d7-b688-683a47d15507",
+            "order": 44,
+            "title": "When things don\\'t go the way I had envisioned or when I encounter a setback, I recognize that the setback is an opportunity to learn and grow, rather than a “mistake.\"",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "854dae09-8773-4429-ace9-dadf2acdc46f"
+                },
+                "text": "Strongly Agree",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "4.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "100%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "72d3ce60-d354-4cdc-a925-02c52423c35c",
+            "order": 45,
+            "title": "When I feel stuck in life, I reach out to others who help me uncover new solutions or ways of thinking about the situation.",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "6c04428b-5aba-4f9d-8e1a-a7acefb47596"
+                },
+                "text": "Strongly Agree",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "4.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "100%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "20a813dc-1fca-458a-92d3-d7579b0fd53c",
+            "order": 46,
+            "title": "When I feel stuck in regards to my career plans, I have strategies I use to help me move forward (become “unstuck”).",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "547cccca-de90-455e-b11c-856ce69ec7c5"
+                },
+                "text": "Strongly Agree",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "4.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "100%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "922cabfa-287e-4321-85fe-f3cf51460043",
+            "order": 47,
+            "title": "I think taking measured risks and learning to embrace failure is important in my career success.",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "9591b081-c813-4c8c-ad93-fb076dead8fd"
+                },
+                "text": "Agree",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "3.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "75%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "c62a3abd-00ae-4171-9566-79458bae1489",
+            "order": 48,
+            "title": "I have the tools I need to build a happy, meaningful, and successful life.",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "29b04a9d-9ff8-4565-8436-8030c65e9873"
+                },
+                "text": "Strongly Agree",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "4.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "100%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "f2c07de1-fd39-4afb-acc7-b43cb6ca856c",
+            "order": 49,
+            "title": "I often try to look at problems from different perspectives to find new ways to move forward.",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "4c05da00-70fe-476a-a861-6499dd2f0593"
+                },
+                "text": "Strongly Agree",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "4.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "100%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "6f0446b4-3b2c-497b-8da3-918846ae54c1",
+            "order": 50,
+            "title": "Career Mobility Skills                Career Mobility refers to the best practices and action steps students can take during college to increase the likeliness of career satisfaction and economic mobility.",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_only.name",
+                "object_name": "plaintext"
+            },
+            "responses": [],
+            "response": {
+                "text": "None",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": "None"
+        },
+        {
+            "unique_identifier": "90215923-f20a-4b73-bd53-0c6eed9011d6",
+            "order": 51,
+            "title": "I have received helpful career advice from a faculty member, career counselor, or employer.",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.form.name",
+                "object_name": "form"
+            },
+            "responses": [
+                {
+                    "answer": {
+                        "unique_identifier": "3ae0f9c2-f079-475b-848c-ea3311204ccc",
+                        "answer_type_id": 9
+                    },
+                    "text": "Professor or Faculty Member (Choose Below)",
+                    "response": "4- Yes. Multiple times"
+                },
+                {
+                    "answer": {
+                        "unique_identifier": "b60b9db5-eac1-4480-9f77-4b5b06a43a0a",
+                        "answer_type_id": 9
+                    },
+                    "text": "Career Counselor (Choose Below)",
+                    "response": "4- Yes. Multiple times"
+                },
+                {
+                    "answer": {
+                        "unique_identifier": "2a397eaa-5bc7-432f-9972-7904674a3393",
+                        "answer_type_id": 9
+                    },
+                    "text": "Employers (Choose Below)",
+                    "response": "2- Not yet but I plan to"
+                }
+            ],
+            "response": "",
+            "feedback": "None",
+            "score": "None"
+        },
+        {
+            "unique_identifier": "10bf2332-a33a-4d9a-b776-bf5e4d3fc8b6",
+            "order": 52,
+            "title": "My college/university has helped me build relationships with employers.",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "4230e6ec-d8bd-4540-bf8b-f9cc821197f2"
+                },
+                "text": "Not yet",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "1.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "25%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "8210984e-5260-4794-ad2a-4f81b75c067f",
+            "order": 53,
+            "title": "I have completed at least one experience working in an environment similar to my career interests (internship, research position, part-time job, significant volunteering).",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "24afb2a5-f9e9-4587-ba27-92ea04327388"
+                },
+                "text": "Not yet",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "1.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "25%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "9a71ba83-b65d-43e3-811b-35e550fed787",
+            "order": 54,
+            "title": "I have created career plans with guidance from a staff or faculty member at my college.",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "b603cfb8-8d06-41bb-bc4c-7bed551cb2bd"
+                },
+                "text": "Not yet",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "1.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "25%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "f4b9e7c4-550e-45e2-afa0-a7e0134f1ddb",
+            "order": 55,
+            "title": "I have received feedback on my resume, and I am confident that it effectively showcases my candidacy (from counselors, professionals and/or my school's resume software provider).",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "de6028dc-7ba2-4995-b9ab-7032fcd9ff97"
+                },
+                "text": "I have received feedback and I am confident.",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "4.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "100%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "1ede1988-f7d2-4967-bd58-6450cc0c5fae",
+            "order": 56,
+            "title": "I feel prepared to land internships / jobs / research positions that have not been posted online.",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "b8cab3c3-b4c5-44e2-80e9-836a801f6911"
+                },
+                "text": "Agree",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "3.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "75%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "d59a87a0-478f-42ee-9df3-74e51d28f7c6",
+            "order": 57,
+            "title": "When are you completing this inventory?",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "None"
+                },
+                "text": "None",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": "None"
+        },
+        {
+            "unique_identifier": "c5cb635b-8522-442b-9f3a-20a6350b80bf",
+            "order": 58,
+            "title": "How many evaluators do you have?",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "None"
+                },
+                "text": "None",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": "None"
+        },
+        {
+            "unique_identifier": "7f6b76df-3406-400a-b71b-5a7dfa2e4b03",
+            "order": 59,
+            "title": "Evaluator's Contact Information:",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.form.name",
+                "object_name": "form"
+            },
+            "responses": [
+                {
+                    "answer": {
+                        "unique_identifier": "165f5bee-6312-413e-b78f-329005ccca87",
+                        "answer_type_id": 3
+                    },
+                    "text": "First Name",
+                    "response": "None"
+                },
+                {
+                    "answer": {
+                        "unique_identifier": "f14caf3f-78d2-49f3-a310-011b0e72a296",
+                        "answer_type_id": 3
+                    },
+                    "text": "Last Name",
+                    "response": "None"
+                },
+                {
+                    "answer": {
+                        "unique_identifier": "86fbafc4-3472-46c3-815a-8d4d5f94bc51",
+                        "answer_type_id": 4
+                    },
+                    "text": "Email",
+                    "response": "None"
+                }
+            ],
+            "response": "",
+            "feedback": "None",
+            "score": "None"
+        },
+        {
+            "unique_identifier": "be59ccfd-da29-4f10-b5ff-36d3613ed689",
+            "order": 60,
+            "title": "Evaluator #2's Contact Information:",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.form.name",
+                "object_name": "form"
+            },
+            "responses": [
+                {
+                    "answer": {
+                        "unique_identifier": "8dcf23d6-4cce-4313-a383-c9d1d3de5fa7",
+                        "answer_type_id": 3
+                    },
+                    "text": "First Name",
+                    "response": "None"
+                },
+                {
+                    "answer": {
+                        "unique_identifier": "ff89bf7a-50a0-4fbe-88f6-83510eaa8ab3",
+                        "answer_type_id": 3
+                    },
+                    "text": "Last Name",
+                    "response": "None"
+                },
+                {
+                    "answer": {
+                        "unique_identifier": "deb4a136-66db-40bb-9763-e612199a00b3",
+                        "answer_type_id": 4
+                    },
+                    "text": "Email",
+                    "response": "None"
+                }
+            ],
+            "response": "",
+            "feedback": "None",
+            "score": "None"
+        },
+        {
+            "unique_identifier": "4d456ac8-f174-4d01-9639-18b1b041269c",
+            "order": 61,
+            "title": "Which best describes your current or most recent experiential learning opportunity?",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "None"
+                },
+                "text": "None",
+                "not_applicable": false
+            },
+            "feedback": "-",
+            "score": "None"
+        },
+        {
+            "unique_identifier": "6dccd6cb-203a-4ac5-808f-36961c5550ac",
+            "order": 62,
+            "title": "",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.form.name",
+                "object_name": "form"
+            },
+            "responses": [
+                {
+                    "answer": {
+                        "unique_identifier": "2eb63976-ed81-42ba-8e2e-a1d3241c0f17",
+                        "answer_type_id": 6
+                    },
+                    "text": "On average, how many hours per week do (or did) you participate in your experiential learning opportunity? (Optional)",
+                    "response": "None"
+                },
+                {
+                    "answer": {
+                        "unique_identifier": "39173295-4867-420e-aa64-f16d0272b2b0",
+                        "answer_type_id": 6
+                    },
+                    "text": "What is the total number of weeks you will (or did) participate in your experiential learning opportunity? (Optional)",
+                    "response": "None"
+                },
+                {
+                    "answer": {
+                        "unique_identifier": "46c4651e-03c0-44fb-aed1-90bc9d030747",
+                        "answer_type_id": 9
+                    },
+                    "text": "Pay Status *Required",
+                    "response": "None"
+                },
+                {
+                    "answer": {
+                        "unique_identifier": "45a981cd-68f7-4e58-9d59-27c7ab98bf88",
+                        "answer_type_id": 9
+                    },
+                    "text": "Academic Credit Status *Required",
+                    "response": "None"
+                }
+            ],
+            "response": "",
+            "feedback": "None",
+            "score": "None"
+        },
+        {
+            "unique_identifier": "40923838-d81f-4c5b-a1af-96dafbb77f9a",
+            "order": 63,
+            "title": "When are you completing this inventory for&nbsp;*|intro_field8_response|*?",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "None"
+                },
+                "text": "None",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": "None"
+        },
+        {
+            "unique_identifier": "d5abffe0-bb08-4bae-a5de-d178c2d93854",
+            "order": 64,
+            "title": "Demographic Questions\nAt what degree/certificate/class year are you currently enrolled?",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "becf5267-acce-48ff-8518-59a4a633b789"
+                },
+                "text": "Bachelor's - 1st Year",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "5.00",
+                "score_max": "11.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "45.45%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "53a1683a-60ee-47f0-af7e-7e7eafb94b6c",
+            "order": 65,
+            "title": "Which of the following best represent your program or area of study?",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.typeahead.name",
+                "object_name": "typeahead"
+            },
+            "responses": [],
+            "response": {
+                "text": "Criminology",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": "None"
+        },
+        {
+            "unique_identifier": "72459745-b9bd-4f7f-a8f8-84b96fe60091",
+            "order": 66,
+            "title": "Gender: How do you identify?",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "c02b66f8-d875-4446-b7d5-df7dccaa951a"
+                },
+                "text": "Woman",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "4.00",
+                "score_max": "4.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "100%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "d5ef5306-5799-47f7-93ac-76bb1635cfa0",
+            "order": 67,
+            "title": "Which of the following categories would you use to best describe yourself?",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "97465c34-9e26-43a2-a491-0c0f28b24e2c"
+                },
+                "text": "Native American or Native Alaskan",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "8.00",
+                "score_max": "9.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "88.89%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "f029d3f2-110d-4765-84a5-0b826b30af6b",
+            "order": 68,
+            "title": "What is your parent(s) or caregiver(s) highest level of education in the United States?",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "1b54260e-050d-4afa-8446-734b4cfe9d49"
+                },
+                "text": "College Graduate (Associate/Bachelor's Degree)",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "5.00",
+                "score_max": "8.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "62.5%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "c2a31fc3-b331-4a5b-80a2-d636099ee41e",
+            "order": 69,
+            "title": "Do you have a diagnosed disability?",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "003894d0-f259-4b36-9099-7eff7018e051"
+                },
+                "text": "No",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "2.00",
+                "score_max": "3.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "66.67%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "51544258-7174-4f87-a90d-3f96baf61e12",
+            "order": 70,
+            "title": "Do you identify as a member of the LGBTQ+ community?",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "ec7ebea9-1672-4dd3-b66b-0d5ea9f5fadc"
+                },
+                "text": "No",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "2.00",
+                "score_max": "3.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "66.67%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "b1e9e522-d840-417f-91f4-795f2722a22c",
+            "order": 71,
+            "title": "Is English the primary language spoken at your childhood home?",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "79d778dd-d538-4de1-ae9a-ea1acb0f6459"
+                },
+                "text": "Yes",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "1.00",
+                "score_max": "3.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "33.33%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "90ba4bc8-9ffc-4312-baff-c7efc4033b59",
+            "order": 72,
+            "title": "Are you a parent to a child under 18 years old?",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "1e50e6e0-93fe-4def-b3d4-eb17bcb05192"
+                },
+                "text": "No",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "2.00",
+                "score_max": "3.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "66.67%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "412f1ffe-84c7-44ca-aacd-1933821709d5",
+            "order": 73,
+            "title": "Have you ever served on active duty in the U.S. Armed Forces, Reserves, or National Guard?",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "4a6e4fd9-9575-4121-9a6e-8db326ba8b5b"
+                },
+                "text": "Never served in the military",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "2.00",
+                "score_max": "5.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "40%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "fc17ff47-6c3c-47ee-9008-cdc253f66091",
+            "order": 74,
+            "title": "Are you the primary caregiver to a family member (not a child) such as a parent, partner, etc.?",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "f3d2f57c-5737-41e0-9153-4019adaa1283"
+                },
+                "text": "No",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "2.00",
+                "score_max": "3.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "66.67%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "873f5808-26c6-4e83-bc1e-c9ec9c19742b",
+            "order": 75,
+            "title": "Which of the following sources did you use to finance your college tuition? (Optional)&nbsp;\nSelect all that apply:",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [
+                {
+                    "answer": {
+                        "unique_identifier": "56f3f4b5-ffad-459b-90e3-db01a892d67d"
+                    },
+                    "text": "Federal Student Loans",
+                    "response": false
+                },
+                {
+                    "answer": {
+                        "unique_identifier": "b7561632-71a0-41f6-b353-43379081898b"
+                    },
+                    "text": "Private Student Loans",
+                    "response": false
+                },
+                {
+                    "answer": {
+                        "unique_identifier": "9ab10f2f-a960-4541-8fdf-c79e7eb7428f"
+                    },
+                    "text": "Family / Personal Money",
+                    "response": true
+                },
+                {
+                    "answer": {
+                        "unique_identifier": "d59a5582-ac38-461d-8261-564ed1c6ba92"
+                    },
+                    "text": "Merit-based Scholarships and Grants",
+                    "response": false
+                },
+                {
+                    "answer": {
+                        "unique_identifier": "d58031c5-7c6e-46e4-9b6b-35e496500bc0"
+                    },
+                    "text": "Income-based Scholarships and Grants",
+                    "response": false
+                },
+                {
+                    "answer": {
+                        "unique_identifier": "bdc6f90f-dbbf-421d-9e4c-f0e823a1e6a4"
+                    },
+                    "text": "Pell Grants",
+                    "response": false
+                },
+                {
+                    "answer": {
+                        "unique_identifier": "2747a9c3-6381-4ac3-9d7b-8746b34d0603"
+                    },
+                    "text": "My Own Employment",
+                    "response": false
+                },
+                {
+                    "answer": {
+                        "unique_identifier": "5e9de489-7d72-49eb-b15f-7b5ff2ab5fa0"
+                    },
+                    "text": "529 Investment Account",
+                    "response": false
+                },
+                {
+                    "answer": {
+                        "unique_identifier": "f32d2b66-be70-4973-8d66-717faf4ea776"
+                    },
+                    "text": "Tuition waivers or reductions due to family or yourself being employed at the college",
+                    "response": false
+                },
+                {
+                    "answer": {
+                        "unique_identifier": "f53271d5-4ef4-4385-a225-29bca73c7a99"
+                    },
+                    "text": "Other",
+                    "response": false
+                }
+            ],
+            "response": "Family / Personal Money",
+            "feedback": "-",
+            "score": {
+                "score_value": "3.00",
+                "score_max": "45.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "6.67%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "2587290a-11b5-46aa-a5c3-c964fd51e312",
+            "order": 76,
+            "title": "What is your age? (Optional)",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.form.name",
+                "object_name": "form"
+            },
+            "responses": [
+                {
+                    "answer": {
+                        "unique_identifier": "072a1160-ba43-4b75-859b-927eb9444846",
+                        "answer_type_id": 6
+                    },
+                    "text": "Enter here:",
+                    "response": "19"
+                }
+            ],
+            "response": "",
+            "feedback": "None",
+            "score": "None"
+        },
+        {
+            "unique_identifier": "b21d8a30-537c-4633-a549-b1c7ce31246e",
+            "order": 77,
+            "title": "Are you a transfer student?",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "847697eb-3b9b-467b-a471-1ae35166b43b"
+                },
+                "text": "No",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "0.00",
+                "score_max": "0.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "0%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "86302d87-fbda-45be-8145-f29fefab115e",
+            "order": 78,
+            "title": "Select your current college:",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "15f0f6f6-fb3c-4d55-a3f0-9d964cb21053"
+                },
+                "text": "Fulbright College of Arts and Sciences",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "0.00",
+                "score_max": "0.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "0%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "1929672b-19e8-4731-ae63-0a4605f813c5",
+            "order": 79,
+            "title": "Did you graduate from an Arkansas high school?",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "20310231-ed41-488c-9374-86abf78f07b8"
+                },
+                "text": "No",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "0.00",
+                "score_max": "0.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "0%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "33a16c8a-d59a-418f-9be6-d5e006776402",
+            "order": 80,
+            "title": "Which county was your high school located in?",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.typeahead.name",
+                "object_name": "typeahead"
+            },
+            "responses": [],
+            "response": {
+                "text": "None",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": "None"
+        },
+        {
+            "unique_identifier": "53ee0c31-104d-4957-aef6-b51ef49cd5a4",
+            "order": 81,
+            "title": "Have you been awarded Federal Work Study funds?",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "02be80e0-fa84-41cf-afde-8758b2c4a9f7"
+                },
+                "text": "No",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "0.00",
+                "score_max": "0.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "0%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "c096d5ee-3948-4bfb-b883-faf89696e8f4",
+            "order": 82,
+            "title": "Are you or have you ever been employed on campus?",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.text_choice.name",
+                "object_name": "text_choice"
+            },
+            "responses": [],
+            "response": {
+                "answer": {
+                    "unique_identifier": "2839c7c6-dfa5-47a7-ad4a-d92b8470f290"
+                },
+                "text": "No",
+                "not_applicable": false
+            },
+            "feedback": "None",
+            "score": {
+                "score_value": "0.00",
+                "score_max": "0.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "0%",
+                "score_quiz_as_percentage": "None"
+            }
+        },
+        {
+            "unique_identifier": "c6126ba7-1370-48a8-bf5c-78aa52c00695",
+            "order": 83,
+            "title": "",
+            "explanation": "None",
+            "hint": "None",
+            "media": [],
+            "type": {
+                "name": "editor.questions.types.form.name",
+                "object_name": "form"
+            },
+            "responses": [
+                {
+                    "answer": {
+                        "unique_identifier": "57c8ad79-0c0a-46d1-9913-c6de1966c95b",
+                        "answer_type_id": 9
+                    },
+                    "text": "How many full semesters have you been employed on campus?",
+                    "response": "None"
+                },
+                {
+                    "answer": {
+                        "unique_identifier": "41a9e478-c044-4ee4-9be2-423184b71c6c",
+                        "answer_type_id": 3
+                    },
+                    "text": "What department(s) are you employed by?",
+                    "response": "None"
+                }
+            ],
+            "response": "",
+            "feedback": "None",
+            "score": "None"
+        }
+    ],
+    "question_blocks": [
+        {
+            "title": "Intro Messages",
+            "order": 1,
+            "score": {
+                "score_value": "0.00",
+                "score_max": "0.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "0%",
+                "score_quiz_as_percentage": "0%"
+            }
+        },
+        {
+            "title": "Communication",
+            "order": 2,
+            "score": {
+                "score_value": "16.00",
+                "score_max": "16.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "100%",
+                "score_quiz_as_percentage": "100%"
+            }
+        },
+        {
+            "title": "Teamwork",
+            "order": 3,
+            "score": {
+                "score_value": "12.00",
+                "score_max": "12.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "100%",
+                "score_quiz_as_percentage": "100%"
+            }
+        },
+        {
+            "title": "Career & Self-Development",
+            "order": 4,
+            "score": {
+                "score_value": "12.00",
+                "score_max": "12.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "100%",
+                "score_quiz_as_percentage": "100%"
+            }
+        },
+        {
+            "title": "Professionalism",
+            "order": 5,
+            "score": {
+                "score_value": "12.00",
+                "score_max": "12.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "100%",
+                "score_quiz_as_percentage": "100%"
+            }
+        },
+        {
+            "title": "Leadership",
+            "order": 6,
+            "score": {
+                "score_value": "12.00",
+                "score_max": "12.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "100%",
+                "score_quiz_as_percentage": "100%"
+            }
+        },
+        {
+            "title": "Critical Thinking",
+            "order": 7,
+            "score": {
+                "score_value": "12.00",
+                "score_max": "12.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "100%",
+                "score_quiz_as_percentage": "100%"
+            }
+        },
+        {
+            "title": "Technology",
+            "order": 8,
+            "score": {
+                "score_value": "12.00",
+                "score_max": "12.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "100%",
+                "score_quiz_as_percentage": "100%"
+            }
+        },
+        {
+            "title": "Equity & Inclusion",
+            "order": 9,
+            "score": {
+                "score_value": "12.00",
+                "score_max": "12.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "100%",
+                "score_quiz_as_percentage": "100%"
+            }
+        },
+        {
+            "title": "Social Capital",
+            "order": 10,
+            "score": {
+                "score_value": "13.00",
+                "score_max": "16.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "81.25%",
+                "score_quiz_as_percentage": "81.25%"
+            }
+        },
+        {
+            "title": "Life Design",
+            "order": 11,
+            "score": {
+                "score_value": "23.00",
+                "score_max": "24.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "95.83%",
+                "score_quiz_as_percentage": "95.83%"
+            }
+        },
+        {
+            "title": "Career Mobility",
+            "order": 12,
+            "score": {
+                "score_value": "10.00",
+                "score_max": "20.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "50%",
+                "score_quiz_as_percentage": "50%"
+            }
+        },
+        {
+            "title": "Work Experience Questions & Evaluator Contact Info",
+            "order": 13,
+            "score": "None"
+        },
+        {
+            "title": "NACE Experiential Learning & Demographic Questions",
+            "order": 14,
+            "score": {
+                "score_value": "36.00",
+                "score_max": "97.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "37.11%",
+                "score_quiz_as_percentage": "37.11%"
+            }
+        },
+        {
+            "title": "Custom Questions",
+            "order": 15,
+            "score": {
+                "score_value": "0.00",
+                "score_max": "0.00",
+                "score_value_weighted": "None",
+                "score_max_weighted": "None",
+                "score_value_converted": "None",
+                "score_max_converted": "None",
+                "score_custom_as_percentage": "0%",
+                "score_quiz_as_percentage": "0%"
+            }
+        }
+    ],
+    "formula_results": [
+        {
+            "formula_order": 1,
+            "name": "Communication",
+            "unique_identifier": "012ac6cc-ff3d-4840-aa50-622eee904ae3",
+            "formula": "*|qb2_custom_score|* / 4",
+            "result": "4"
+        },
+        {
+            "formula_order": 2,
+            "name": "Teamwork",
+            "unique_identifier": "258126cc-f26a-4afe-9a18-db059e46af18",
+            "formula": "*|qb3_custom_score|* / 3",
+            "result": "4"
+        },
+        {
+            "formula_order": 3,
+            "name": "Career & Self-Development",
+            "unique_identifier": "8eef0cf5-8497-47b3-8efd-17eb166351c2",
+            "formula": "*|qb4_custom_score|* / 3",
+            "result": "4"
+        },
+        {
+            "formula_order": 4,
+            "name": "Professionalism",
+            "unique_identifier": "464fd0c9-d4fa-4683-a716-9d8935a13055",
+            "formula": "*|qb5_custom_score|* / 3",
+            "result": "4"
+        },
+        {
+            "formula_order": 5,
+            "name": "Leadership",
+            "unique_identifier": "7ec50063-ef3b-460c-9cc5-f60ee8206f49",
+            "formula": "*|qb6_custom_score|* / 3",
+            "result": "4"
+        },
+        {
+            "formula_order": 6,
+            "name": "Critical Thinking",
+            "unique_identifier": "8e7c8699-734b-4098-9c61-db8a9b9fa84a",
+            "formula": "*|qb7_custom_score|* / 3",
+            "result": "4"
+        },
+        {
+            "formula_order": 7,
+            "name": "Technology",
+            "unique_identifier": "2126e02f-b8e8-4a37-a62e-9e2565a59538",
+            "formula": "*|qb8_custom_score|* / 3",
+            "result": "4"
+        },
+        {
+            "formula_order": 8,
+            "name": "Equity & Inclusion",
+            "unique_identifier": "7ba446ea-25bf-4115-99ad-b8c7989ecc4b",
+            "formula": "*|qb9_custom_score|* / 3",
+            "result": "4"
+        },
+        {
+            "formula_order": 9,
+            "name": "Overall Career Readiness",
+            "unique_identifier": "008801c3-8841-4130-8002-f3aa204e9a61",
+            "formula": "(*|f1_result|* + *|f2_result|* + *|f3_result|*  + *|f4_result|* + *|f5_result|* + *|f6_result|* + *|f7_result|* + *|f8_result|*) / (8 - *|f13_result|*)",
+            "result": "4"
+        },
+        {
+            "formula_order": 10,
+            "name": "Social Capital",
+            "unique_identifier": "9b9f87b0-e532-4006-a162-7f0fdd306e33",
+            "formula": "(*|qb10_custom_score|* + *|f15_result|* + *|f17_result|*) / 6",
+            "result": "3.17"
+        },
+        {
+            "formula_order": 11,
+            "name": "Life Design",
+            "unique_identifier": "1459c568-eb02-4d08-954e-3784a00cf027",
+            "formula": "*|qb11_custom_score|* / 6",
+            "result": "3.83"
+        },
+        {
+            "formula_order": 12,
+            "name": "Career Mobility",
+            "unique_identifier": "561d9bee-1efc-4247-bd60-aa0de006b80e",
+            "formula": "(*|qb12_custom_score|* + *|f19_result|*) / 6",
+            "result": "2.22"
+        },
+        {
+            "formula_order": 13,
+            "name": "E&I Removal Adjustment",
+            "unique_identifier": "1d5eef5b-9a83-406a-99fa-3f98ed2f7597",
+            "formula": "0",
+            "result": "0"
+        },
+        {
+            "formula_order": 14,
+            "name": "Social Capital Q1 - Raw",
+            "unique_identifier": "af6123af-f7ed-4310-a711-268f70d83f66",
+            "formula": "0",
+            "result": "4"
+        },
+        {
+            "formula_order": 15,
+            "name": "Social Capital Q1 - Score",
+            "unique_identifier": "4b0228c6-ef3e-44e3-8ff7-020192b5e25b",
+            "formula": "*|f14_result|* / 2",
+            "result": "2"
+        },
+        {
+            "formula_order": 16,
+            "name": "Social Capital Q2 - Raw",
+            "unique_identifier": "4fd4419e-7a28-4067-abee-635206e4789c",
+            "formula": "0",
+            "result": "8"
+        },
+        {
+            "formula_order": 17,
+            "name": "Social Capital Q2 - Score",
+            "unique_identifier": "a067466e-1712-4924-a1d9-7c0916ae6ea8",
+            "formula": "*|f16_result|* / 2",
+            "result": "4"
+        },
+        {
+            "formula_order": 18,
+            "name": "Career Mobility Q1 - Raw",
+            "unique_identifier": "060de561-e41a-46d0-946d-f5e4ef80a512",
+            "formula": "0",
+            "result": "10"
+        },
+        {
+            "formula_order": 19,
+            "name": "Career Mobility Q1 - Score",
+            "unique_identifier": "cd3d70c6-6229-4d2f-b8d2-139acf789a2e",
+            "formula": "*|f18_result|* / 3",
+            "result": "3.33"
+        },
+        {
+            "formula_order": 20,
+            "name": "Pre-Inventory Flag",
+            "unique_identifier": "ed3604e3-6424-4ac8-bfcf-b1269e9d4218",
+            "formula": "0",
+            "result": "0"
+        },
+        {
+            "formula_order": 21,
+            "name": "Post-Inventory Flag",
+            "unique_identifier": "fe2c9d45-1c2b-4356-936f-fbb3208230aa",
+            "formula": "0",
+            "result": "0"
+        }
+    ]
+}

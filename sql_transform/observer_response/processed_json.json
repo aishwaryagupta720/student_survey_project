@@ -1,15 +1,15 @@
 {
-    "response_id": "cf13ee2e-1607-49f2-b441-6e75d31e2fbf",
-    "timestamp": "2024-09-10 09:00:04",
+    "response_id": "b770e333-17fa-489a-82cc-46e536f1acb5",
+    "timestamp": "2024-09-10 09:08:57",
     "email": "apgupta@scu.edu",
     "name": "A",
     "last_name": "PG",
     "respondent_id": "hxixc3hzd",
-    "pdf_url": "https://app.careerreadinessinventory.academy/reportr-download/63c14c03-92d1-4b00-9448-2ef21ef9cf04/cf13ee2e-1607-49f2-b441-6e75d31e2fbf?cached=true",
+    "pdf_url": "https://app.careerreadinessinventory.academy/reportr-download/63c14c03-92d1-4b00-9448-2ef21ef9cf04/b770e333-17fa-489a-82cc-46e536f1acb5?cached=true",
     "survey_id": "9e2c0e18-3d58-43e2-950c-91ffc7f137af",
     "survey_url": "evaluator-start",
     "survey_title": "NACE Career Readiness Inventory Evaluation",
-    "duration": 46,
+    "duration": 44,
     "org_type": "4yr-private",
     "student_first_name": "Axel",
     "studnet_last_name": "Test",
@@ -21,8 +21,8 @@
     "communication": [
         {
             "order": 5,
-            "score_value": 3.0,
-            "score_max": 4.0
+            "score_value": 0.0,
+            "score_max": 0.0
         },
         {
             "order": 6,
@@ -31,8 +31,8 @@
         },
         {
             "order": 7,
-            "score_value": 1.0,
-            "score_max": 4.0
+            "score_value": 0.0,
+            "score_max": 0.0
         },
         {
             "order": 8,
@@ -48,29 +48,29 @@
         },
         {
             "order": 11,
-            "score_value": 2.0,
+            "score_value": 3.0,
             "score_max": 4.0
         },
         {
             "order": 12,
-            "score_value": 2.0,
+            "score_value": 4.0,
             "score_max": 4.0
         }
     ],
     "self_development": [
         {
             "order": 14,
-            "score_value": 2.0,
+            "score_value": 3.0,
             "score_max": 4.0
         },
         {
             "order": 15,
-            "score_value": 2.0,
+            "score_value": 4.0,
             "score_max": 4.0
         },
         {
             "order": 16,
-            "score_value": 3.0,
+            "score_value": 2.0,
             "score_max": 4.0
         }
     ],
@@ -82,12 +82,12 @@
         },
         {
             "order": 19,
-            "score_value": 1.0,
+            "score_value": 3.0,
             "score_max": 4.0
         },
         {
             "order": 20,
-            "score_value": 2.0,
+            "score_value": 4.0,
             "score_max": 4.0
         }
     ],
@@ -99,12 +99,12 @@
         },
         {
             "order": 23,
-            "score_value": 2.0,
+            "score_value": 1.0,
             "score_max": 4.0
         },
         {
             "order": 24,
-            "score_value": 1.0,
+            "score_value": 2.0,
             "score_max": 4.0
         }
     ],
@@ -116,36 +116,36 @@
         },
         {
             "order": 27,
-            "score_value": 3.0,
+            "score_value": 2.0,
             "score_max": 4.0
         },
         {
             "order": 28,
-            "score_value": 2.0,
+            "score_value": 1.0,
             "score_max": 4.0
         }
     ],
     "technology": [
         {
             "order": 30,
-            "score_value": 1.0,
+            "score_value": 2.0,
             "score_max": 4.0
         },
         {
             "order": 31,
-            "score_value": 1.0,
+            "score_value": 4.0,
             "score_max": 4.0
         },
         {
             "order": 32,
-            "score_value": 4.0,
+            "score_value": 3.0,
             "score_max": 4.0
         }
     ],
     "equity": [
         {
             "order": 34,
-            "score_value": 1.0,
+            "score_value": 2.0,
             "score_max": 4.0
         },
         {
@@ -155,7 +155,7 @@
         },
         {
             "order": 36,
-            "score_value": 2.0,
+            "score_value": 3.0,
             "score_max": 4.0
         }
     ],
@@ -164,10 +164,12 @@
             "order": 37,
             "question": "Describe your relationship to the student",
             "responses": [],
-            "response": "Select here:",
+            "response": "5- Staff",
             "score_value": 0.0,
             "score_max": 0.0
-        },
+        }
+    ],
+    "hire_preference": [
         {
             "order": 38,
             "score_value": 0.0,
@@ -175,28 +177,27 @@
         }
     ],
     "communication_results": {
-        "score_value": 4.0,
-        "score_max": 8.0,
-        "score_quiz_as_percentage": 0.5,
-        "result": 2.0
+        "score_value": 0.0,
+        "score_max": 0.0,
+        "score_quiz_as_percentage": 0.0
     },
     "teamwork_results": {
-        "score_value": 6.0,
+        "score_value": 9.0,
         "score_max": 12.0,
-        "score_quiz_as_percentage": 0.5,
-        "result": 2.0
+        "score_quiz_as_percentage": 0.75,
+        "result": 3.0
     },
     "self_development_results": {
-        "score_value": 7.0,
+        "score_value": 9.0,
         "score_max": 12.0,
-        "score_quiz_as_percentage": 0.5832999999999999,
-        "result": 2.33
+        "score_quiz_as_percentage": 0.75,
+        "result": 3.0
     },
     "professionalism_results": {
-        "score_value": 5.0,
+        "score_value": 9.0,
         "score_max": 12.0,
-        "score_quiz_as_percentage": 0.4167,
-        "result": 1.67
+        "score_quiz_as_percentage": 0.75,
+        "result": 3.0
     },
     "leadership_results": {
         "score_value": 5.0,
@@ -205,24 +206,24 @@
         "result": 1.67
     },
     "critical_thinking_results": {
-        "score_value": 7.0,
+        "score_value": 5.0,
         "score_max": 12.0,
-        "score_quiz_as_percentage": 0.5832999999999999,
-        "result": 2.33
+        "score_quiz_as_percentage": 0.4167,
+        "result": 1.67
     },
     "technology_results": {
-        "score_value": 6.0,
+        "score_value": 9.0,
         "score_max": 12.0,
-        "score_quiz_as_percentage": 0.5,
-        "result": 2.0
+        "score_quiz_as_percentage": 0.75,
+        "result": 3.0
     },
     "equity_results": {
-        "score_value": 6.0,
+        "score_value": 8.0,
         "score_max": 12.0,
-        "score_quiz_as_percentage": 0.5,
-        "result": 2.0
+        "score_quiz_as_percentage": 0.6667000000000001,
+        "result": 2.67
     },
     "overall_career_readiness_results": {
-        "result": 2.0
+        "result": 2.57
     }
 }
